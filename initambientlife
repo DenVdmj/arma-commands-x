@@ -1,0 +1,7 @@
+initAmbientLife 
+Game: Armed Assault (1.00) 
+Description: Initialize the ambient life.  
+Syntax:  
+ initAmbientLife 
+Return Value: 
+ Nothing

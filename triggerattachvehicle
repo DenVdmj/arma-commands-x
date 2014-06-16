@@ -1,0 +1,16 @@
+triggerAttachVehicle 
+Game: Armed Assault (1.00) 
+Description: Specifies the entity which will activate the selected trigger. 
+If [] is given, the trigger is decoupled from the assigned vehicle 
+ (example 2).If the activation source is "VEHICLE", "GROUP", "LEADER 
+" or "MEMBER", it's changed to "NONE". If [vehicle] is given, the trigger 
+ is coupled to the vehicle or its group. When the source is "GROUP 
+", "LEADER" or "MEMBER", it's coupled to the group, otherwise it's coupled 
+ to the vehicle and the source is changed to "VEHICLE".  
+Syntax:  
+ triggerName triggerAttachVehicle [] or [vehicle] 
+Parameters: 
+triggerName: Object 
+[] or [vehicle]: Array 
+Return Value: 
+ Nothing

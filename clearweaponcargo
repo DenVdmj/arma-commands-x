@@ -1,0 +1,10 @@
+clearWeaponCargo 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Remove all weapons from the given vehicle's weapon cargo space.  
+Syntax:  
+ clearWeaponCargo vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+hcSelectGroup 
+Game: ARMA 2  (1.00) 
+Description: Select given group in HC bar.  
+Syntax:  
+ unit hcSelectGroup array 
+Parameters: 
+unit: Object - 
+array: Array - 
+Return Value: 
+ Nothing

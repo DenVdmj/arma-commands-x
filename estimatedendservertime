@@ -1,0 +1,7 @@
+estimatedEndServerTime 
+Game: ARMA 2  (1.00) 
+Description: Estimated end of MP game converted to serverTime.  
+Syntax:  
+ estimatedEndServerTime 
+Return Value: 
+ Number

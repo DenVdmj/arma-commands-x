@@ -1,0 +1,9 @@
+deleteMarkerLocal 
+Game: Armed Assault (1.04) 
+Description: Destroys the given marker.  
+Syntax:  
+ deleteMarkerLocal markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+precision 
+Game: Armed Assault (1.00) 
+Description: Return the precision of the given entity.  
+Syntax:  
+ Number = precision entity 
+Parameters: 
+entity: Object 
+Return Value: 
+ Number

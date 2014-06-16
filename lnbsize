@@ -1,0 +1,9 @@
+lnbSize 
+Game: ARMA 2  (1.00) 
+Description: Returns size of 2D listbox as [rows, columns].  
+Syntax:  
+ lnbSize idc 
+Parameters: 
+idc: Number - 
+Return Value: 
+ [rows, columns]: Array

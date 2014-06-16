@@ -1,0 +1,9 @@
+clearMagazinePool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Remove all magazines from the magazine pool, of which the player 
+ may choose in the following missions. Available in campaigns only 
+.  
+Syntax:  
+ clearMagazinePool 
+Return Value: 
+ Nothing

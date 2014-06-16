@@ -1,0 +1,14 @@
+mapAnimAdd 
+Behavior: local 
+Game: Operation Flashpoint (1.27) 
+Description: Add next frame to map animation. Format of frame is [time, zoom, position 
+], format of position is Position2D.  
+Syntax:  
+ mapAnimAdd [time, zoom, position] 
+Parameters: 
+[time, zoom, position]: Array 
+time: Number 
+zoom: Number 
+position: Array - format Position2D 
+Return Value: 
+ Nothing

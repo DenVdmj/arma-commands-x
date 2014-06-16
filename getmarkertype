@@ -1,0 +1,12 @@
+getMarkerType 
+Behavior: local 
+Game: Operation Flashpoint (1.21) 
+Description: Returns the type of a given marker. See cfgMarkers for a list of standard 
+ markers.  
+Syntax:  
+String =  getMarkerType markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ String. See cfgMarkers. 
+If the marker does not exist, the returned type is an empty string, ie ""

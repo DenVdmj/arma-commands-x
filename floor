@@ -1,0 +1,9 @@
+floor 
+Game: Armed Assault (1.00) 
+Description: Returns the next lowest integer in relation to x.  
+Syntax:  
+ Number = floor x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

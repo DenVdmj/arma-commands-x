@@ -1,0 +1,13 @@
+playActionNow 
+Game: ARMA 2  (1.00) 
+Description: When used on a person, a smooth transition to the given action will 
+ be initiated, but all previous playAction are discarded. Unlike 
+ playAction, playActionNow is automatically executed on all clients 
+.  
+Syntax:  
+ soldier playActionNow action 
+Parameters: 
+soldier: Object - 
+action: String - 
+Return Value: 
+ Nothing

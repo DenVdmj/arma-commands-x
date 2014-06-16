@@ -1,0 +1,10 @@
+setCurrentTask 
+Game: ARMA 2  (1.00) 
+Description: Set the task as a current task of the person.  
+Syntax:  
+ Object setCurrentTask Task 
+Parameters: 
+Object: the unit having the task 
+Task: the task you want to select 
+Return Value: 
+ Nothing

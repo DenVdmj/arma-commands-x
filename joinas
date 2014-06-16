@@ -1,0 +1,13 @@
+joinAs 
+Game: ARMA 2  (1.00) 
+Description: Joins the unit to the given group, if position id is available, this 
+ one is used.   
+Syntax:  
+ unit joinAs [group, id] 
+Parameters: 
+unit: Object 
+[group, id]: Array 
+group: Group 
+id: Number 
+Return Value: 
+ Nothing

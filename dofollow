@@ -1,0 +1,12 @@
+doFollow 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to follow the given other unit or vehicle 
+ eg (without radio messages).  
+Syntax:  
+ unitName doFollow unitName2 
+Parameters: 
+unitName: Object or Array 
+unitName2: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+setWaypointDescription 
+Game: Armed Assault (1.00) 
+Description: Sets the description shown in the HUD while the waypoint is active 
+.  
+Syntax:  
+ waypoint setWaypointDescription text 
+Parameters: 
+waypoint: Array - format Waypoint 
+text: String 
+Return Value: 
+ Nothing

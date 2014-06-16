@@ -1,0 +1,9 @@
+closeOverlay 
+Game: ARMA 2  (1.00) 
+Description: Closes the current overlay without committing.  
+Syntax:  
+ closeOverlay map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

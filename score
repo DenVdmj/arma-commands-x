@@ -1,0 +1,9 @@
+score 
+Game: Operation Flashpoint (1.00) 
+Description: MP: Returns the person's score.  
+Syntax:  
+ Number =  score unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Number

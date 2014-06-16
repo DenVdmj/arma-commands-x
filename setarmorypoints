@@ -1,0 +1,9 @@
+setArmoryPoints 
+Game: ARMA 2  (1.00) 
+Description: Store the given amount of armory points.   
+Syntax:  
+ setArmoryPoints points 
+Parameters: 
+points: Number (Integer) 
+Return Value: 
+ Nothing

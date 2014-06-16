@@ -1,0 +1,11 @@
+nearObjectsReady 
+Game: ARMA 2  (1.00) 
+Description: Check whether all data are loaded to nearObjects will return in reasonable 
+ time.  
+Syntax:  
+ position nearObjectsReady radius 
+Parameters: 
+position: Object or Array - 
+radius: Number - 
+Return Value: 
+ Boolean

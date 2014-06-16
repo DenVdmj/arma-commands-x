@@ -1,0 +1,10 @@
+getObjectChildren 
+Game: ARMA 2  (1.00) 
+Description: Return a list of all the children of the specified object.  
+Syntax:  
+ map getObjectChildren object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ Array

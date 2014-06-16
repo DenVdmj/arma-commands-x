@@ -1,0 +1,13 @@
+setCombatMode 
+Game: Operation Flashpoint (1.00) 
+Description: Set group combat mode (engagement rules).Mode may be one of:  "BLUE 
+" (Never fire) "GREEN" (Hold fire - defend only) "WHITE" (Hold fire 
+, engage at will) "YELLOW" (Fire at will) "RED" (Fire at will, engage 
+ at will) 
+Syntax:  
+ groupName setCombatMode mode 
+Parameters: 
+groupName: Object or Group 
+mode: String 
+Return Value: 
+ Nothing

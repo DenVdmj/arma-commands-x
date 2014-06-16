@@ -1,0 +1,9 @@
+civilian 
+Game: Operation Flashpoint (1.00) 
+Description: Pre-defined variable for the civilian side. 
+When used in a format statement (hint format["%1",civilian]), the string 
+ returned is "CIV".  
+Syntax:  
+ Side = civilian 
+Return Value: 
+ Side

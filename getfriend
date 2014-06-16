@@ -1,0 +1,11 @@
+getFriend 
+Game: ARMA 2  (1.00) 
+Description: Returns if sides are friendly or hostile. For a value smaller than 
+ 0.6 it results in being enemy, otherwise it's friendly.   
+Syntax:  
+ side1 getFriend side2 
+Parameters: 
+side1: Side 
+side2: Side 
+Return Value: 
+ Number: Decimal value between 0.0 to 1.0

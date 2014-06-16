@@ -1,0 +1,12 @@
+say2D 
+Game: ARMA 2  (1.00) 
+Description: Command description.  
+Syntax:  
+unit say2D speechName[unit, target] say2D speechName 
+ 
+Parameters: 
+unit: object - 
+target: object 
+speechName: dataType 
+Return Value: 
+ returnValue

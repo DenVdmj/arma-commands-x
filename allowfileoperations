@@ -1,0 +1,10 @@
+allowFileOperations 
+Game: ARMA 2  (1.00) 
+Description: Allow/dissallow file ops (load/save etc).  
+Syntax:  
+ map allowFileOperations bool 
+Parameters: 
+map: Control - 
+bool: Boolean - 
+Return Value: 
+ Nothing

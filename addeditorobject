@@ -1,0 +1,12 @@
+addEditorObject 
+Game: ARMA 2  (1.00) 
+Description: Add an object to the editor and assign arguments. Create script is,called 
+ with _new equal to true. Returns the ID of the new EditorObject 
+.,Subtype class is optional.   
+Syntax:  
+ map addEditorObject [type,[name1,value1,...],subtype class] 
+Parameters: 
+map: Control - 
+[name1,value1,...],subtype class]: Array - 
+Return Value: 
+ String

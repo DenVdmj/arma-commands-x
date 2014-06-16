@@ -1,0 +1,9 @@
+canUnloadInCombat 
+Game: ARMA 2  (1.00) 
+Description: Check if cargo of this vehicle want to get out when in combat.  
+Syntax:  
+ canUnloadInCombat vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Boolean

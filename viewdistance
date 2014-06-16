@@ -1,0 +1,7 @@
+viewDistance 
+Game: ARMA 2  (1.00) 
+Description: Returns the rendering distance.  
+Syntax:  
+ viewDistance 
+Return Value: 
+ Number

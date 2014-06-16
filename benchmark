@@ -1,0 +1,10 @@
+benchmark 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the value of "3D Performance" in OFP Preferences (flashpoint 
+.cfg). This can be used to estimate the computer performance to adapt 
+ CPU and GPU demanding settings like view distance dynamically in missions 
+.  
+Syntax:  
+ Number = benchmark 
+Return Value: 
+ Number

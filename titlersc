@@ -1,0 +1,14 @@
+titleRsc 
+Game: Operation Flashpoint (1.00) 
+Description: Resource title - Resource can be defined in Description.ext Also 
+ see cutRsc, with these two commands you can show two different resources 
+ at once.  
+Syntax:  
+ titleRsc [text, type, speed] 
+Parameters: 
+[text, type, speed]: Array 
+text: String - the class name of the resource. ("Default" will remove the current resource.) 
+type: String - one of "PLAIN", "PLAIN DOWN", "BLACK", "BLACK FADED", "BLACK OUT", "BLACK IN", "WHITE OUT" and "WHITE IN". See Title Effect Type for more information about these values. 
+speed: Number - optional, default 1 
+Return Value: 
+ Nothing

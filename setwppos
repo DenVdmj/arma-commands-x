@@ -1,0 +1,10 @@
+setWPPos 
+Game: Operation Flashpoint (1.21) 
+Description: Set waypoint position  
+Syntax:  
+ waypoint setWPPos pos 
+Parameters: 
+waypoint: Array - format Waypoint 
+pos: Array - format Position2D 
+Return Value: 
+ Nothing

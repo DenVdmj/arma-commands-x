@@ -1,0 +1,10 @@
+setGroupIcon 
+Game: ARMA 2  (1.00) 
+Description: Set group icons properties.  
+Syntax:  
+ group setGroupIcon properties 
+Parameters: 
+group: Group - 
+properties: Array - 
+Return Value: 
+ Nothing

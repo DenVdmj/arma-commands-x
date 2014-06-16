@@ -1,0 +1,11 @@
+rankId 
+Game: ARMA 2  (1.00) 
+Description: Return the rank of the given unit for comparison. 
+Value may be&#160;:0 - Private1 - Corporal2 - Sergeant3 - Lieutenant4 
+ - Captain5 - Major6 - Colonel  
+Syntax:  
+ rankId unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ Number

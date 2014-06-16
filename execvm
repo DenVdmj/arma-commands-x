@@ -1,0 +1,15 @@
+execVM 
+Game: Armed Assault (1.00) 
+Description: Compile and execute SQF Script. 
+The optional argument is passed to the script as local variable _this 
+. 
+Script is compiled every time you use this command. 
+The Script is first searched for in the mission folder, then in the campaign 
+ scripts folder and finally in the global scripts folder.  
+Syntax:  
+ Script = argument execVM filename 
+Parameters: 
+argument: Any Value(s) 
+filename: String 
+Return Value: 
+ Script - script handle, which can be used to determine (via scriptDone) when the called script has finished.

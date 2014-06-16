@@ -1,0 +1,9 @@
+isText 
+Game: Armed Assault (1.00) 
+Description: Check if config entry represents text.   
+Syntax:  
+ Boolean = isText config 
+Parameters: 
+config: Config 
+Return Value: 
+ Boolean

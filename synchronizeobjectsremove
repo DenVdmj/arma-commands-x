@@ -1,0 +1,11 @@
+synchronizeObjectsRemove 
+Game: ARMA 2  (1.00) 
+Description: Remove given objects from the unit's list of synchronized objects 
+.  
+Syntax:  
+ unit synchronizeObjectsRemove [objects] 
+Parameters: 
+unit: Object - 
+[objects]: Array - 
+Return Value: 
+ Nothing

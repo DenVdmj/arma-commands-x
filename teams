@@ -1,0 +1,7 @@
+teams 
+Game: ARMA 2  (1.00) 
+Description: Return a list of teams in the current mission.  
+Syntax:  
+ teams 
+Return Value: 
+ Array

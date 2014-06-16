@@ -1,0 +1,9 @@
+ctrlMapMouseOver 
+Game: ARMA 2  (1.00) 
+Description: Returns description of map sign mouse cursor is over.  
+Syntax:  
+ ctrlMapMouseOver control 
+Parameters: 
+control: Control - 
+Return Value: 
+ Array

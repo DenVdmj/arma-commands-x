@@ -1,0 +1,11 @@
+lbClear 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Clear all items in listbox or combobox with id idc of topmost user 
+ dialog.  
+Syntax:  
+ lbClear idc 
+Parameters: 
+idc: Number 
+Return Value: 
+ Nothing

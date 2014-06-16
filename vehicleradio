@@ -1,0 +1,12 @@
+vehicleRadio 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Send message to vehicle radio channel. Message is defined in description 
+.ext.  
+Syntax:  
+  vehicleName vehicleRadio name 
+Parameters: 
+vehicleName: Object 
+name: String 
+Return Value: 
+ Nothing

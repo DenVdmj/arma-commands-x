@@ -1,0 +1,11 @@
+scudState 
+Game: Operation Flashpoint (1.30) 
+Description: Current state of given Scud launcher. Following states are recognized 
+: 0 - No activity  1 - Launch preparation, 2 - Launch prepared3 - Ignition 
+  4 - Launched. 
+Syntax:  
+ Number =  scudState scudName 
+Parameters: 
+scudName: Object 
+Return Value: 
+ Number

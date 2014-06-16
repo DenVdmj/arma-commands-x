@@ -1,0 +1,8 @@
+allowDammage 
+Game: Operation Flashpoint (1.00) 
+Description: This is an obsolete command in OFP and does nothing.  However, working 
+ versions are available for both VBS2 (see allowDammage for VBS2 
+) and ArmA2 (see allowDamage). 
+ 
+ 
+Syntax:

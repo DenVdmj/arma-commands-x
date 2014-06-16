@@ -1,0 +1,10 @@
+echo 
+Game: Armed Assault (1.00) 
+Description: Sends any text into the debugger console or the logfile. Present 
+ in internal version only, not working in the retail version.  
+Syntax:  
+ echo text 
+Parameters: 
+text: String 
+Return Value: 
+ Nothing

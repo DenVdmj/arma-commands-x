@@ -1,0 +1,10 @@
+unregisterTask 
+Game: ARMA 2  (1.00) 
+Description: Unregister a task type.  
+Syntax:  
+ teamMember unregisterTask name 
+Parameters: 
+teamMember: Team Member 
+name: String 
+Return Value: 
+ Boolean

@@ -1,0 +1,11 @@
+newOverlay 
+Game: ARMA 2  (1.00) 
+Description: Creates the new overlay dialog for the specified type of overlay 
+.  
+Syntax:  
+ map newOverlay config 
+Parameters: 
+map: Control - 
+config: Config - 
+Return Value: 
+ Nothing

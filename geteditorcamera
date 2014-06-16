@@ -1,0 +1,9 @@
+getEditorCamera 
+Game: ARMA 2  (1.00) 
+Description: Fetches a reference to the mission editor camera.  
+Syntax:  
+ getEditorCamera map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Object

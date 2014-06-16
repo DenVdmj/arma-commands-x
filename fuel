@@ -1,0 +1,10 @@
+fuel 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Checks how much fuel is left in the gas tank of a vehicle.  
+Syntax:  
+ Number = fuel vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Number -  The returned number is in range 0 (empty tank) to 1 (full tank).

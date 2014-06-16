@@ -1,0 +1,13 @@
+isNil 
+Game: Armed Assault (1.00) 
+Description: Tests whether the variable defined by the String argument is undefined 
+, or whether an expression result passed as Code is undefined. The function 
+ returns true if the variable is undefined or the expression result 
+ undefined (i.e. the expression result is Void), and false in all other 
+ cases.  
+Syntax:  
+ Boolean = isnil variable 
+Parameters: 
+variable: String or Code 
+Return Value: 
+ Boolean

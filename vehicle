@@ -1,0 +1,10 @@
+vehicle 
+Game: Operation Flashpoint (1.00) 
+Description: Vehicle in which given unit is mounted. If none, unit is returned 
+.  
+Syntax:  
+ Object = vehicle unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Object

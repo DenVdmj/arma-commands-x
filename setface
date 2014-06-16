@@ -1,0 +1,12 @@
+setFace 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Set person's face. For a list of available faces, check Category 
+:CfgIdentities.  
+Syntax:  
+ person setFace face 
+Parameters: 
+person: Object 
+face: String 
+Return Value: 
+ Nothing

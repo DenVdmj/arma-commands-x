@@ -1,0 +1,13 @@
+sideChat 
+Game: Operation Flashpoint (1.34) 
+Description: Types text to the side radio channel. Note: This function only types 
+ text to the list, it does not broadcast the message. If you want 
+ the message to show on all computers, you have to execute it on all of them 
+.  
+Syntax:  
+ unitName sideChat chatText 
+Parameters: 
+unitName: Object 
+chatText: String 
+Return Value: 
+ Nothing

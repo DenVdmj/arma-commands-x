@@ -1,0 +1,10 @@
+sliderSpeed 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Return speed, as an Array [min, max] of slider idc of topmost user 
+ dialog.  
+Syntax:  
+ sliderSpeed idc 
+Parameters: 
+idc: Number of control 
+Return Value: 
+ Array: [min, max]

@@ -1,0 +1,11 @@
+lnbText 
+Game: ARMA 2  (1.00) 
+Description: Returns the shown text in the item with the given position of the given 
+ 2D listbox.  
+Syntax:  
+ control lnbText [row,column] 
+Parameters: 
+control: Control - 
+[row,column]: Array - 
+Return Value: 
+ String

@@ -1,0 +1,10 @@
+modelToWorld 
+Game: Armed Assault (1.00) 
+Description: Converts position from object model space to world space.  
+Syntax:  
+ Array = object modelToWorld modelPos 
+Parameters: 
+object: Object 
+modelPos: Array 
+Return Value: 
+ Array

@@ -1,0 +1,13 @@
+attachTo 
+Game: ARMA 2  (1.00) 
+Description: Attaches an object to another object. The offset is applied to the object 
+ center unless a memory point is provided.  
+Syntax:  
+Object attachTo [TObject, Offset, MemPoint] 
+Parameters: 
+Object: Object or player 
+TObject: Object or player 
+Offset: Array - format Position - (optional) 
+MemPoint: String - (optional), see ArmA: Selection Translations for czech selections names 
+Return Value: 
+Nothing

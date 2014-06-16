@@ -1,0 +1,12 @@
+setFlagSide 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set flag side. A flag may be taken by any unit that is enemy to the side 
+ that owns the flag.  
+Syntax:  
+ flag setFlagSide side 
+Parameters: 
+flag: Object 
+side: Side 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+camPreload 
+Game: Armed Assault (1.00) 
+Description: Preload the scene for the prepared camera. Time gives timeout, zero 
+ means no (infinite) timeout.  
+Syntax:  
+ camera camPreload time 
+Parameters: 
+camera: Object 
+time: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+expectedDestination 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Return expected destination of unit as an array with format: [ Position 
+, planningMode, forceReplan].  
+Syntax:  
+ Array = expectedDestination person 
+Parameters: 
+person: Object 
+Return Value: 
+ Array

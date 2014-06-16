@@ -1,0 +1,12 @@
+fadeSpeech 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Cause a smooth change in the master speech volume. The change duration 
+ is given by time, the target volume by volume. The default master 
+ is 1.0.  
+Syntax:  
+ time fadeSpeech volume 
+Parameters: 
+time: Number 
+volume: Number 
+Return Value: 
+ Nothing

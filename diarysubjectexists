@@ -1,0 +1,11 @@
+diarySubjectExists 
+Game: ARMA 2  (1.00) 
+Description: Checks whether given subject is present in the diary of given person 
+.  
+Syntax:  
+ person diarySubjectExists name 
+Parameters: 
+person: Object - 
+name: String - 
+Return Value: 
+ Boolean

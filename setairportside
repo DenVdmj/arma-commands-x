@@ -1,0 +1,11 @@
+setAirportSide 
+Game: Armed Assault (1.08) 
+Description: Set owning side of the airport. ID is the number to identify which 
+ airport on the island you want to check.  
+Syntax:  
+ id setAirportSide side 
+Parameters: 
+id: Number 
+side: Side 
+Return Value: 
+ Nothing

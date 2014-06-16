@@ -1,0 +1,9 @@
+with 
+Game: ARMA 2  (1.00) 
+Description: Execute the code inside the given namespace.  
+Syntax:  
+ with NameSpace do {...}; 
+Parameters: 
+Namespace: Namespace 
+Return Value: 
+ Anything

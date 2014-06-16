@@ -1,0 +1,14 @@
+vectorDir 
+Game: Armed Assault (1.00) 
+Description: Return object's direction vector in world Position coordinates ([x, z, y]).  
+A unit facing North would return [0,1,0]A unit facing East would 
+ return [1,0,0]A unit facing South would return [0,-1,0]A unit facing 
+ West would return [-1,0,0] 
+ 
+ 
+Syntax:  
+ Array = vectorDir objectName 
+Parameters: 
+objectName: Object 
+Return Value: 
+ Array - format Position

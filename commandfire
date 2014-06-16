@@ -1,0 +1,13 @@
+commandFire 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit to fire on the given target (via the radio).If the target 
+ is objNull, the unit is ordered to fire on its current target (set with 
+ doTarget or commandTarget).  
+Syntax:  
+ unitName commandFire target 
+Parameters: 
+unitName: Object or Array 
+target: Object 
+Return Value: 
+ Nothing

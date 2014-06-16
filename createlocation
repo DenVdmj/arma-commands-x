@@ -1,0 +1,14 @@
+createLocation 
+Game: Armed Assault (1.08) 
+Description: Creates a location of the specified class and dimensions at the specified 
+ position. Classes are defined in CfgLocationTypes.  
+Syntax:  
+ Location = createLocation [className, position, sizeX, sizeY] 
+Parameters: 
+[className, position, sizeX, sizeY]: Array 
+className: String 
+position: Position 
+sizeX: Number in meters 
+sizeY: Number in meters 
+Return Value: 
+ Location

@@ -1,0 +1,9 @@
+getWeaponCargo 
+Game: ArmA 2: Operation Arrowhead (1.54) 
+Description: Returns all weapons types and count from the cargo space  
+Syntax:  
+ result = getWeaponCargo object 
+Parameters: 
+object: Object - object to check 
+Return Value: 
+ Array

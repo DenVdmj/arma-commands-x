@@ -1,0 +1,9 @@
+isWalking 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns true if walk is toggled.  
+Syntax:  
+ isWalking unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean

@@ -1,0 +1,8 @@
+sideEnemy 
+Game: Operation Flashpoint: Resistance (1.78) 
+Description: The Enemy side (used for renegades). Unit of this side is enemy to everyone 
+. To become one, you can attack members of your own side.  
+Syntax:  
+ Side = sideEnemy 
+Return Value: 
+ Side

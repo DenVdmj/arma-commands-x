@@ -1,0 +1,11 @@
+leader 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the group leader for the given unit or group. For dead units 
+, objNull is returned.   
+Syntax:  
+ Object = leader unitName 
+Parameters: 
+unitName: Object or Group 
+Return Value: 
+ Object

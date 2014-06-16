@@ -1,0 +1,7 @@
+shownCompass 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has compass enabled.  
+Syntax:  
+ Boolean = shownCompass 
+Return Value: 
+ Boolean

@@ -1,0 +1,10 @@
+ctrlMapAnimCommit 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Plays the map animation.  
+Syntax:  
+ ctrlMapAnimCommit controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Nothing

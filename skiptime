@@ -1,0 +1,15 @@
+skipTime 
+Game: Operation Flashpoint (1.00) 
+Description: Jumps the specified number of hours forward or backward. 
+The time of day and tides are adjusted, but no changes are made to any units 
+. If present, the lower level of clouds instantly jump to the position 
+ they would be in if time had passed normally. 
+Syntax:  
+ skipTime duration 
+Parameters: 
+duration: Number - Hours to skip. 
+A positive value will create a forward time jump, a negative value will jump backwards. 
+One second is roughly 0.00026 hours. 
+Any calculations must be enclosed in parentheses, e.g. skipTime (_seconds/3600) 
+Return Value: 
+ Nothing

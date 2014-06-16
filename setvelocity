@@ -1,0 +1,12 @@
+setVelocity 
+Behavior: local 
+Game: Operation Flashpoint: Resistance (1.8) 
+Description: Set velocity (speed vector) of a vehicle.   Units are in metres per second 
+.  
+Syntax:  
+ vehicleName setVelocity [x, z, y] 
+Parameters: 
+vehicleName: Object 
+[x, z, y]: Array 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+getMarkerColor 
+Behavior: local 
+Game: Operation Flashpoint (1.21) 
+Description: Returns the color of a given map marker.  
+Syntax:  
+ String = getMarkerColor markerName 
+Parameters: 
+markerName: String - marker name 
+Return Value: 
+ String -  The returned color is one of "Default", "ColorBlack", "ColorRed", "ColorRedAlpha", "ColorGreen", "ColorGreenAlpha", "ColorBlue", "ColorYellow" and "ColorWhite"

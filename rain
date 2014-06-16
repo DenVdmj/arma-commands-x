@@ -1,0 +1,7 @@
+rain 
+Game: Armed Assault (1.00) 
+Description: Return the current rain density.  
+Syntax:  
+ Number = rain 
+Return Value: 
+ Number

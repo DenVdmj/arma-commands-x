@@ -1,0 +1,13 @@
+nearestLocation 
+Game: Armed Assault (1.08) 
+Description: Return the closest location of specified class to a given position 
+. 
+Checked range is unlimited (i.e. covers the whole map).  
+Syntax:  
+ Location = nearestLocation [position, locationClass] 
+Parameters: 
+[position, locationClass]: Array 
+position: Array 
+locationClass: String of a location class name. 
+Return Value: 
+ Location

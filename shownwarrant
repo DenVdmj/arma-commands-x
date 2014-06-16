@@ -1,0 +1,7 @@
+shownWarrant 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has ID card enabled. Obsolete command.  
+Syntax:  
+ Boolean = shownWarrant 
+Return Value: 
+ Boolean

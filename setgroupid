@@ -1,0 +1,11 @@
+setGroupId 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Set a group's identity.  
+Syntax:  
+ group setGroupId [nameFomat, nameParam1,...] 
+Parameters: 
+group: Object or Group 
+[nameFomat, nameParam1...]: Array of strings. 
+Return Value: 
+ Nothing

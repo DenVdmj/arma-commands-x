@@ -1,0 +1,10 @@
+ppEffectAdjust 
+Game: ARMA 2  (1.00) 
+Description: Set post process effect parameters  
+Syntax:  
+ effect ppEffectAdjust settings 
+Parameters: 
+effect: String or Number - where string is effect name or number is ppEffect handle. 
+settings: Array 
+Return Value: 
+ Nothing

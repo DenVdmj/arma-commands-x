@@ -1,0 +1,11 @@
+enableSaving 
+Game: ARMA 2  (1.00) 
+Description: Enable / disable saving of the game. 
+When disabled, the autosave is created (if not forbidden by save 
+ == false).  
+Syntax:  
+ enableSaving enable 
+Parameters: 
+enable: Boolean - 
+Return Value: 
+ Nothing

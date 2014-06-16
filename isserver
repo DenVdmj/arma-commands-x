@@ -1,0 +1,8 @@
+isServer 
+Game: Armed Assault (1.06) 
+Description: Returns true if the machine is either a server in a multiplayer game 
+ or if it is running a singleplayer game.  
+Syntax:  
+ Boolean = isServer 
+Return Value: 
+ Boolean

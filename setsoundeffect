@@ -1,0 +1,14 @@
+setSoundEffect 
+Game: Armed Assault (1.00) 
+Description: Defines the different sound effects. 
+Sound / voice plays a 2D / 3D sound from CfgSounds. 
+SoundEnv plays an enviromental sound from CfgEnvSounds. 
+SoundDet (only for triggers) creates a dynamic sound object attached 
+ to a trigger defined in CfgSFX.  
+Syntax:  
+ trigger setSoundEffect [sound, voice, soundEnv, soundDet] 
+Parameters: 
+trigger: Object 
+[sound, voice, soundEnv, soundDet]: Array of strings 
+Return Value: 
+ Nothing

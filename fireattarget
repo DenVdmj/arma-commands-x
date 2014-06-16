@@ -1,0 +1,11 @@
+fireAtTarget 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Remotely forces a unit to fire the given weapon.  
+Syntax:  
+ Script = sourceVehicle fireAtTarget [targetVehicle,weaponClassName] 
+Parameters: 
+sourceVehicle: Object - source vehicle to fire from 
+targetVehicle: Object - target vehicle to fire at 
+WeaponClassName: String - weapon classname, optional parameter 
+Return Value: 
+ Script - script handle, which can be used to determine (via scriptDone) when the called script has finished.

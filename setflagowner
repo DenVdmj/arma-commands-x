@@ -1,0 +1,13 @@
+setFlagOwner 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Set flag owner. When owner is set to objNull or any object other 
+ than a unit of class man or logic, flag is returned to the flagpole 
+. A flag owned by a logic has no visual representation. 
+Syntax:  
+ flag setFlagOwner owner 
+Parameters: 
+flag: Object 
+owner: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,21 @@
+titleText 
+Game: Operation Flashpoint (1.00) 
+Description: Displays text across the screen. 
+If used along with cutText two different texts (in different type 
+ styles) can be shown at once.  
+Syntax:  
+ titleText [text, type, speed] 
+Parameters: 
+text: String 
+type: String- Possible Title Effect Types: 
+• "PLAIN" 
+• "PLAIN DOWN" 
+• "BLACK" 
+• "BLACK FADED" 
+• "BLACK OUT" 
+• "BLACK IN" 
+• "WHITE OUT" 
+• "WHITE IN" 
+speed: Number - optional, default 1 
+Return Value: 
+ Nothing

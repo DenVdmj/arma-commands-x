@@ -1,0 +1,12 @@
+animationPhase 
+Behavior: global 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Return the phase of the given animation on the given object, which 
+ is set by the animate command.  
+Syntax:  
+ Number = object animationPhase animationName 
+Parameters: 
+object: Object - building eg 
+animationName: String - name of the animation. This is the class-name of the animation defined in the addon's config.cpp. 
+Return Value: 
+ Number -  Integer of range 0 (start point of the animation) to 1 (end point of the animation).

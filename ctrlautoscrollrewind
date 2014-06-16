@@ -1,0 +1,9 @@
+ctrlAutoScrollRewind 
+Game: ARMA 2  (1.00) 
+Description: True if auto-scroll should move back to start after it reach end.  
+Syntax:  
+ ctrlAutoScrollRewind control 
+Parameters: 
+control: Control - 
+Return Value: 
+ Boolean

@@ -1,0 +1,15 @@
+addMagazineCargoGlobal 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Add magazines to the cargo space of vehicles, which can be taken 
+ out by infantry units. 
+MP Synchronized  
+Syntax:  
+ vehicleName addMagazineCargoGlobal [magazineName, count] 
+Parameters: 
+vehicleName: Object - vehicle to add the magazines to 
+[magazineName, count]: Array 
+magazineName: String - magazine name. See the topic Category:Weapons for reference about possible values. 
+count: Number - number of magazines to add 
+Return Value: 
+ Nothing

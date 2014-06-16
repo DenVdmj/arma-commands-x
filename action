@@ -1,0 +1,12 @@
+action 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Make a unit to perform an action. Use the List of Actions for reference 
+ about the available actions and their syntax.  
+Syntax:  
+ unitName action action 
+Parameters: 
+unitName: Object 
+action: Array 
+Return Value: 
+ Nothing

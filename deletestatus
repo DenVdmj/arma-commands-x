@@ -1,0 +1,10 @@
+deleteStatus 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Delete a status (created with saveStatus) from the campaign's progress 
+ file.  
+Syntax:  
+ Boolean = deleteStatus statusName 
+Parameters: 
+statusName: String - name of the saved status 
+Return Value: 
+ Boolean -  true if the status was deleted successfully, false if not

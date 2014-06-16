@@ -1,0 +1,9 @@
+waypointHousePosition 
+Game: ARMA 2  (1.00) 
+Description: Gets the house position assigned to the waypoint.  
+Syntax:  
+ waypointHousePosition waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ Number

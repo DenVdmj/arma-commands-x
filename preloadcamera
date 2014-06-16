@@ -1,0 +1,11 @@
+preloadCamera 
+Game: Armed Assault (1.00) 
+Description: Preload all textures and models around given Position to avoid visual 
+ artifacts after camera is moved. 
+Should be used before any abrupt camera change/cut. 
+Returns true once all data is ready.  
+Syntax:  
+ Boolean = preloadCamera position 
+position: Array - format Position 
+Return Value: 
+ Boolean

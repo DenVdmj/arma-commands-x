@@ -1,0 +1,14 @@
+find 
+Game: Armed Assault (1.00) 
+Description: Returns the 0 based position of the first array element that matches 
+ x, returns -1 if not found. 
+Test is case-sensitive. 
+Note that you can not locate an array within an array using this 
+ command. 
+Syntax:  
+ Number = array find x 
+Parameters: 
+array: Array to search in 
+x: Any Value except Array to search for in the array 
+Return Value: 
+ Number 0 based position of the first array element that matches x, -1 if not found

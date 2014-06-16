@@ -1,0 +1,18 @@
+cameraEffect 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Switch to the given camera or object with the given effect. If you want 
+ to switch the screen directly to the first-person, aiming, third 
+-person or group view of an object, use switchCamera instead.The effect 
+ type "Terminate" is used to exit the current camera view and switch 
+ back to the player's view.Needs the call of camCommit to be conducted 
+.  
+Syntax:  
+ camera cameraEffect [name, position] 
+Parameters: 
+camera: Object - object of type "camera" 
+[name, position]: Array 
+name: String - the effect type. One of "Internal", "External", "Fixed", "FixedWithZoom" and "Terminate" 
+position: String - position of the effect. One of "TOP", "LEFT", "RIGHT", "FRONT" and "BACK" ("BACK" is normally used) 
+Return Value: 
+ Nothing

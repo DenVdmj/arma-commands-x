@@ -1,0 +1,11 @@
+setVehicleLock 
+Game: Armed Assault (1.00) 
+Description: Set how vehicle is locked for player. 
+Possible values: "UNLOCKED", "DEFAULT" or "LOCKED".  
+Syntax:  
+ vehicleName setVehicleLock state 
+Parameters: 
+vehicleName: Object 
+state: String see above 
+Return Value: 
+ Nothing

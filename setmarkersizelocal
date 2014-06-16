@@ -1,0 +1,12 @@
+setMarkerSizeLocal 
+Game: Armed Assault (1.04) 
+Description: Set marker size.Size is in format [a-axis, b-axis].  
+Syntax:  
+ markerName setMarkerSizeLocal [a-axis, b-axis] 
+Parameters: 
+markerName: String 
+[a-axis, b-axis]: Array 
+a-axis: Numbers. width of marker 
+b-axis: Numbers. height of marker 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+ppEffectCommitted 
+Game: ARMA 2  (1.00) 
+Description: Check whether given post process effect is committed  
+Syntax:  
+ ppEffectCommitted effect 
+Parameters: 
+effect: String 
+Return Value: 
+ Boolean

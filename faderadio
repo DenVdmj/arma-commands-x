@@ -1,0 +1,11 @@
+fadeRadio 
+Game: Armed Assault (1.00) 
+Description: Causes a smooth change in the radio volume. The change duration is given 
+ by time, the target volume by volume. The default radio volume is 1.0.  
+Syntax:  
+ time fadeRadio volume 
+Parameters: 
+time: Number in seconds 
+volume: Number - radio volume range 0 to 1. Maximum volume is 1. Default is 1. 
+Return Value: 
+ Nothing

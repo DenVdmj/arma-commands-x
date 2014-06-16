@@ -1,0 +1,13 @@
+createDialog 
+Game: Operation Flashpoint (1.5) 
+Description: Create a dialog which is defined either in the mission's description 
+.ext, in the campaign's description.ext or in the global resource 
+.cpp. The given name has to be the class name used in one of these 
+ files. If already another dialog is opened, the desired dialog is created 
+ as child dialog of the already opened one.  
+Syntax:  
+ Boolean = createDialog dialogName 
+Parameters: 
+dialogName: String - class name used in the description.ext / resource.cpp 
+Return Value: 
+ Boolean -  true when the dialog was created successfully

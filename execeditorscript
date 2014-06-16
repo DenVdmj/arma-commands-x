@@ -1,0 +1,10 @@
+execEditorScript 
+Game: ARMA 2  (1.00) 
+Description: Execute an editor script for the specified object.  
+Syntax:  
+ map execEditorScript [object,script] 
+Parameters: 
+map: Control - 
+[object,script]: Array - 
+Return Value: 
+ Any

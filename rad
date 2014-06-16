@@ -1,0 +1,10 @@
+rad 
+Game: Operation Flashpoint (1.00) 
+Description: Convert x from Degrees to Radians. 360 degrees is equal to 2 multiplied 
+ with pi.  
+Syntax:  
+ Number = rad x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

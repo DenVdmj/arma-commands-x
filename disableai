@@ -1,0 +1,21 @@
+disableAI 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Disable parts of the AI behaviour to get a better control over the actions 
+ of a unit. 
+Possible values are:"TARGET" - stop the unit to watch the assigned 
+ target"AUTOTARGET" - prevent the unit from assigning a target independently 
+ and watching unknown objects"MOVE" - disable the AI's movement"ANIM 
+" - disable ability of AI to change animation. Available only since 
+ Armed Assault."FSM" - disable the execution of AI behavior scripts 
+. Available only since Operation Arrowhead v1.60. 
+Note: All effects of disableAI command are cancelled after mission 
+ save or load. 
+Note: In OFP is no way to undo this command.  
+Syntax:  
+ unitName disableAI section 
+Parameters: 
+unitName: Object - AI unit 
+section: String 
+Return Value: 
+ Nothing

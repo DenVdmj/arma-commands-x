@@ -1,0 +1,9 @@
+showWarrant 
+Game: Operation Flashpoint (1.00) 
+Description: Enable ID card (default false). Obsolete command.  
+Syntax:  
+ showWarrant show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

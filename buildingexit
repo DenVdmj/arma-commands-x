@@ -1,0 +1,11 @@
+buildingExit 
+Game: ARMA 2  (1.00) 
+Description: Returns the given indexed exit in a building. The returned value 
+ is in format Position.  
+Syntax:  
+ building buildingExit index 
+Parameters: 
+building: Object 
+index: Number 
+Return Value: 
+ Array - format Position

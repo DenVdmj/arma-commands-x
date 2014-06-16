@@ -1,0 +1,10 @@
+allow3DMode 
+Game: ARMA 2  (1.00) 
+Description: Allow/dissallow 3D mode.,   
+Syntax:  
+ map allow3DMode bool 
+Parameters: 
+map: Control - 
+bool: Boolean - 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+max 
+Game: Armed Assault (1.00) 
+Description: The greater of a,b  
+Syntax:  
+ Number = a max b 
+Parameters: 
+a: Number 
+b: Number 
+Return Value: 
+ Number

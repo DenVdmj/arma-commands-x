@@ -1,0 +1,10 @@
+distributionRegion 
+Game: Armed Assault (1.05) 
+Description: Returns the numerical index for the distribution region of this copy 
+ of ArmA.  
+1 - US 
+2 - Rest of the world  
+Syntax:  
+ Number = distributionRegion 
+Return Value: 
+ Number

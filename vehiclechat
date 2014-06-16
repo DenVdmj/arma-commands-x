@@ -1,0 +1,17 @@
+vehicleChat 
+Game: Operation Flashpoint (1.34) 
+Description: Type text to vehicle radio channel. 
+This function only types text to the list, it does not broadcast 
+ the message. If you want the message to show on all computers, you have 
+ to execute it on them. 
+Object parameter must be a vehicle, not a player. 
+If you are in a crew seat (i.e. driver, gunner or commander), then 
+ it will include that role in the chat name output (Eg: Driver (you_name 
+): "Message").  
+Syntax:  
+ vehicleName vehicleChat text 
+Parameters: 
+vehicleName: Object 
+text: String 
+Return Value: 
+ Nothing

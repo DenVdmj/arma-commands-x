@@ -1,0 +1,11 @@
+saveStatus 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Saves object's properties to Objects.sav file in campaign directory 
+ as entry name.  
+Syntax:  
+ object saveStatus name 
+Parameters: 
+object: Object 
+name: String 
+Return Value: 
+ Boolean

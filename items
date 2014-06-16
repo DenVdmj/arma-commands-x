@@ -1,0 +1,10 @@
+items 
+Game: ARMA 2  (1.00) 
+Description: Returns an array of names of all special items of a vehicle or a soldier 
+.  
+Syntax:  
+ items unit 
+Parameters: 
+unit: Object - 
+Return Value: 
+ Array

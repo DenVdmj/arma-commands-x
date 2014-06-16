@@ -1,0 +1,13 @@
+lightAttachObject 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Attach light to given object at given position on object.  
+Syntax:  
+ light lightAttachObject [object, position] 
+Parameters: 
+light: Object 
+[object, position]: Array 
+object: Object 
+position: Array - format Position 
+Return Value: 
+ Nothing

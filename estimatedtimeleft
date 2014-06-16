@@ -1,0 +1,12 @@
+estimatedTimeLeft 
+Game: Operation Flashpoint (1.34) 
+Description: Sets the "time left" value that is shown in the "Game in Progress 
+" screen during multiplayer sessions. This command works in MP only 
+.If you set param1, param2 or following in the mission's description 
+.ext, you can use those values instead of time.  
+Syntax:  
+ estimatedTimeLeft seconds 
+Parameters: 
+seconds: Number - estimated time in seconds, or one of {param1, param2,...} 
+Return Value: 
+ Nothing

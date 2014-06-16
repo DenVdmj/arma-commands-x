@@ -1,0 +1,7 @@
+radioVolume 
+Game: Armed Assault (1.00) 
+Description: Checks the current radio volume (set by fadeRadio).  
+Syntax:  
+ Number = radioVolume 
+Return Value: 
+ Number

@@ -1,0 +1,6 @@
+lineBreak 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text containing a line break.  
+Syntax:  
+ Structured Text = lineBreak 
+Return Value: 

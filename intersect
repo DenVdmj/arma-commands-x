@@ -1,0 +1,18 @@
+intersect 
+Game: Armed Assault (1.00) 
+Description: Find named selections in object which is in specified lod intersected 
+ by given section of a line. Return value is in the form of [selection 
+, number]. Multiple returned arrays are nested within a single array 
+, and no intersection will return an empty array."LodName" is one of: "FIRE 
+", "VIEW", "GEOM", "IFIRE" 
+Syntax:  
+ Array = [object, lodName] intersect [begin, end] 
+Parameters: 
+[object, lodName]: Array 
+object: Object 
+lodName: String 
+[begin, end]: Array 
+begin: Array - format Position3D 
+end: Array - format Position3D 
+Return Value: 
+ Array

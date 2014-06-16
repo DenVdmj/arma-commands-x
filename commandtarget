@@ -1,0 +1,12 @@
+commandTarget 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to target the given target (via the radio 
+).  
+Syntax:  
+ unitName commandTarget target 
+Parameters: 
+unitName: Object 
+target: Object 
+Return Value: 
+ Nothing

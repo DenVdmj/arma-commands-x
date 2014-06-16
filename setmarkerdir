@@ -1,0 +1,10 @@
+setMarkerDir 
+Game: Armed Assault (1.00) 
+Description: Sets the orientation of the marker. Angle is in degrees.  
+Syntax:  
+ markerName setMarkerDir angle 
+Parameters: 
+markerName: String 
+angle: Number 
+Return Value: 
+ Nothing

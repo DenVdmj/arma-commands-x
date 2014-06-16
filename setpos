@@ -1,0 +1,11 @@
+setPos 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Set object position.   
+Syntax:  
+ object setPos pos 
+Parameters: 
+object: Object 
+pos: Array - format Position 
+Return Value: 
+ Nothing

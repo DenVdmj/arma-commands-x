@@ -1,0 +1,11 @@
+comment 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Define a comment.  
+Mainly used in SQF Syntax, as you're able to introduce comment lines 
+ with semicolons in a SQS script.  
+Syntax:  
+ comment comment 
+Parameters: 
+comment: String - the comment that you'd like to write here 
+Return Value: 
+ Nothing

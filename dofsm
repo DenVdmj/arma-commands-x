@@ -1,0 +1,24 @@
+doFSM 
+Game: Armed Assault (1.00) 
+Description: Orders a unit to process command defined by FSM file (silently).  
+Unlike with execFSM where _this is passed to the FSM, the following 
+ parameters are passed when using doFSM/commandFSM: 
+ 
+ _leader 
+ leader of subgroup with this command  
+ _destination 
+ command destination/position 
+ _target 
+ command target  
+ _units 
+ list of all persons in subgroup  
+Syntax:  
+ unit(s) doFSM [fsmName, position, target] 
+Parameters: 
+unit(s): Object or Array 
+[fsmName, position, target]: Array 
+fsmName: String 
+position: (Array) 
+target: Object 
+Return Value: 
+ Nothing

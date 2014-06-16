@@ -1,0 +1,9 @@
+hcRemoveAllGroups 
+Game: ARMA 2  (1.00) 
+Description: Remove all groups from unit's high command bar.  
+Syntax:  
+ hcRemoveAllGroups unit 
+Parameters: 
+unit: Object - 
+Return Value: 
+ Nothing

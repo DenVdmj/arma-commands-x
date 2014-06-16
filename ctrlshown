@@ -1,0 +1,9 @@
+ctrlShown 
+Game: Armed Assault (1.00) 
+Description: Returns whether given control is shown.  
+Syntax:  
+ Boolean = ctrlShown controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Boolean

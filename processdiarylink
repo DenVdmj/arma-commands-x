@@ -1,0 +1,9 @@
+processDiaryLink 
+Game: ARMA 2  (1.00) 
+Description: Open the diary screen on the record specified by link.   
+Syntax:  
+ processDiaryLink link 
+Parameters: 
+link:  - 
+Return Value: 
+ Nothing

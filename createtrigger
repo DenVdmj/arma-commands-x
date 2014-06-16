@@ -1,0 +1,17 @@
+createTrigger 
+Game: Armed Assault (1.00) 
+Description: Creates a new trigger on the given position.  
+An object of the given type is created; this type must be a class 
+ name in CfgNonAIVehicles or CfgVehicles with simulation = detector 
+. 
+An array containing all units that have activated the trigger is available 
+ via list triggerobj. 
+Created triggers can be deleted using deleteVehicle. 
+Syntax:  
+ Object = createTrigger [type, position] 
+Parameters: 
+[type, position]: Array 
+type: String 
+position: Position 
+Return Value: 
+ Object

@@ -1,0 +1,17 @@
+doStop 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to stop (without radio messages). 
+DoStop'ed units leave the groups formation. It will prevent the unit 
+ from moving around with their group (or formation leader), while 
+ still beeing able to turn around and even move to a new position 
+ if they see fit. They will still respond to orders from their group 
+ leader (like engage, rearm, board a vehicle), but all of their actions 
+ will be seperate from the group formation (unless ordered to return 
+, which AI leaders don't do unless a script tells them to).  
+Syntax:  
+ doStop unit(s) 
+Parameters: 
+unit(s): Object or Array 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+boundingCenter 
+Game: ARMA 2  (1.00) 
+Description: Returns the position of original (loaded) center of object in model 
+ coordinates. The result is in format [x,z,y]  
+Syntax:  
+ boundingCenter object 
+Parameters: 
+object: Object - 
+Return Value: 
+ Array

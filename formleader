@@ -1,0 +1,12 @@
+formLeader 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the formation leader of a given unit. This is often the same 
+ as the group leader, but not always, for example in cases when a unit 
+ is ordered to follow another unit.  
+Syntax:  
+ Object = formLeader unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Object -  the leader of the formation is returned. If used on a dead unit, the returned value is objNull

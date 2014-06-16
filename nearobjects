@@ -1,0 +1,16 @@
+nearObjects 
+Game: Armed Assault (1.00) 
+Description: Find objects in the circle with given radius. 
+If typeName is given, only objects of given type (or its subtype 
+) are listed. 
+The first object in the returned array is not necessarily the closest 
+ one (like it is in nearestObjects for example).  
+Syntax:  
+ position nearObjects radius or [typeName, radius] 
+Parameters: 
+position: Array - format Position 
+[typeName, radius]: Array 
+typeName: String 
+radius: Number 
+Return Value: 
+ Array

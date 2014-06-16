@@ -1,0 +1,9 @@
+isNumber 
+Game: Armed Assault (1.00) 
+Description: Check if config entry represents number.   
+Syntax:  
+ Boolean = isNumber config 
+Parameters: 
+config: Config 
+Return Value: 
+ Boolean

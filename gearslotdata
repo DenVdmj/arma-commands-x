@@ -1,0 +1,9 @@
+gearSlotData 
+Game: ARMA 2  (1.00) 
+Description: Returns gear slot item name.  
+Syntax:  
+ gearSlotData control 
+Parameters: 
+control: Control - 
+Return Value: 
+ String

@@ -1,0 +1,11 @@
+nMenuItems 
+Game: ARMA 2  (1.00) 
+Description: Returns the total number of user-added menu items belonging to the given 
+ menu.  
+Syntax:  
+ map nMenuItems menu index 
+Parameters: 
+map: Control - 
+menu index:  - 
+Return Value: 
+ Number

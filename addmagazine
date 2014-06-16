@@ -1,0 +1,16 @@
+addMagazine 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Add a magazine to a person. Infantry units can only carry a specific 
+ number of magazines, once the magazine slots are filled, any further 
+ addMagazine commands are ignored. 
+Note: When you add a new weapon via scripting commands as well as the magazines 
+ for it, the addMagazine command has to be given before the addWeapon 
+ command, otherwise the weapon won't be loaded.  
+Syntax:  
+ unitName addMagazine magazineName 
+Parameters: 
+unitName: Object - person to add the magazines to 
+magazineName: String - magazine name. See the topic Category:Weapons for reference about possible values. 
+Return Value: 
+ Nothing

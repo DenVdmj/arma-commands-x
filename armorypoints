@@ -1,0 +1,7 @@
+armoryPoints 
+Game: ARMA 2  (1.00) 
+Description: Return the stored value of armory points.  
+Syntax:  
+ armoryPoints 
+Return Value: 
+ Number

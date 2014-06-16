@@ -1,0 +1,9 @@
+deg 
+Game: Operation Flashpoint (1.00) 
+Description: Convert a number from Radians to Degrees.  
+Syntax:  
+ Number = deg x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

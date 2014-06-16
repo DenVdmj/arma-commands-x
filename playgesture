@@ -1,0 +1,11 @@
+playGesture 
+Game: ARMA 2  (1.00) 
+Description: When used on a person,a smooth transition to the given move will 
+ be initiated.  
+Syntax:  
+ soldier playGesture moveName 
+Parameters: 
+soldier:  - 
+Object,moveName:  - 
+Return Value: 
+ Nothing

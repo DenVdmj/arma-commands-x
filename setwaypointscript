@@ -1,0 +1,16 @@
+setWaypointScript 
+Game: Armed Assault (1.00) 
+Description: Attaches a script to a scripted waypoint. Command consist of a script 
+ name and additional script arguments. 
+The Script has to use SQS-Syntax. 
+See Mission editor Description for more information about scripted 
+ waypoints. 
+ 
+ 
+Syntax:  
+ waypoint setWaypointScript command 
+Parameters: 
+waypoint: Array - format Waypoint 
+command: String 
+Return Value: 
+ Nothing

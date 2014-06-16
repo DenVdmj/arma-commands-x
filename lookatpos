@@ -1,0 +1,10 @@
+lookAtPos 
+Game: ARMA 2  (1.00) 
+Description: Center the map on,and point the camera at,the position.  
+Syntax:  
+ map lookAtPos position 
+Parameters: 
+map: Control - 
+position: Array - 
+Return Value: 
+ Nothing

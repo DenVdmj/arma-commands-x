@@ -1,0 +1,9 @@
+verifySignature 
+Game: Armed Assault (1.00) 
+Description: Check if file is signed by an accepted key.  
+Syntax:  
+ Boolean = verifySignature filename 
+Parameters: 
+filename: String 
+Return Value: 
+ Boolean

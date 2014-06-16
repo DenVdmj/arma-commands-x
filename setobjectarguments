@@ -1,0 +1,10 @@
+setObjectArguments 
+Game: ARMA 2  (1.00) 
+Description: Set object arguments in mission editor.  
+Syntax:  
+ map setObjectArguments [object,[name1,value1,...]] 
+Parameters: 
+map: Control - 
+[name1,value1,...]]: Array - 
+Return Value: 
+ Any

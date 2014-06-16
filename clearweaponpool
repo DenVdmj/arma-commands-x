@@ -1,0 +1,8 @@
+clearWeaponPool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Remove all weapons from the weapon pool, of which the player may choose 
+ in the following missions. Available in campaigns only.  
+Syntax:  
+ clearWeaponPool 
+Return Value: 
+ Nothing

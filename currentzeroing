@@ -1,0 +1,9 @@
+currentZeroing 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns zeroing of unit's weapon.  
+Syntax:  
+ currentZeroing gunner 
+Parameters: 
+gunner: Object 
+Return Value: 
+ Number

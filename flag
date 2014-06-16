@@ -1,0 +1,10 @@
+flag 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the flag the unit is carrying.  
+Syntax:  
+ Object = flag unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Object -  Returns the flag. If the unit carries no flag, objNull is returned.

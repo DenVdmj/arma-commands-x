@@ -1,0 +1,11 @@
+attackEnabled 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Return whether a group's leader can issue attack commands to soldiers 
+ under his command.  
+Syntax:  
+ Boolean = attackEnabled name 
+Parameters: 
+name: Object or Group 
+Return Value: 
+ Boolean

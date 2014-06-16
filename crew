@@ -1,0 +1,10 @@
+crew 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the crew of the given vehicle.  
+Syntax:  
+ Array = crew vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ Array -  An array with all units in the vehicle is returned.

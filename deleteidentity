@@ -1,0 +1,10 @@
+deleteIdentity 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Delete an identity (created with saveIdentity) from the campaign 
+'s progress file.  
+Syntax:  
+ Boolean = deleteIdentity identityName 
+Parameters: 
+identityName: String - name of the saved identity 
+Return Value: 
+ Boolean -  true if the identy was deleted successfully, false if not

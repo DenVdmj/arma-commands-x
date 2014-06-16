@@ -1,0 +1,9 @@
+diag_log 
+Game: ARMA 2  (1.00) 
+Description: Dumps the argument's type and value to the report file.  
+Syntax:  
+ diag_log anything 
+Parameters: 
+anything: Anything - 
+Return Value: 
+ Nothing

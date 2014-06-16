@@ -1,0 +1,9 @@
+createGearDialog 
+Game: ARMA 2  (1.00) 
+Description: Opens gear dialog for given unit.  
+Syntax:  
+ CreateGearDialog [unit,resource] 
+Parameters: 
+[unit,resource]: Array - 
+Return Value: 
+ Nothing

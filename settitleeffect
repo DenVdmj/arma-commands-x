@@ -1,0 +1,15 @@
+setTitleEffect 
+Game: Armed Assault (1.00) 
+Description: Defines the title effect via [Type, Effect, Text] where 
+'Type' can be "NONE", "OBJECT", 'Text' defines the shown object , a subclass 
+ of CfgTitles."RES" 'Text' defines a resource class, a subclass of RscTitles 
+."TEXT"The 'Text' is shown as text itself. 'Effect' defines a subtype 
+: "PLAIN", "PLAIN DOWN", "BLACK", "BLACK FADED", "BLACK OUT", "BLACK 
+ IN", "WHITE OUT" or "WHITE IN".   
+Syntax:  
+ trigger setTitleEffect [type, effect, text] 
+Parameters: 
+trigger: Object 
+[type, effect, text]: Array of strings. See above 
+Return Value: 
+ Nothing

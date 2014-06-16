@@ -1,0 +1,10 @@
+unitsBelowHeight 
+Game: ARMA 2  (1.04) 
+Description: Returns units in group below passed height.  
+Syntax:  
+ group or array unitsBelowHeight height 
+Parameters: 
+group or array Group or Array 
+height Number 
+Return Value: 
+ Array

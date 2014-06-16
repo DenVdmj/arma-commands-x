@@ -1,0 +1,11 @@
+saveIdentity 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Saves person's identity to Objects.sav file in campaign directory 
+ as entry name.  
+Syntax:  
+ unitName saveIdentity name 
+Parameters: 
+unitName: Object 
+name: String 
+Return Value: 
+ Boolean

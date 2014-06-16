@@ -1,0 +1,10 @@
+clearVehicleInit 
+Game: Armed Assault (1.08) 
+Description: Clear the object's init.  For security reasons, the command was disabled 
+ in Arma 3. 
+Syntax:  
+ clearVehicleInit objectName 
+Parameters: 
+objectName: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+formationDirection 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Return the direction in degrees of the 'unit' watching in formation 
+.  
+Syntax:  
+ Number = formationDirection unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Number

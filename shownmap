@@ -1,0 +1,7 @@
+shownMap 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has Map enabled.  
+Syntax:  
+ Boolean = shownMap 
+Return Value: 
+ Boolean

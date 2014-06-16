@@ -1,0 +1,9 @@
+synchronizedObjects 
+Game: ARMA 2  (1.00) 
+Description: Return the list of objects synchronized with the given unit.  
+Syntax:  
+ synchronizedObjects unit 
+Parameters: 
+unit: Object - 
+Return Value: 
+ Array

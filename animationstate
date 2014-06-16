@@ -1,0 +1,10 @@
+animationState 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Return the name of a unit's current primary animation.  
+Syntax:  
+ String = animationState unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String

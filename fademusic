@@ -1,0 +1,10 @@
+fadeMusic 
+Game: Operation Flashpoint (1.00) 
+Description: Changes the music volume smoothly within the given time.  
+Syntax:  
+ time fadeMusic volume 
+Parameters: 
+time: Number in seconds 
+volume: Number - music volume range 0 to 1. Maximum volume is 1. Default is 0.5. 
+Return Value: 
+ Nothing

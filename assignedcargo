@@ -1,0 +1,10 @@
+assignedCargo 
+Game: ARMA 2  (1.00) 
+Description: Returns the list of soldiers assigned to the given vehicle as a cargo 
+.  
+Syntax:  
+ assignedCargo vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Array

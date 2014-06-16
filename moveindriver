@@ -1,0 +1,12 @@
+moveInDriver 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Move soldier into vehicle driver position (Immediate, no animation 
+).  
+Syntax:  
+ unitName moveInDriver vehicle 
+Parameters: 
+unitName: Object 
+vehicle: Object 
+Return Value: 
+ Nothing

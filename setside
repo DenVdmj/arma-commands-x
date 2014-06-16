@@ -1,0 +1,10 @@
+setSide 
+Game: Armed Assault (1.08) 
+Description: Sets a location's side. The default side is Unknown. 
+Syntax:  
+ location setSide side 
+Parameters: 
+location: Location 
+side: Side 
+Return Value: 
+ Nothing

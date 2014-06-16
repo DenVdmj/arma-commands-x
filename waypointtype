@@ -1,0 +1,13 @@
+waypointType 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint type. 
+Type can be: "MOVE" "DESTROY" "GETIN" "SAD" "JOIN" "LEADER" "GETOUT 
+" "CYCLE" "LOAD" "UNLOAD" "TR UNLOAD" "HOLD" "SENTRY" "GUARD" "TALK 
+" "SCRIPTED" "SUPPORT" "GETIN NEAREST" "DISMISS" "AND" "OR" 
+More details at Waypoint types. 
+Syntax:  
+ waypointType waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ String

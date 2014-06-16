@@ -1,0 +1,11 @@
+sendTask 
+Game: ARMA 2  (1.00) 
+Description: Create a new AI task (subtask of parentTask). Type is name of registered 
+ task type.  
+Syntax:  
+ sender sendTask [receiver,[type] or [type,parentTask],priority,name1,value1,name2,value2,...] 
+Parameters: 
+sender:  - 
+[type] or [type,parentTask],priority,name1,value1,name2,value2,...]: Array - 
+Return Value: 
+ Task

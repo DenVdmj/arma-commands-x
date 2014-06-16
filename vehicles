@@ -1,0 +1,7 @@
+vehicles 
+Game: Armed Assault (1.00) 
+Description: Returns a list of all vehicles.  
+Syntax:  
+ vehicles 
+Return Value: 
+ Array

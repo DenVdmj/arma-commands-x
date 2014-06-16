@@ -1,0 +1,12 @@
+joinSilent 
+Behavior: local 
+Game: Armed Assault (1.06) 
+Description: Join all units in the array to given group silently (without radio 
+ message).  
+Syntax:  
+ unitArray joinSilent group 
+Parameters: 
+unitArray: Array 
+group: Object or Group 
+Return Value: 
+ Nothing

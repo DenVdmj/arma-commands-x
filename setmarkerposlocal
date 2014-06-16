@@ -1,0 +1,10 @@
+setMarkerPosLocal 
+Game: Armed Assault (1.04) 
+Description: Moves the marker. Pos format is Position2D.  
+Syntax:  
+ markerName setMarkerPosLocal pos 
+Parameters: 
+markerName: String 
+pos: Array - format Position2D 
+Return Value: 
+ Nothing

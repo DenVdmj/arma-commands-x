@@ -1,0 +1,11 @@
+taskState 
+Game: ARMA 2  (1.00) 
+Description: Returns the current state of a task.  
+Possible return values are: None Created Assigned Succeeded Failed 
+ Canceled 
+Syntax:  
+ String = taskState  Task 
+Parameters: 
+Task - the task you want to query 
+Return Value: 
+ String - current state of task

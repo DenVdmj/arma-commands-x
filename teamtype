@@ -1,0 +1,9 @@
+teamType 
+Game: ARMA 2  (1.00) 
+Description: Returns a type of given team.  
+Syntax:  
+ teamType team 
+Parameters: 
+team: Team Member 
+Return Value: 
+ String

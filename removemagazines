@@ -1,0 +1,13 @@
+removeMagazines 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Remove all magazines of given type from the unit. 
+Note: You may create invalid combinations with this function. When 
+ doing so, application behaviour is undefined.  
+Syntax:  
+ unitName removeMagazines magazineName 
+Parameters: 
+unitName: Object 
+magazineName: String 
+Return Value: 
+ Nothing

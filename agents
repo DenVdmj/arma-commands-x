@@ -1,0 +1,7 @@
+agents 
+Game: ARMA 2  (1.00) 
+Description: Return a list of agents in the current mission.  
+Syntax:  
+ agents 
+Return Value: 
+ Array

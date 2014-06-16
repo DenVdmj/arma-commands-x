@@ -1,0 +1,10 @@
+selectDiarySubject 
+Game: ARMA 2  (1.00) 
+Description: Select the subject page in a log.   
+Syntax:  
+ person selectDiarySubject subject 
+Parameters: 
+person:  - 
+Object,subject:  - 
+Return Value: 
+ Nothing

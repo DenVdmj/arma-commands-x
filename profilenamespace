@@ -1,0 +1,12 @@
+profileNamespace 
+Game: Take On Helicopters (1.00) 
+Description: Return the global namespace attached to the active user profile. 
+Use setVariable and getVariable to save and load data to this Namespace 
+. A variable can be deleted by setting its value to nil.  
+The variables are stored next to the user profile in a file named 
+ myUsername.vars.TakeOnHProfile (e.g. in the My DocumentsTake On Helicopters 
+ folder).  
+Syntax:  
+ profileNamespace 
+Return Value: 
+ Namespace

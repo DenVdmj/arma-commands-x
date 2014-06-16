@@ -1,0 +1,9 @@
+setAperture 
+Game: Armed Assault (1.00) 
+Description: Sets custom camera aperture (-1 to do it automatically).  
+Syntax:  
+ setAperture aperture 
+Parameters: 
+aperture: Number 
+Return Value: 
+ Nothing

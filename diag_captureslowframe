@@ -1,0 +1,13 @@
+diag_captureSlowFrame 
+Game: ArmA 2: Operation Arrowhead (1.63) 
+Description: Capture the first frame, where section takes longer than the threshold 
+ (in seconds).  
+Note: Only available in specific builds. See Performance Profiling 
+ for details.  
+Syntax:  
+ diag_captureSlowFrame [section, threshold] 
+Parameters: 
+section: String - Valid: total,&#160;??? 
+threshold: Number - Duration of the section in seconds 
+Return Value: 
+ Nothing

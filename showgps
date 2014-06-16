@@ -1,0 +1,10 @@
+showGPS 
+Game: Operation Flashpoint (1.00) 
+Description: Shows or hides the GPS receiver on the map screen, if enabled for the mission 
+ and you possess the item. (default false)  
+Syntax:  
+ showGPS show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

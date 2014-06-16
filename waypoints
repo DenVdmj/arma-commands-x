@@ -1,0 +1,10 @@
+waypoints 
+Behavior: global 
+Game: Armed Assault (1.05) 
+Description: Returns an array of waypoints for the specified unit/group.  
+Syntax:  
+ Array = waypoints groupName 
+Parameters: 
+groupName: Group 
+Return Value: 
+ Array of waypoints each in format Waypoint

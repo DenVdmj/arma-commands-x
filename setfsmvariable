@@ -1,0 +1,11 @@
+setFSMVariable 
+Game: ARMA 2  (1.00) 
+Description: Set variable to given value in the variable space of given FSM. The FSM handle 
+ is the number returned by the execFSM command.  
+Syntax:  
+ FSM handle setFSMVariable [name,value] 
+Parameters: 
+FSM handle: Number - 
+[name,value]: Array - 
+Return Value: 
+ Nothing

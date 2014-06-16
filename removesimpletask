@@ -1,0 +1,10 @@
+removeSimpleTask 
+Game: ARMA 2  (1.00) 
+Description: Remove a simple task from the list of simple tasks.  
+Syntax:  
+ person removeSimpleTask task 
+Parameters: 
+person: Object 
+task: Task 
+Return Value: 
+ Nothing

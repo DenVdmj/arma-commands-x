@@ -1,0 +1,14 @@
+removeWeapon 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Remove weapon from a unit.  
+Note: It is possible to create invalid combinations with this command 
+ (ie, attempting to remove a weapon that a unit does not possess 
+). When doing so, application behaviour is undefined.  
+Syntax:  
+ unitName removeWeapon weaponName 
+Parameters: 
+unitName: Object 
+weaponName: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+typeOf 
+Game: Operation Flashpoint: Resistance (1.90) 
+Description: Returns the class type of a given object.  
+Syntax:  
+ String =  typeOf vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ String

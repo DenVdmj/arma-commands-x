@@ -1,0 +1,7 @@
+shownRadio 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has Radio enabled.  
+Syntax:  
+ Boolean = shownRadio 
+Return Value: 
+ Boolean

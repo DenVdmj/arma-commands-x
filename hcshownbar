@@ -1,0 +1,7 @@
+hcShownBar 
+Game: ARMA 2  (1.00) 
+Description: Return true if the HC bar is shown/active.  
+Syntax:  
+ hcShownBar 
+Return Value: 
+ Boolean

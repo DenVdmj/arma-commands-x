@@ -1,0 +1,8 @@
+missionName 
+Game: Operation Flashpoint: Resistance (1.8) 
+Description: Return currently loaded mission file (path to mission.pbo, relative 
+ to game exe). 
+Syntax:  
+ String = missionName 
+Return Value: 
+ String

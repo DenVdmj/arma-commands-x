@@ -1,0 +1,10 @@
+isHidden 
+Game: Armed Assault (1.00) 
+Description: Return whether the person is hidden (reached the hiding position 
+).  
+Syntax:  
+ Boolean = isHidden person 
+Parameters: 
+person: Object 
+Return Value: 
+ Boolean

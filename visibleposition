@@ -1,0 +1,10 @@
+visiblePosition 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Returns an object's rendered 3D position (z value above ground level 
+).  
+Syntax:  
+visiblePosition object 
+Parameters: 
+object: Object: - name of the object 
+Return Value: 
+ Array - format Position3D

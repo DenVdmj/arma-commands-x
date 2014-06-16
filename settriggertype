@@ -1,0 +1,16 @@
+setTriggerType 
+Game: Armed Assault (1.00) 
+Description: Sets the type of action processed by the trigger after activation 
+ (no action, a waypoints switch or an end of mission): "NONE" "EAST 
+ G" - Guarded by OPFOR "WEST G" - Guarded by BLUFOR "GUER G" - Guarded 
+ by Independent "SWITCH" - Switch waypoints/break loop (see Triggers 
+) "END1" - End #1 "END2" - End #2 "END3" - End #3 "END4" - End #4 "END5 
+" - End #5 "END6" - End #6 "LOOSE" - Lose "WIN" - (not found in ArmA 
+) 
+Syntax:  
+ trigger setTriggerType action 
+Parameters: 
+trigger: Object 
+action: String 
+Return Value: 
+ Nothing

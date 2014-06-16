@@ -1,0 +1,10 @@
+ctrlMapAnimDone 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Checks whether the map animation has finished.  
+Syntax:  
+ Boolean = ctrlMapAnimDone controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Boolean

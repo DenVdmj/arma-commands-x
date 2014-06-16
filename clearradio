@@ -1,0 +1,7 @@
+clearRadio 
+Game: Armed Assault (1.00) 
+Description: Clean up the content of radio protocol history.  
+Syntax:  
+ clearRadio 
+Return Value: 
+ Nothing

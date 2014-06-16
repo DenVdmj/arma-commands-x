@@ -1,0 +1,11 @@
+terrainIntersect 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Checks for intersection of terrain between two positions. Returns 
+ true if intersects with terrain. Uses PositionATL  
+Syntax:  
+ terrainIntersect [pos1, pos2] 
+Parameters: 
+pos1: PositionATL 
+pos2: PositionATL 
+Return Value: 
+ Boolean

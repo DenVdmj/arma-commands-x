@@ -1,0 +1,10 @@
+velocity 
+Game: Operation Flashpoint: Resistance (1.8) 
+Description: Return velocity (speed vector) of Unit as an array with format [x, z, y].  Units 
+ are in metres per second.  
+Syntax:  
+ Array = velocity vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ Array

@@ -1,0 +1,12 @@
+setUnitAbility 
+Game: Armed Assault (1.00) 
+Description: Sets skill of given unit. This command will probably differ in some 
+ future products, but currently it does the same as setSkill.  
+Skill may vary from 0.2 to 1.0.  
+Syntax:  
+ unit setUnitAbility skill 
+Parameters: 
+unit: Object 
+skill: Number Range 0.2 to 1.0 
+Return Value: 
+ Nothing

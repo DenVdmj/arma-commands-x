@@ -1,0 +1,11 @@
+commandFSM 
+Game: Armed Assault (1.00) 
+Description: Orders a unit to process command defined by FSM file (via the radio 
+).  
+Syntax:  
+unitName commandFSM [fsm name, position, target] 
+Parameters: 
+unitName: Object or Array 
+[fsm name, position, target]: Array 
+Return Value: 
+ Nothing

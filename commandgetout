@@ -1,0 +1,10 @@
+commandGetOut 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Orders the unit to get out from the vehicle (via the radio).  
+Syntax:  
+ commandGetOut unitName 
+Parameters: 
+unitName: Object or Array 
+Return Value: 
+ Nothing

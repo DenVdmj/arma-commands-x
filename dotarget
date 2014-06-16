@@ -1,0 +1,12 @@
+doTarget 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to target the given target (without radio 
+ messages).  
+Syntax:  
+ unit(s) doTarget target 
+Parameters: 
+unit(s): Object or Array 
+target: Object 
+Return Value: 
+ Nothing

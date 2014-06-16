@@ -1,0 +1,9 @@
+inheritsFrom 
+Game: Armed Assault (1.00) 
+Description: Returns base entry of config entry.   
+Syntax:  
+ Config = inheritsFrom config 
+Parameters: 
+config: Config 
+Return Value: 
+ Config

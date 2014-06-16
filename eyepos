@@ -1,0 +1,9 @@
+eyePos 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the object's eyes / main turret position.  
+Syntax:  
+ eyePos object 
+Parameters: 
+object: Object 
+Return Value: 
+ Array - format PositionASL

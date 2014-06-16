@@ -1,0 +1,12 @@
+moveInCargo 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Move soldier into vehicle cargo position (Immediate, no animation 
+).  
+Syntax:  
+ unitName moveInCargo vehicle 
+Parameters: 
+unitName: Object 
+vehicle: Object 
+Return Value: 
+ Nothing

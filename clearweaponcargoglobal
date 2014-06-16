@@ -1,0 +1,11 @@
+clearWeaponCargoGlobal 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Removes all weapons from the vehicle cargo space. MP synchronized 
+.  
+Syntax:  
+ clearWeaponCargoGlobal unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ Nothing

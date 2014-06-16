@@ -1,0 +1,12 @@
+setFormation 
+Game: Operation Flashpoint (1.00) 
+Description: Set group formation.Formation is one of:  "COLUMN" "STAG COLUMN" "WEDGE 
+" "ECH LEFT" "ECH RIGHT" "VEE" "LINE" "FILE" (ArmA) "DIAMOND" (ArmA 
+) 
+Syntax:  
+ group setFormation formation 
+Parameters: 
+group: Object or Group 
+formation: String 
+Return Value: 
+ Nothing

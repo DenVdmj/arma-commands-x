@@ -1,0 +1,9 @@
+ctrlPosition 
+Game: Armed Assault (1.00) 
+Description: Returns the current position of control as [x, y, w, h] array.  
+Syntax:  
+ Array = ctrlPosition controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Array

@@ -1,0 +1,10 @@
+kbAddDatabaseTargets 
+Game: ARMA 2  (1.00) 
+Description: Register target list knowledge base database to given person. 
+Syntax:  
+ Boolean = person kbAddDatabaseTargets filename 
+Parameters: 
+person: Object 
+filename: String 
+Return Value: 
+ Boolean

@@ -1,0 +1,10 @@
+setName 
+Game: Armed Assault (1.08) 
+Description: Sets the name of a location 
+Syntax:  
+ location setName name 
+Parameters: 
+location: Location 
+name: String 
+Return Value: 
+ Nothing

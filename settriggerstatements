@@ -1,0 +1,13 @@
+setTriggerStatements 
+Game: Armed Assault (1.00) 
+Description: Defines a trigger's condition, and executable code for its activation 
+ and deactivation events.  
+Syntax:  
+ trigger setTriggerStatements [condition, activation, deactivation] 
+Parameters: 
+trigger: Object - Trigger object 
+condition: String - Code containing the trigger's condition, which has to return a boolean value. If this is used, the result of the trigger's activation condition is interpreted. 
+activation: String - Code that is executed when the trigger is activated (The variable thislist contains an array with the units that activated the trigger.) 
+deactivation: String - Code that is executed when the trigger is deactivated. 
+Return Value: 
+ Nothing

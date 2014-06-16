@@ -1,0 +1,17 @@
+addRating 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Add a number to the rating of a unit. Negative values can be used 
+ to reduce the rating. This command is usually used to reward for completed 
+ mission objectives. The rating is given at the end of the mission 
+ and is automatically adjusted when killing enemies or friendlies 
+.  
+When the rating gets below -2000, the unit's side switches to "ENEMY 
+" and the unit is attacked by everyone. 
+Syntax:  
+ unitName addRating rating 
+Parameters: 
+unitName: Object 
+rating: Number 
+Return Value: 
+ Nothing

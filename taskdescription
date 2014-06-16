@@ -1,0 +1,9 @@
+taskDescription 
+Game: ARMA 2  (1.00) 
+Description: Returns the sub-parts of the task description.  
+Syntax:  
+ Array = taskDescription task 
+Parameters: 
+task: Task 
+Return Value: 
+ Array: [Task description, Task title, Task waypoint description]

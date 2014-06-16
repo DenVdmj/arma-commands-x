@@ -1,0 +1,9 @@
+markerBrush 
+Game: ARMA 2  (1.00) 
+Description: Gets the marker brush. See setMarkerBrush.  
+Syntax:  
+ markerBrush name 
+Parameters: 
+name: String - 
+Return Value: 
+ String

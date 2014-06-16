@@ -1,0 +1,11 @@
+lockDriver 
+Behavior: local 
+Game: ARMA 2  (1.00) 
+Description: Lock the driver position of the vehicle.  
+Syntax:  
+ vehicle lockDriver lock 
+Parameters: 
+vehicle: Object - 
+lock: Boolean - 
+Return Value: 
+ Nothing

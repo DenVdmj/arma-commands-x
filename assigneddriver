@@ -1,0 +1,9 @@
+assignedDriver 
+Game: ARMA 2  (1.00) 
+Description: Returns the soldier assigned to the given vehicle as a driver.  
+Syntax:  
+ assignedDriver vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Object

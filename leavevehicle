@@ -1,0 +1,12 @@
+leaveVehicle 
+Behavior: local 
+Game: ARMA 2  (1.00) 
+Description: Ceases the using of the vehicle by either a unit or a group. It unassigns 
+ them from the vehicle.   
+Syntax:  
+ group leaveVehicle vehicle 
+Parameters: 
+group: Object or Group 
+vehicle: Object 
+Return Value: 
+ Nothing

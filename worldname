@@ -1,0 +1,7 @@
+worldName 
+Game: Armed Assault (1.00) 
+Description: Return the name of the currently loaded world.   
+Syntax:  
+String =  worldName 
+Return Value: 
+ String

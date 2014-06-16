@@ -1,0 +1,13 @@
+addBackpackCargoGlobal 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Add backpack(s) to the cargo space of vehicle. MP synchronized. Classname 
+ list of available backpacks is here  
+Syntax:  
+ vehicle addBackpackCargoGlobal  [packClassName, count] 
+Parameters: 
+vehicle: Object to add the Backpack to 
+packClassName: String,  See the topic Category:Weapons for reference about possible values. 
+count: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+kbReact 
+Game: ARMA 2  (1.00) 
+Description: Pass a non-verbal communication to the receiver.   
+Syntax:  
+ person kbReact [receiver,topic,sentence id,[argument name,argument value,argument text,argument speech],...] 
+Parameters: 
+person:  - 
+[receiver,topic,sentence id,[argument name,argument value,argument text,argument speech],...]: Array - 
+Return Value: 
+ Nothing

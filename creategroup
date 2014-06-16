@@ -1,0 +1,12 @@
+createGroup 
+Game: Armed Assault (1.00) 
+Description: Creates a new AI group for the given Side. An HQ (center) for that 
+ side must already be in the Mission.sqm or have been initialized 
+ with createCenter. 
+For the available sides see Side.   
+Syntax:  
+ Group = createGroup side 
+Parameters: 
+side: Side 
+Return Value: 
+ Group

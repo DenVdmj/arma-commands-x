@@ -1,0 +1,9 @@
+fromEditor 
+Game: ARMA 2  (1.00) 
+Description: Return if given team was inserted directly from mission editor.  
+Syntax:  
+ fromEditor teamMember 
+Parameters: 
+teamMember: Team Member 
+Return Value: 
+ Boolean

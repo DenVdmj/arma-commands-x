@@ -1,0 +1,11 @@
+countSide 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Count how many units in the array belong to given side.  
+Syntax:  
+ Number = side countSide arrayName 
+Parameters: 
+side: Side 
+arrayName: Array 
+Return Value: 
+ Number

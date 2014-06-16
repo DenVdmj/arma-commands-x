@@ -1,0 +1,14 @@
+name 
+Game: Operation Flashpoint (1.00) 
+Description: The name given to a unit using the setIdentity instruction or selected 
+ randomly by the game engine if setIdentity has not been used on the unit 
+. 
+If used on vehicle, name of first crew member (in order commander 
+, driver, gunner). 
+If used on an object, "Error: No unit" is being returned.  
+Syntax:  
+ String = name object 
+Parameters: 
+object: Object 
+Return Value: 
+ String

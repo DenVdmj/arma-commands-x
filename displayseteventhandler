@@ -1,0 +1,20 @@
+displaySetEventHandler 
+Game: Armed Assault (1.00) 
+Description: Sets given event handler of given display. 
+The return code of the provided function should indicate whether 
+ this event was handled correctly. This implies telling the engine 
+ whether it's default code should be executed.  
+See User Interface Event Handlers for the full list of handler names 
+. 
+If applicable, see DIK_KeyCodes for a list of key code constants 
+, which are relevant to key related user interface events like: KeyDown 
+ &amp; KeyUp.  
+Syntax:  
+ display displaySetEventHandler [handlerName, function] 
+Parameters: 
+display: Display 
+[handlerName, function]: Array 
+handlerName: String 
+function: String. {Code} 
+Return Value: 
+ Nothing

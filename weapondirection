@@ -1,0 +1,13 @@
+weaponDirection 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Returns the direction that the vehicle weapon is aiming in. 
+For addons the weapon name must be an entry in CfgWeapons. 
+Returns an array in format [x, z, y]  
+Syntax:  
+ vehicleName weaponDirection weaponName 
+Parameters: 
+vehicleName: Object 
+weaponName: String 
+Return Value: 
+ Array - format Vector3D

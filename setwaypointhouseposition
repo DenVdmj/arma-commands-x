@@ -1,0 +1,11 @@
+setWaypointHousePosition 
+Game: Armed Assault (1.00) 
+Description: For waypoints attached to a house, this defines the target house 
+ position.  
+Syntax:  
+ waypoint setWaypointHousePosition pos 
+Parameters: 
+waypoint: Array - format Waypoint 
+pos: Number 
+Return Value: 
+ Nothing

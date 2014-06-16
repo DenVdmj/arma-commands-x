@@ -1,0 +1,17 @@
+format 
+Game: Operation Flashpoint (1.00) 
+Description: Composes a string containing other variables or other variable types 
+. 
+Converts any variable type to a string. 
+If you want to convert a string back to a number, use parseNumber 
+. 
+Syntax:  
+ String = format [formatString, var1, var2...] 
+Parameters: 
+[formatString, var1, var2...]: Array 
+formatString: String - a string containing text and/or references to the variables listed below in the array. The references appear in the form of&#160;%1,&#160;%2 etc. 
+var1: Any Value - variable referenced by&#160;%1 
+var2: Any Value - variable referenced by&#160;%2 
+......And so on. 
+Return Value: 
+ String -  The full string is returned.

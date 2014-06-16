@@ -1,0 +1,11 @@
+setMarkerShapeLocal 
+Game: Armed Assault (1.04) 
+Description: Selects the shape (type) of the marker. 
+Shape can be "ICON", "RECTANGLE" or "ELLIPSE".  
+Syntax:  
+ markerName setMarkerShapeLocal shape 
+Parameters: 
+markerName: String 
+shape: String 
+Return Value: 
+ Nothing

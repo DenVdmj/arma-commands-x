@@ -1,0 +1,7 @@
+teamSwitch 
+Game: Armed Assault (1.00) 
+Description: Invoke the Team Switch dialog (force it even when conditions are not met).  
+Syntax:  
+ teamSwitch 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+preprocessFile 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Reads and processes the content of the specified file. Preprocessor 
+ is C-like, supports comments using // or /* and */ and macros defined 
+ with #define. 
+Due to the hard-drive access this command executes (and the lack 
+ of caching) this command should not be used in time-critical script 
+ loops.  
+Syntax:  
+ String = preprocessFile fileName 
+Parameters: 
+fileName: String 
+Return Value: 
+ String

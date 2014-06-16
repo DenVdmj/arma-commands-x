@@ -1,0 +1,9 @@
+progressPosition 
+Game: ARMA 2  (1.00) 
+Description: Returns the current position in the progress bar.  
+Syntax:  
+ progressPosition control 
+Parameters: 
+control:  - 
+Return Value: 
+ Number

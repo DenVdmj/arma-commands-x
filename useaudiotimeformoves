@@ -1,0 +1,11 @@
+useAudioTimeForMoves 
+Game: ARMA 2  (1.00) 
+Description: Switch between elapsed game time and audio time being used as animation 
+ timer. Used for audio/animation synchronization.  
+Syntax:  
+ soldier useAudioTimeForMoves toggle 
+Parameters: 
+soldier: Object 
+toggle: Boolean 
+Return Value: 
+ Nothing

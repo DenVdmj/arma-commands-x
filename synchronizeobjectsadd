@@ -1,0 +1,10 @@
+synchronizeObjectsAdd 
+Game: ARMA 2  (1.00) 
+Description: Add given objects to the unit's list of synchronized objects.  
+Syntax:  
+ unit synchronizeObjectsAdd [objects] 
+Parameters: 
+unit: Object - 
+[objects]: Array - 
+Return Value: 
+ Nothing

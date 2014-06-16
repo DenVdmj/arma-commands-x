@@ -1,0 +1,9 @@
+selectedEditorObjects 
+Game: ARMA 2  (1.00) 
+Description: Returns a list of currently selected editor objects.  
+Syntax:  
+ selectedEditorObjects map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Array

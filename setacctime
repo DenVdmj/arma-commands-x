@@ -1,0 +1,10 @@
+setAccTime 
+Game: Operation Flashpoint (1.00) 
+Description: Set time acceleration coefficient. May be also used to slow time 
+ in cutscenes. This command does NOT work in multiplayer.  
+Syntax:  
+ setAccTime accFactor 
+Parameters: 
+accFactor: Number 
+Return Value: 
+ Nothing

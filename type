@@ -1,0 +1,9 @@
+type 
+Game: Armed Assault (1.08) 
+Description: Returns a string of a location's class name. 
+Syntax:  
+ type location 
+Parameters: 
+location: Location 
+Return Value: 
+ String

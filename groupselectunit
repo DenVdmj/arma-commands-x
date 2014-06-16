@@ -1,0 +1,12 @@
+groupSelectUnit 
+Game: ARMA 2  (1.00) 
+Description: Select unit from unit's group.  
+Syntax:  
+ unitName groupSelectUnit [unit, booleanValue] 
+Parameters: 
+unitName: Object - desc 
+[unit, booleanValue]: Array 
+unit: Object - desc 
+booleanValue: Boolean - desc 
+Return Value: 
+ Nothing

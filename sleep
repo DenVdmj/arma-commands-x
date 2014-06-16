@@ -1,0 +1,12 @@
+sleep 
+Game: Armed Assault (1.00) 
+Description: Suspend execution for given time in seconds. The sleep precision 
+ is given by a framerate, the delay given is the minimal delay expected 
+. Must be called inside of a context which is interruptible, i.e. a script 
+ executed by execVM or spawn.  
+Syntax:  
+ sleep delay 
+Parameters: 
+delay: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+setLeader 
+Game: ARMA 2  (1.00) 
+Description: Set the leader of given team.  
+Syntax:  
+ team setLeader leader 
+Parameters: 
+team: Team Member 
+leader: Team Member 
+Return Value: 
+ Nothing

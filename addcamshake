@@ -1,0 +1,12 @@
+addCamShake 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Creates the camera shaking effect, like when you are near an explosion 
+  
+Syntax:  
+ addCamShake [power, duration, frequency] 
+Parameters: 
+power: Number - how strong the camera movement will be 
+duration: Number - how long the effect will last 
+frequency: Number - how will be the rhythm 
+Return Value: 
+ Nothing

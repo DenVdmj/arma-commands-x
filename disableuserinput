@@ -1,0 +1,13 @@
+disableUserInput 
+Game: Operation Flashpoint (1.00) 
+Description: Disable and enable the keyboard and mouse input, usually used during 
+ cutscenes. 
+Be careful with the usage of this command, always remember to enable 
+ the user input again, as once the user input is disabled, you can only 
+ shut down OFP but not exit the mission with escape.  
+Syntax:  
+ disableUserInput state 
+Parameters: 
+state: Boolean 
+Return Value: 
+ Nothing

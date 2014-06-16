@@ -1,0 +1,9 @@
+lnbAddArray 
+Game: ARMA 2  (1.00) 
+Description: Adds list of rows of strings.  
+Syntax:  
+ lnbAddArray [IDC,[[[text,text],[value,..],[data,..]],[[text,text],[value,..],[data,..]],]] 
+Parameters: 
+[IDC,[[[text,text],[value,..],[data,..]],[[text,text],[value,..],[data,..]],]]: Array - 
+Return Value: 
+ Number

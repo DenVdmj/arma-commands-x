@@ -1,0 +1,9 @@
+deleteTeam 
+Game: ARMA 2  (1.00) 
+Description: Destroy given team.  
+Syntax:  
+deleteTeam team 
+Parameters: 
+team: Team Member 
+Return Value: 
+ Nothing

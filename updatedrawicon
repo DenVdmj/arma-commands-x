@@ -1,0 +1,13 @@
+updateDrawIcon 
+Game: ARMA 2  (1.00) 
+Description: Updates the icon to be shown in 2D editor for the specified editor 
+,object. If maintain size is false,icon will not scale depending 
+ on the,scale of the map. If maintain size is a number,the icon will 
+ maintain,size if map scale is below that number.   
+Syntax:  
+ map updateDrawIcon [object,string identifier,color,offset,width,height,maintain size?,angle,shadow] 
+Parameters: 
+map: Control - 
+[object,string identifier,color,offset,width,height,maintain size?,angle,shadow]: Array - 
+Return Value: 
+ Nothing

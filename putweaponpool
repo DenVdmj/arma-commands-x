@@ -1,0 +1,10 @@
+putWeaponPool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Transfer weapons and magazines from weapon pool into cargo of object 
+ obj. Used in campaign to transfer weapons into next mission.  
+Syntax:  
+ putWeaponPool object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

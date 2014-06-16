@@ -1,0 +1,10 @@
+processInitCommands 
+Game: Armed Assault (1.00) 
+Description: Process statements stored using setVehicleInit. The statements will 
+ only be executed once even if processInitCommands is called multiple 
+ times.  For security reasons, the command was disabled in Arma 3. Use BIS_fnc_MP 
+ for remote execution. 
+Syntax:  
+ processInitCommands 
+Return Value: 
+ Nothing

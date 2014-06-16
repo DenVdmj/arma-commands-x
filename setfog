@@ -1,0 +1,12 @@
+setFog 
+Game: Operation Flashpoint (1.00) 
+Description: Changes the fog smoothly over the the given TransitionTime (in seconds 
+). A time of zero means there will be an immediate change. A fog intensity 
+ of zero is minimum fog and a fog level of one is maximum fog.  
+Syntax:  
+ time setFog fog 
+Parameters: 
+time: Number 
+fog: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+assignTeam 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Assigns the unit (in case of a vehicle, its commander) to the given 
+ team. 
+The possible team values are: "MAIN", "RED", "GREEN", "BLUE" and "YELLOW 
+".  
+Syntax:  
+  vehicleName assignTeam team 
+Parameters: 
+vehicleName: Object 
+team: String 
+Return Value: 
+ Nothing

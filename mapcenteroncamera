@@ -1,0 +1,11 @@
+mapCenterOnCamera 
+Game: ARMA 2  (1.02) 
+Description: Enable/disable continuous centering the map on the camera position 
+.  
+Syntax:  
+ control mapCenterOnCamera enable 
+Parameters: 
+control: Control - 
+enable: Boolean - 
+Return Value: 
+ Nothing

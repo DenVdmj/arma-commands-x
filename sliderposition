@@ -1,0 +1,10 @@
+sliderPosition 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Return current thumb position of slider idc of topmost user dialog 
+.  
+Syntax:  
+ sliderPosition idc 
+Parameters: 
+idc: Number 
+Return Value: 
+ Number

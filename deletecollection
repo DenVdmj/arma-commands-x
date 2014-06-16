@@ -1,0 +1,15 @@
+deleteCollection 
+Game: Armed Assault (1.00) 
+Description: Delete a collection. As example, used with a soldier, it'll hide 
+ the ingame model. 
+When targetting ArmA 2 1.06 or newer, use hideObject instead. This 
+ function is a relic from dynamic building destruction development 
+. It is left only for compatibility with scripts created before ArmA 
+ 2 1.06, and its functionality may be changed or removed in the future 
+. 
+Syntax:  
+ deleteCollection object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

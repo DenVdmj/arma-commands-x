@@ -1,0 +1,10 @@
+WFSideText 
+Game: ARMA 2  (1.04) 
+Description: Returns the unlocalized text value of an object's side / a group's side or a side as: 
+East, West, Resistance, Civilian or Unknown
+Syntax:  
+ WFSideText objectOrGroupOrSide 
+Parameters: 
+objectOrGroupOrSide: Object, Group or Side 
+Return Value: 
+ String - unlocalized text value of objectOrGroupOrSide's Side

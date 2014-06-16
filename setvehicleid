@@ -1,0 +1,11 @@
+setVehicleId 
+Game: Armed Assault (1.00) 
+Description: Sets id (integer value) to vehicle. By this id vehicle is referenced 
+ by triggers and waypoints.  
+Syntax:  
+ vehicleName setVehicleId id 
+Parameters: 
+vehicleName: Object 
+id: Number 
+Return Value: 
+ Nothing

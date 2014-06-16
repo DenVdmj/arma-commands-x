@@ -1,0 +1,13 @@
+aimedAtTarget 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns how good the weapon of the vehicle is aimed at the target 
+.  
+Syntax:  
+ vehicle aimedAtTarget [target, weapon] 
+Parameters: 
+vehicle: Object 
+[target, weapon]: Array 
+target: Object 
+weapon: String - (optional) 
+Return Value: 
+ Number

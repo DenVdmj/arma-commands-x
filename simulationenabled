@@ -1,0 +1,9 @@
+simulationEnabled 
+Game: ARMA 2  (1.00) 
+Description: Check if the entity has enabled simulation.   
+Syntax:  
+ simulationEnabled entity 
+Parameters: 
+entity: Object 
+Return Value: 
+ Boolean

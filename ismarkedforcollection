@@ -1,0 +1,9 @@
+isMarkedForCollection 
+Game: Armed Assault (1.00) 
+Description: Checks whether the object is marked for weapons collection.  
+Syntax:  
+  Boolean = isMarkedForCollection object 
+Parameters: 
+object: Object 
+Return Value: 
+ Boolean

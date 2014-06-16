@@ -1,0 +1,10 @@
+scriptDone 
+Game: Armed Assault (1.00) 
+Description: Check if a script is finished running using the Script_(Handle) returned 
+ by execVM or spawn.  
+Syntax:  
+ scriptDone handle 
+Parameters: 
+handle: Script_(Handle) returned by spawn or execVM 
+Return Value: 
+ Boolean

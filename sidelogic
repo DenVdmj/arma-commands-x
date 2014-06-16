@@ -1,0 +1,7 @@
+sideLogic 
+Game: Operation Flashpoint: Resistance (1.90) 
+Description: The Logic side.  
+Syntax:  
+ Side = sideLogic 
+Return Value: 
+ Side

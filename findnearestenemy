@@ -1,0 +1,11 @@
+findNearestEnemy 
+Game: Armed Assault (1.00) 
+Description: Find the nearest enemy to the specified position. Returns a null 
+ object if the object's group does not know about any enemies.  
+Syntax:  
+ object findNearestEnemy position 
+Parameters: 
+object: Object 
+position: Object or Array 
+Return Value: 
+ Object

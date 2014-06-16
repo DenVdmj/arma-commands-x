@@ -1,0 +1,9 @@
+resistance 
+Game: Operation Flashpoint (1.00) 
+Description: Resistance side.  
+When used in a format statement (hint format["%1",resistance]), the string 
+ returned is "GUER". 
+Syntax:  
+ Side = resistance 
+Return Value: 
+ Side

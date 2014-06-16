@@ -1,0 +1,9 @@
+atan 
+Game: Operation Flashpoint (1.00) 
+Description: ArcTangent of a number, result in Degrees.  
+Syntax:  
+ Number = atan x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

@@ -1,0 +1,17 @@
+findEmptyPosition 
+Game: ARMA 2  (1.00) 
+Description: Searches for an empty position around a center location. 
+The search starts looking for an empty position at a minimum distance 
+ of [radius] from the [center] and looks as far away as [maxDistance 
+]. 
+If a [vehicleType] parameter is specified, then the search will look 
+ for empty positions that are big enough to hold that vehicle type 
+. 
+If an empty position isn't found, an empty array is returned.   
+Syntax:  
+ center findEmptyPosition [radius,maxDistance] or [radius,maxDistance,vehicleType] 
+Parameters: 
+center: Array - 
+[radius,maxDistance,vehicleType]: Array - 
+Return Value: 
+ Array

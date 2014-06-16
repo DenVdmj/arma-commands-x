@@ -1,0 +1,11 @@
+cutText 
+Game: Operation Flashpoint (1.00) 
+Description: Displays a text message in the center of the screen. 
+Syntax:  
+ cutText [text,type,speed] 
+Parameters: 
+text: String - text to be displayed 
+type: String one of "PLAIN", "PLAIN DOWN", "BLACK", "BLACK FADED", "BLACK OUT", "BLACK IN", "WHITE OUT" and "WHITE IN". See Title Effect Types for more information about these values. 
+speed: Number - Time in seconds to fade in resource (optional, default: 1) 
+Return Value: 
+ Nothing

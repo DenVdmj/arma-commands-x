@@ -1,0 +1,9 @@
+ctrlScale 
+Game: Armed Assault (1.00) 
+Description: Returns the current scale of the control.  
+Syntax:  
+ Number = ctrlScale controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Number

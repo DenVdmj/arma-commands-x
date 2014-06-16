@@ -1,0 +1,9 @@
+assignedGunner 
+Game: ARMA 2  (1.00) 
+Description: Returns the soldier assigned to the given vehicle as a gunner.  
+Syntax:  
+ assignedGunner vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Object

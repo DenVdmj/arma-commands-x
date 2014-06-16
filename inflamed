@@ -1,0 +1,10 @@
+inflamed 
+Behavior: global 
+Game: Operation Flashpoint (1.04) 
+Description: Check if fireplace is inflamed (burning) or not.  
+Syntax:  
+ Boolean = inflamed fireplace 
+Parameters: 
+fireplace: Object 
+Return Value: 
+ Boolean

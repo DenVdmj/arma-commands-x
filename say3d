@@ -1,0 +1,16 @@
+say3D 
+Game: ARMA 2  (1.00) 
+Description: Unit or object will say given sound in 3D Space. 
+This allows broadcasting of positional music or sound from a source 
+, without having to script a fade sound or music command. 
+Compare this with say2D which will always play a sound at the location 
+ of the player after he has been in the vicinity of a broadcasting 
+ sound. 
+Sound is defined in CfgSound of the Description.ext.  
+Syntax:  
+ unit say3D sound 
+Parameters: 
+unit: Object - 
+sound: String - classname. Defined in Description.ext 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+fleeing 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Checks if a unit is fleeing.  
+Syntax:  
+ Boolean = fleeing unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean -  Returns true if a unit is fleeing, false if not. Dead or empty units return false.

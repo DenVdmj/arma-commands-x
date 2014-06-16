@@ -1,0 +1,12 @@
+moveInGunner 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Move soldier into vehicle gunner position (Immediate, no animation 
+).  
+Syntax:  
+ unitName moveInGunner vehicle 
+Parameters: 
+unitName: Object 
+vehicle: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+htmlLoad 
+Game: Armed Assault (1.00) 
+Description: Load HTML from file to given control. File path is relative to current 
+ mission dir or an absolute path (with drive letter etc.).   
+Syntax:  
+ control htmlLoad filename 
+Parameters: 
+control: Control 
+filename: String 
+Return Value: 
+ Nothing

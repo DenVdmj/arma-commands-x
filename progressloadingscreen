@@ -1,0 +1,10 @@
+progressLoadingScreen 
+Game: ARMA 2  (1.00) 
+Description: If loading screen is show,set progress bar to the given value (from 
+ interval [0,1])  
+Syntax:  
+ progressLoadingScreen progress 
+Parameters: 
+progress: Number - 
+Return Value: 
+ Nothing

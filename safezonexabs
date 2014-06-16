@@ -1,0 +1,8 @@
+safeZoneXAbs 
+Game: ARMA 2  (1.03) 
+Description: Returns SafeZone left border (of all monotors, in case there's more 
+ than one)  
+Syntax:  
+ safeZoneXAbs 
+Return Value: 
+ Number

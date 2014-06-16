@@ -1,0 +1,14 @@
+lbAdd 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Adds an item with the given text to the listbox or combobox with 
+ id idc of the topmost user dialog. 
+It returns the index of the newly added item.  
+Syntax:  
+ Number = lbAdd [idc, text] 
+Parameters: 
+[idc, text]: Array 
+idc: Number of control 
+text: String 
+Return Value: 
+ Number

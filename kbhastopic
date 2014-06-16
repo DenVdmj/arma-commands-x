@@ -1,0 +1,10 @@
+kbHasTopic 
+Game: ARMA 2  (1.00) 
+Description: Check if conversation topic was registered to given person. 
+Syntax:  
+ Boolean = person kbHasTopic TopicName 
+Parameters: 
+person: Object 
+TopicName: String 
+Return Value: 
+ Boolean

@@ -1,0 +1,10 @@
+saveVar 
+Game: Operation Flashpoint (1.00) 
+Description: Save variable value into the campaign space. This variable is available 
+ to all following missions in the campaign.  
+Syntax:  
+ saveVar varname 
+Parameters: 
+varname: String 
+Return Value: 
+ Nothing

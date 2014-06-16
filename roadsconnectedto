@@ -1,0 +1,9 @@
+roadsConnectedTo 
+Game: ARMA 2  (1.00) 
+Description: Find the road segments connected to the given road segment.   
+Syntax:  
+ roadsConnectedTo road segment 
+Parameters: 
+road segment:  - 
+Return Value: 
+ Array

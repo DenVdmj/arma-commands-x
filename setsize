@@ -1,0 +1,11 @@
+setSize 
+Game: Armed Assault (1.08) 
+Description: Sets the size (radius)  of a location. 
+The width  is 2 * x, the height is 2 * y.  
+Syntax:  
+ location setSize size 
+Parameters: 
+location: Location 
+size: Array 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+priority 
+Game: ARMA 2  (1.00) 
+Description: Return the priority of the task.  
+Syntax:  
+ priority task 
+Parameters: 
+task: Task 
+Return Value: 
+ Number

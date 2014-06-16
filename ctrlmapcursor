@@ -1,0 +1,19 @@
+ctrlMapCursor 
+Game: ARMA 2  (1.00) 
+Description: Changes the default the cursor that appears when interacting with 
+ a map control to a custom one. 
+Use an empty string to restore the default cursor.If the specified 
+ cursor does not exist, the default is used and no error is produced 
+. 
+The cursor texture is one of the following and is case sensitive 
+: Track Move Array Scroll 
+Custom cursor is the name of a config entry from CfgWrapperUI / Cursors 
+.  
+Syntax:  
+ control ctrlMapCursor [cursorTexture, customCursor] 
+Parameters: 
+control: Control - Map control 
+cursorTexture: String - Cursor texture name 
+customCursor: String - Cursor class name 
+Return Value: 
+ Nothing

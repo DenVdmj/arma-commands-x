@@ -1,0 +1,11 @@
+combatMode 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the combat mode of the given unit. See setCombatMode for more 
+ information about combat modes.  
+Syntax:  
+ String = combatMode grp 
+Parameters: 
+grp: Object or Group 
+Return Value: 
+ String -  One of "BLUE", "GREEN", "WHITE, "YELLOW" and "RED"

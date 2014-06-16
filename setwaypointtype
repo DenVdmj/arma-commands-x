@@ -1,0 +1,15 @@
+setWaypointType 
+Game: Armed Assault (1.00) 
+Description: Changes the waypoint type.  
+Type can be: "MOVE" "DESTROY" "GETIN" "SAD" "JOIN" "LEADER" "GETOUT 
+" "CYCLE" "LOAD" "UNLOAD" "TR UNLOAD" "HOLD" "SENTRY" "GUARD" "TALK 
+" "SCRIPTED" "SUPPORT" "GETIN NEAREST" "DISMISS" "LOITER" (new in Arma 
+ 3) "AND" (only for game logics) "OR" (only for game logics) 
+More details at Waypoint types. 
+Syntax:  
+ waypoint setWaypointType type 
+Parameters: 
+waypoint: Array - format Waypoint 
+type: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,12 @@
+createVehicle 
+Game: Operation Flashpoint (1.34) 
+Description: Create an empty object of given type classname at given position 
+. 
+For a full class reference see Classes.  
+Syntax:  
+ Object = type createVehicle position 
+Parameters: 
+type: String - vehicle/object className 
+position: Array - format Position to create the vehicle at 
+Return Value: 
+ Object

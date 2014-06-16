@@ -1,0 +1,11 @@
+setViewDistance 
+Game: Operation Flashpoint (1.00) 
+Description: Set rendering distance, in metres. Default is 900m (in OFP) or 1,200m 
+ (in ArmA), accepted range is 500m to 5,000m (in OFP) or 10,000m 
+ (in ArmA).  
+Syntax:  
+ setViewDistance distance 
+Parameters: 
+distance: Number 
+Return Value: 
+ Nothing

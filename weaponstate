@@ -1,0 +1,11 @@
+weaponState 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Returns the current weapon state as an array of strings in the following 
+ format [WeaponName, MuzzleName, ModeName, MagazineName, AmmoCount 
+] (AmmoCount is Number).  
+Syntax:  
+ weaponState unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Array: ["m16a4","m16a4","Single","30Rnd_556x45_Stanag",29]

@@ -1,0 +1,9 @@
+waypointShow 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint show/hide status.  
+Syntax:  
+ waypointShow waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ String

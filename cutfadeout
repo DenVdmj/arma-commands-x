@@ -1,0 +1,11 @@
+cutFadeOut 
+Game: Armed Assault (1.05) 
+Description: Terminate the effect in the given layer and set duration of the fade 
+ out phase to the given time.  
+Syntax:  
+ layer cutFadeOut delay 
+Parameters: 
+layer: Number 
+delay: Number 
+Return Value: 
+ Nothing

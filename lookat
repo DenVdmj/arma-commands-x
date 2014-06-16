@@ -1,0 +1,10 @@
+lookAt 
+Game: Armed Assault (1.00) 
+Description: Control what the unit(s) is/are looking at (target or position).  
+Syntax:  
+ unit(s) lookAt position 
+Parameters: 
+unit(s): Object or Array 
+position: Object or Array 
+Return Value: 
+ Nothing

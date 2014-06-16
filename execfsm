@@ -1,0 +1,12 @@
+execFSM 
+Game: ARMA 2  (1.00) 
+Description: Execute the scripted FSM. The FSM file is first searched in the mission 
+ folder, then in the campaign scripts folder and finally in the global 
+ scripts folder. Returns the FSM handler or 0 when failed.  
+Syntax:  
+ Number = argument execFSM filename 
+Parameters: 
+argument: Any Value(s) 
+filename: String 
+Return Value: 
+ Number

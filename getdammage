@@ -1,0 +1,9 @@
+getDammage 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the object damage in the range from 0 to 1.    
+Syntax:  
+ Number = getDammage object 
+Parameters: 
+object: Object 
+Return Value: 
+ Number

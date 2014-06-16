@@ -1,0 +1,9 @@
+waypointAttachedObject 
+Game: ARMA 2  (1.00) 
+Description: Gets the object attached to the waypoint.  
+Syntax:  
+ waypointAttachedObject waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ Object

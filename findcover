@@ -1,0 +1,18 @@
+findCover 
+Game: Armed Assault (1.00) 
+Description: Returns the object around where the unit finds cover. The minDist 
+, visibilityPosition and ignoreObject parameters are optional. Command 
+ is not functional in ArmA 2.  
+Syntax:  
+ Object = object findCover [position, hidePosition, maxDist, minDist, visibilityPosition, ignoreObject] 
+Parameters: 
+object: Object 
+[position, hidePosition, maxDist, minDist, visibilityPosition, ignoreObject]: Array 
+position: Array - format Position 
+hidePosition: Array - format Position Position of that which the unit should hide from 
+maxDist: Number 
+minDist: Number (Optional) 
+visibilityPosition: Array - format Position (Optional) used to select cover that unit can see in that direction from 
+ignoreObject: Object (Optional) Ignore this object in visibility check 
+Return Value: 
+ Object

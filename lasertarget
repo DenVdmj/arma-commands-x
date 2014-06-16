@@ -1,0 +1,11 @@
+laserTarget 
+Behavior: local 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns target created by given unit (gunner in vehicle or on foot 
+).  
+Syntax:  
+ laserTarget unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Object

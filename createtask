@@ -1,0 +1,8 @@
+createTask 
+Game: ARMA 2  (1.00) 
+Description: Create a new AI task (subtask of parentTask). Type is name of registered 
+ task type.  
+Syntax:  
+ teamMember createTask  [[type] or [type, parentTask], priority, name1, value1, name2, value2,...] 
+Return Value: 
+ Task

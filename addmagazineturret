@@ -1,0 +1,17 @@
+addMagazineTurret 
+Behavior: local 
+Game: ArmA 2: Operation Arrowhead (1.52) 
+Description: Adds a magazine to the turret. Use turret path [-1] for driver's turret 
+. 
+Note: you may create invalid combinations by using this function 
+, for example by adding 20 grenades. When doing so, application behaviour 
+ is undefined.  
+Syntax:  
+ vehicle addMagazineTurret [magazineName, turretPath] 
+Parameters: 
+vehicle: Object 
+[weaponName, turretPath]: Array 
+magazineName: String 
+turretPath: Array 
+Return Value: 
+ Nothing

@@ -1,0 +1,15 @@
+selectionPosition 
+Game: Armed Assault (1.00) 
+Description: Search for selection in the object model (first in the memory level 
+, then in geometry LODs, then in roadway LOD [VBS2 only]). 
+Returns position in model space. In A1 it returns the initial position 
+ of the selection, in A2 and VBS2 it returns the current position 
+ of the selection (e.g. when it is animated). 
+If a selection does not exist [0,0,0] is returned.  
+Syntax:  
+ object selectionPosition selectionName 
+Parameters: 
+object: Object 
+selectionName: String 
+Return Value: 
+ Array

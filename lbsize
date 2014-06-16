@@ -1,0 +1,11 @@
+lbSize 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Return number of items of listbox or combobox with id idc of topmost 
+ user dialog.  
+Syntax:  
+ lbSize idc 
+Parameters: 
+idc: Number 
+Return Value: 
+ Number

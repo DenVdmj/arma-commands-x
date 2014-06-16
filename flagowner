@@ -1,0 +1,10 @@
+flagOwner 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the owner of a flag.  
+Syntax:  
+ Object = flagOwner flag 
+Parameters: 
+flag: Object 
+Return Value: 
+ Object -  The person or vehicle that owns the flag is returned. If used on anything else than a flag, the returned value is objNull.  If the flag is on its pole, the return value is NULL.  If the flagowner is dead, the return value is the name of the soldier model.

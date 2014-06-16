@@ -1,0 +1,13 @@
+kbWasSaid 
+Game: ARMA 2  (1.00) 
+Description: Check if given item was said by person to someone.   
+Syntax:  
+ person kbWasSaid [receiver,topic,sentence id,max. age] 
+Parameters: 
+person: Person - who said the item 
+[receiver,topic,sentence id,max. age]: Array 
+receiver: Person - receiver of the sentence 
+topic: String - name of the topic used in kbAddTopic 
+max. age: Number - time in seconds. kbWasSaid will check whether the sentence was said in last max. age seconds 
+Return Value: 
+ Boolean

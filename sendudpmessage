@@ -1,0 +1,13 @@
+sendUDPMessage 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Send message to given address using UDP protocol. Returns false if the message 
+ has not been delivered  
+Note: Not implemented (see talk page for more info). 
+Syntax:  
+ sendUDPMessage [ip, port, message] 
+Parameters: 
+ip: String 
+port: 
+message: String 
+Return Value: 
+ Boolean

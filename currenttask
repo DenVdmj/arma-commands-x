@@ -1,0 +1,9 @@
+currentTask 
+Game: ARMA 2  (1.00) 
+Description: Return current task of given person.  
+Syntax:  
+ currentTask person 
+Parameters: 
+person: Object - 
+Return Value: 
+ Task

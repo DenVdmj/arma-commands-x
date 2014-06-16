@@ -1,0 +1,9 @@
+ctrlActivate 
+Game: Armed Assault (1.00) 
+Description: Launch actions attached to given (button based) control.  
+Syntax:  
+ ctrlActivate controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Nothing

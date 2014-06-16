@@ -1,0 +1,9 @@
+surfaceNormal 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Return surface normal on given position.  
+Syntax:  
+ surfaceNormal position 
+Parameters: 
+position: Array - format Position2D 
+Return Value: 
+ Array - Example: [-0.102321,0.19977,0.974486]

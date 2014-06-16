@@ -1,0 +1,10 @@
+private 
+Game: Operation Flashpoint (1.00) 
+Description: Sets a variable to the innermost scope. The variable has to be local 
+.  
+Syntax:  
+ private variableName 
+Parameters: 
+variableName: String 
+Return Value: 
+ Nothing

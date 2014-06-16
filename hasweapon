@@ -1,0 +1,11 @@
+hasWeapon 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Checks if a unit has the given weapon.  
+Syntax:  
+ Boolean = unitName hasWeapon weaponName 
+Parameters: 
+unitName: Object 
+weaponName: String - the name of the weapon to check for. 
+Return Value: 
+ Boolean -  Returns true if the unit has the weapon, false if not.

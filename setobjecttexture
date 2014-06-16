@@ -1,0 +1,15 @@
+setObjectTexture 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Textures object selection with texture named in array.  
+Array has the form [selectionNumber,"Texture"]. The selection number 
+ is defined through the  hiddenselection[]={} array in the vehicle 
+'s config (starting with 0).  
+Syntax:  
+ object setObjectTexture [selectionNumber,texture] 
+Parameters: 
+object: Object 
+[selectionNumber,texture]: Array 
+selectionNumber: Number 
+texture: String 
+Return Value: 
+ Nothing

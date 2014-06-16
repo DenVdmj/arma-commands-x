@@ -1,0 +1,11 @@
+scopeName 
+Game: Armed Assault (1.00) 
+Description: Defines name of current scope. Name is visible in debugger, and name 
+ is also used as reference in some commands. Scope name can be defined 
+ only once per scope.  
+Syntax:  
+ scopeName name 
+Parameters: 
+name: String 
+Return Value: 
+ Nothing

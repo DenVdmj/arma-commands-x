@@ -1,0 +1,9 @@
+waypointStatements 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint statements.  
+Syntax:  
+ waypointStatements waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ Array

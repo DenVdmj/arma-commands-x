@@ -1,0 +1,9 @@
+lnbClear 
+Game: ARMA 2  (1.00) 
+Description: Clears all items in the 2D listbox.  
+Syntax:  
+ lnbClear idc 
+Parameters: 
+idc: Number - 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+surfaceType 
+Game: Armed Assault (1.00) 
+Description: Returns what surface is at the given position.  
+Syntax:  
+ String = surfaceType [x, y] 
+Parameters: 
+[x, y]: Array - format Position2D 
+Return Value: 
+ String

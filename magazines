@@ -1,0 +1,10 @@
+magazines 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Returns array of type names of all a vehicles (soldier unit is also 
+ a vehicle) magazines.  
+Syntax:  
+ magazines vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Array

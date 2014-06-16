@@ -1,0 +1,7 @@
+moonIntensity 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the intensity of the moon's brightness.  
+Syntax:  
+ Number = moonIntensity 
+Return Value: 
+ Number

@@ -1,0 +1,9 @@
+collapseObjectTree 
+Game: ARMA 2  (1.00) 
+Description: Collapse the object tree.  
+Syntax:  
+ collapseObjectTree map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+try 
+Game: Armed Assault (1.00) 
+Description: Defines a try-catch structure. This sets up an exception handling 
+ block. Any thrown exception in a try block is caught in a catch 
+ block. The structured exception block has following form: 
+try //begin of try-catch block  { //block, that can throw exception 
+ } catch { //block, that process an exception. Exception is described 
+ in _exception variable };   
+Syntax:  
+ try code 
+Parameters: 
+code: Code 
+Return Value: 
+ Exception Type

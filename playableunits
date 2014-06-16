@@ -1,0 +1,8 @@
+playableUnits 
+Game: ARMA 2  (1.00) 
+Description: Return a list of playable units (occupied by both AI or players) in a multiplayer 
+ game.  
+Syntax:  
+ playableUnits 
+Return Value: 
+ Array

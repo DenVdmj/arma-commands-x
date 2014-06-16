@@ -1,0 +1,9 @@
+reloadEnabled 
+Game: Armed Assault (1.00) 
+Description: Check whether magazine is reloaded whenever emptied.  
+Syntax:  
+ Boolean =  reloadEnabled unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean

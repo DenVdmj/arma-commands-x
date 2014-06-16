@@ -1,0 +1,14 @@
+side 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the side of a unit or object. 
+Once dead, a unit will be on the civilian side. Query the side of the Group 
+ to get a reliable result. 
+When used in conjunction with a format statement (hint format["%1",side 
+ player]), the returned strings are: "WEST", "EAST", "GUER", "CIV", "LOGIC 
+", "ENEMY" (eg: renegades), "AMBIENT LIFE" or "UNKNOWN". 
+Syntax:  
+ Side = side unitName 
+Parameters: 
+unitName: Object or Group 
+Return Value: 
+ Side

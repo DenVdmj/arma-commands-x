@@ -1,0 +1,13 @@
+addWeapon 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Add a weapon to a unit. Infantry units can only carry a specific 
+ number of weapons, once the weapon slots are filled, any further 
+ addWeapon commands are ignored.  
+Syntax:  
+ unitName addWeapon weaponName 
+Parameters: 
+unitName: Object - unit to add the weapon to 
+weaponName: String - weapon name. See the topic Category:Weapons for reference about possible values. 
+Return Value: 
+ Nothing

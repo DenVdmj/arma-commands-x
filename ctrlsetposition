@@ -1,0 +1,11 @@
+ctrlSetPosition 
+Game: Armed Assault (1.00) 
+Description: Sets wanted position and size for control animation. 
+Width and height are optional.   
+Syntax:  
+ controlName ctrlSetPosition [x, y, w, h] 
+Parameters: 
+controlName: Control 
+[x, y, w, h]: Array 
+Return Value: 
+ Nothing

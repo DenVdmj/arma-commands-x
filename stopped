@@ -1,0 +1,9 @@
+stopped 
+Game: Operation Flashpoint (1.00) 
+Description: Check if unit is stopped by stop command.  
+Syntax:  
+ Boolean = stopped unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean

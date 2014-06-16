@@ -1,0 +1,9 @@
+hcLeader 
+Game: ARMA 2  (1.00) 
+Description: Returns group's HC commander.  
+Syntax:  
+ hcLeader group 
+Parameters: 
+group: Group - 
+Return Value: 
+ Object

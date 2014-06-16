@@ -1,0 +1,8 @@
+exit 
+Game: Operation Flashpoint (1.00) 
+Description: Stops the execution of a  SQS script. 
+It's ignored in  SQF Scripts. 
+Syntax:  
+ exit 
+Return Value: 
+ Nothing

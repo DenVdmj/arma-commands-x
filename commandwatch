@@ -1,0 +1,13 @@
+commandWatch 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Orders the unit(s) to watch the given position or target (via the radio 
+). Use objNull as the target to order a unit to stop watching a position 
+/target  
+Syntax:  
+ unitName(s) commandWatch position 
+Parameters: 
+unitName(s): Object or Array 
+position: Array - format Position 
+Return Value: 
+ Nothing

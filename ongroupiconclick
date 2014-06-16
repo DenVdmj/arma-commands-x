@@ -1,0 +1,9 @@
+onGroupIconClick 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when palyer clicked on group marker (3D or in a map)  
+Syntax:  
+ onGroupIconClick command 
+Parameters: 
+command:  - 
+Return Value: 
+ Nothing

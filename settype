@@ -1,0 +1,11 @@
+setType 
+Game: Armed Assault (1.08) 
+Description: Changes a location to the specified class. Location classes are defined 
+ in CfgLocationTypes.  
+Syntax:  
+ location setType name 
+Parameters: 
+location: Location 
+name: String 
+Return Value: 
+ Nothing

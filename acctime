@@ -1,0 +1,7 @@
+accTime 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the current time acceleration factor  
+Syntax:  
+  Number = accTime 
+Return Value: 
+ Number

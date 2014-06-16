@@ -1,0 +1,12 @@
+deActivateKey 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Deactivates the given keyname for the current user profile. The keys 
+ are used to unlock missions or campaigns. 
+See keys, keysLimit and doneKeys in the description.ext file of the missions 
+.  
+Syntax:  
+ deActivateKey keyname 
+Parameters: 
+keyname: String 
+Return Value: 
+ Nothing

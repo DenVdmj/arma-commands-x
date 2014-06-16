@@ -1,0 +1,7 @@
+west 
+Game: Operation Flashpoint (1.00) 
+Description: West side.  
+Syntax:  
+ Side = west 
+Return Value: 
+ Side

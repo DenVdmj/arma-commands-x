@@ -1,0 +1,8 @@
+mapAnimClear 
+Behavior: local 
+Game: Operation Flashpoint (1.27) 
+Description: Clear map animation.  
+Syntax:  
+ mapAnimClear 
+Return Value: 
+ Nothing

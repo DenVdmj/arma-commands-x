@@ -1,0 +1,17 @@
+reveal 
+Game: Operation Flashpoint (1.00) 
+Description: Reveals a unit to a group or another unit.  
+The knowledge value will be set to the highest level any unit of the revealing 
+ side has about the revealed unit. If the revealing side has no knowledge 
+ about the revealed unit, the value will be set to 1. 
+Since ARMA 2 OA 1.60 the alternative syntax is available. Values 
+ greater than or equal 1.5 reveal the side of the unit, too. 
+The knowledge level can only be increased, not decreased by this 
+ command.   
+Syntax:  
+ groupName reveal unitName 
+Parameters: 
+groupName: Object or Group  which receives revealing information 
+unitName: Object  which is revealed 
+Return Value: 
+ Nothing

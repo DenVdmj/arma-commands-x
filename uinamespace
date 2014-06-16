@@ -1,0 +1,7 @@
+uiNamespace 
+Game: ARMA 2  (1.00) 
+Description: Return the global namespace attached to user interface.  
+Syntax:  
+ uiNamespace 
+Return Value: 
+ Namespace

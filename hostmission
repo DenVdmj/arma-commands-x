@@ -1,0 +1,15 @@
+hostMission 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Host the mp mission described by config class. Should be called as reaction 
+ to some UI action in some dialog. 
+For example you can start a MP scenario from a button. It creates 
+ a host and takes you to the lobby with the scenario loaded. 
+You need to provide the display which is active when the hostMission 
+ command is called.  
+Syntax:  
+ hostMission [Config, Display] 
+Parameters: 
+Config: Config 
+Config: Display 
+Return Value: 
+ Nothing

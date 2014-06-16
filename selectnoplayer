@@ -1,0 +1,7 @@
+selectNoPlayer 
+Game: ARMA 2  (1.00) 
+Description: Switch player to no unit.  
+Syntax:  
+ selectNoPlayer 
+Return Value: 
+ Nothing

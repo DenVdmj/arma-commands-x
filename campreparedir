@@ -1,0 +1,10 @@
+camPrepareDir 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera heading.  
+Syntax:  
+ camera camPrepareDir direction 
+Parameters: 
+camera: Object 
+direction: Number 
+Return Value: 
+ Nothing

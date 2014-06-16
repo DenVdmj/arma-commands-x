@@ -1,0 +1,12 @@
+setMarkerTypeLocal 
+Game: Armed Assault (1.04) 
+Description: Set marker type. See cfgMarkers for a list of standard markers. 
+ 
+ 
+Syntax:  
+ markerName setMarkerTypeLocal type 
+Parameters: 
+markerName: String 
+type: String. See cfgMarkers. 
+Return Value: 
+ Nothing

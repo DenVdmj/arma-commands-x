@@ -1,0 +1,13 @@
+addVehicle 
+Behavior: local 
+Game: Armed Assault (1.05) 
+Description: Adds a specified vehicle for use by a specified AI led group. The vehicle 
+ will be considered as an available vehicle for use by his group 
+.  
+Syntax:  
+ groupName addVehicle vehicleName 
+Parameters: 
+groupName: Group 
+vehicleName: Object 
+Return Value: 
+ Nothing

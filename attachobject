@@ -1,0 +1,11 @@
+attachObject 
+Game: Armed Assault (1.08) 
+Description: Attaches a location to the specified object. To detach a location 
+, attach it to objNull. 
+Syntax:  
+ location attachObject object 
+Parameters: 
+location: Location 
+object: Object 
+Return Value: 
+ Nothing

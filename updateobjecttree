@@ -1,0 +1,9 @@
+updateObjectTree 
+Game: ARMA 2  (1.00) 
+Description: Update the editor object tree.  
+Syntax:  
+ updateObjectTree map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

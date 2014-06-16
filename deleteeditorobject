@@ -1,0 +1,11 @@
+deleteEditorObject 
+Game: ARMA 2  (1.00) 
+Description: Delete the editor object. Requires all editor object links to be removed 
+ prior.  
+Syntax:  
+ map deleteEditorObject object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ Any

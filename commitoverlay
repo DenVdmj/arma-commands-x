@@ -1,0 +1,9 @@
+commitOverlay 
+Game: ARMA 2  (1.00) 
+Description: Commit the current overlay.  
+Syntax:  
+ commitOverlay map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

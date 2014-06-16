@@ -1,0 +1,7 @@
+sunOrMoon 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the sun to moon transition state.  
+Syntax:  
+ Number = sunOrMoon 
+Return Value: 
+ Number

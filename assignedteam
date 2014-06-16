@@ -1,0 +1,10 @@
+assignedTeam 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Returns the team the unit belongs to. Possible values: MAIN (default 
+ and white) RED GREEN BLUE YELLOW  
+Syntax:  
+ assignedTeam unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String: "BLUE"

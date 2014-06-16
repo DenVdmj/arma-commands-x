@@ -1,0 +1,10 @@
+visiblePositionASL 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns an object's rendered 3D position ASL (z value above sea level 
+).  
+Syntax:  
+visiblePositionASL object 
+Parameters: 
+object: Object: - name of the object 
+Return Value: 
+ Array - format PositionASL

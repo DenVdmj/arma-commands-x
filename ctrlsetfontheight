@@ -1,0 +1,10 @@
+ctrlSetFontHeight 
+Game: Armed Assault (1.00) 
+Description: Sets the font size of given control.  
+Syntax:  
+ controlName ctrlSetFontHeight height 
+Parameters: 
+controlName: Control 
+height: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,16 @@
+setFlagTexture 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set flag texture. 
+If texture is "", flag is not drawn. 
+Custom texture can be used, as long as it is in *.jpg format, and has dimensions 
+ of 200px*200px. 
+The page Flag Textures shows which textures are available in each 
+ game. 
+Syntax:  
+ flag setFlagTexture texture 
+Parameters: 
+flag: Object 
+texture: String 
+Return Value: 
+ Nothing

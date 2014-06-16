@@ -1,0 +1,10 @@
+setLightAmbient 
+Game: Armed Assault (1.00) 
+Description: Set ambient color of light.  
+Syntax:  
+ light setLightAmbient [r, g, b] 
+Parameters: 
+light: Object 
+[r, g, b]: Array 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+cos 
+Game: Operation Flashpoint (1.00) 
+Description: Cosine of a number, argument in degrees.  
+Syntax:  
+ Number = cos x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

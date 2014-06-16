@@ -1,0 +1,9 @@
+hideBody 
+Game: Armed Assault (1.00) 
+Description: Hides the body of the given person.  
+Syntax:  
+ hideBody person 
+Parameters: 
+person: Object 
+Return Value: 
+ Nothing

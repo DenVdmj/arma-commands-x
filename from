@@ -1,0 +1,10 @@
+from 
+Game: Armed Assault (1.00) 
+Description: Continue sequence of for var command.  
+Syntax:  
+ for "_var" from b 
+Parameters: 
+for "_var": For Type 
+b: Number 
+Return Value: 
+ For Type

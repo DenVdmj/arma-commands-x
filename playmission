@@ -1,0 +1,15 @@
+playMission 
+Game: Armed Assault (1.00) 
+Description: The mission is launched (from the main menu). Both campaign and mission 
+ are given as their directory name. If the campaign is empty, a single 
+ mission is launched. If skipBriefing is true, the intro and briefing 
+ are skipped.  
+Syntax:  
+ playMission [campaign, mission] or [campaign, mission, skipBriefing] 
+Parameters: 
+[campaign, mission] or [campaign, mission, skipBriefing]: Array 
+campaign: String 
+mission: String 
+skipBriefing: Boolean - Optional 
+Return Value: 
+ Nothing

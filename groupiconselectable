@@ -1,0 +1,7 @@
+groupIconSelectable 
+Game: ARMA 2  (1.00) 
+Description: Return if groups icon raises onClick and onOver events.  
+Syntax:  
+ groupIconSelectable 
+Return Value: 
+ Boolean

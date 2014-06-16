@@ -1,0 +1,14 @@
+camSetFov 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set the zoom level (field of view) of the given camera. The default 
+ zoom level is 0.7, 0.01 is the nearest and 2 the furthest zoom value 
+. The angle of the field of view is atan(FOV)*2 radians when in 4:3 aspect 
+ ratio. Needs the call of camCommit to be conducted.  
+Syntax:  
+ camera camSetFov level 
+Parameters: 
+camera: Object - object of type "camera" 
+level: Number - zoom level, range 0.01 to 2 (see description above) 
+Return Value: 
+ Nothing

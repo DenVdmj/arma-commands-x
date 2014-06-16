@@ -1,0 +1,14 @@
+getWPPos 
+Behavior: global 
+Game: Operation Flashpoint (1.21) 
+Description: Returns the position of a selected waypoint of a given group. Waypoints 
+ include only those which were placed in the mission editor.  
+Syntax:  
+ Array = getWPPos [group, index] 
+Parameters: 
+[group, index]: Array 
+group: Group - the group/unit, of which you want to select a waypoint 
+index: Number - 0 equals the starting position of the group. 
+The number used in this and other waypoint commands is one more than the one displayed in the waypoint window in the editor. (i.e. if the editor labeled a WP "0:MOVE" the you would have to use getWPPos [grp,1] to access this particular WP 
+Return Value: 
+ Array - format Position3D. The returned position equals [0,0,0], if the selected waypoint doesn't exist.

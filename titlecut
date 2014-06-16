@@ -1,0 +1,12 @@
+titleCut 
+Game: Operation Flashpoint (1.00) 
+Description: Obsolete command. Use cutText instead.  
+Syntax:  
+ titleCut [text, type, speed] 
+Parameters: 
+[text, type, speed]: Array 
+text: String 
+type: String 
+speed: Number - optional, default 1. 
+Return Value: 
+ Nothing

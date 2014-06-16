@@ -1,0 +1,7 @@
+isMultiplayer 
+Game: ARMA 2  (1.00) 
+Description: Return true if multiPlayer.  
+Syntax:  
+ isMultiplayer 
+Return Value: 
+ Boolean

@@ -1,0 +1,21 @@
+list 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: List of units that would activate given Trigger. 
+It returns nothing before the simulation strted, i.e. in (undelayed 
+) init.sqf files or in VBS OME. Returns a pointer to the trigger 
+'s list after the simulation started. 
+Since this is just a reference this means that the value in your 
+ local variable will change as the content of the trigger area changes 
+. To permanently copy the returned list to a different variable, use _mylist 
+ = +(list triggerOne). 
+The second example can be used inside the trigger (in that case, no need 
+ to name your trigger). 
+For trigger of type "Not present" the list is the same as that returned 
+ for "present".  
+Syntax:  
+Array =  list trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Array or Nothing

@@ -1,0 +1,12 @@
+commandFollow 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit to follow the given other unit (via the radio 
+).  
+Syntax:  
+ unitName commandFollow followedunit 
+Parameters: 
+unitName: Object or Array 
+followedunit: Object 
+Return Value: 
+ Nothing

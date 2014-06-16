@@ -1,0 +1,11 @@
+directSay 
+Game: ARMA 2  (1.00) 
+Description: Sends the message to the direct channel. The message is defined in the description 
+.ext file, radio protocol, or a kbAddTopic.  
+Syntax:  
+ unit directSay radioName 
+Parameters: 
+unit: Object - 
+radioName: String - 
+Return Value: 
+ Nothing

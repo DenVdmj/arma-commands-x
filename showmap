@@ -1,0 +1,9 @@
+showMap 
+Game: Operation Flashpoint (1.00) 
+Description: Enable Map (default true)  
+Syntax:  
+ showMap show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

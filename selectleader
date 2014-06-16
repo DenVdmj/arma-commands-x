@@ -1,0 +1,11 @@
+selectLeader 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Select a group's leader.  
+Syntax:  
+ groupName selectLeader unitName 
+Parameters: 
+groupName: Group 
+unitName: Object 
+Return Value: 
+ Nothing

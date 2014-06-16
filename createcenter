@@ -1,0 +1,15 @@
+createCenter 
+Game: Armed Assault (1.00) 
+Description: Creates a new AI HQ for the given side. An 'HQ ' is something each 
+ side needs to have to be able to communicate. By default, all centers 
+ for units which are present in the mission are created before the mission 
+ is started. This command can be used to initialize a side which 
+ has no units present in the Mission.sqm, so that you can spawn groups 
+ and units for it. 
+For the available sides see Side.  
+Syntax:  
+ Side = createCenter side 
+Parameters: 
+side: Side 
+Return Value: 
+ Side

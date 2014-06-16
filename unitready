@@ -1,0 +1,10 @@
+unitReady 
+Game: Operation Flashpoint (1.00) 
+Description: Check if the unit is ready. Unit is busy when it is given some command 
+ like move, until the command is finished.  
+Syntax:  
+ Boolean = unitReady unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean

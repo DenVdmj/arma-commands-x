@@ -1,0 +1,13 @@
+joinAsSilent 
+Game: ARMA 2  (1.00) 
+Description: Joins the unit to the given group, if position id is available, this 
+ one is used. Avoid any radio communication related to joining.  
+Syntax:  
+ unit joinAsSilent [group, id] 
+Parameters: 
+unit: Object 
+[group, id]: Array 
+group: Group 
+id: Number 
+Return Value: 
+ Nothing

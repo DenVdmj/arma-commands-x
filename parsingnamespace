@@ -1,0 +1,7 @@
+parsingNamespace 
+Game: ARMA 2  (1.00) 
+Description: Return the global namespace attached to config parser.  
+Syntax:  
+ parsingNamespace 
+Return Value: 
+ Namespace

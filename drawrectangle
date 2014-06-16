@@ -1,0 +1,10 @@
+drawRectangle 
+Game: Armed Assault (1.00) 
+Description: Draw a Rectangle on the map.  
+Syntax:  
+ map drawRectangle [center, a, b, angle, color, fill] 
+Parameters: 
+map: Control 
+[center, a, b, angle, color, fill]: Array 
+Return Value: 
+ Nothing

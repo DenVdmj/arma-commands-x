@@ -1,0 +1,23 @@
+onMapSingleClick 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Define action performed when user clicks in map by executing command 
+ string. 
+the string receives 3 (localised in scope) variables: _pos: Array 
+ - Clicked position _units: Array - Units which were selected (via function 
+ keys) before opening the map (may be non-functional in Arma) _shift 
+, _alt Boolean - Whether &lt;Shift&gt; or &lt;Alt&gt; were pressed 
+ when clicking on the map 
+When click is processed, code should ultimately return true back 
+ to the engine. If false is returned, default processing by the game 
+ engine is done. Return value of any other type (including Nothing 
+) is an error. In such case default processing by the game engine 
+ is done, and error message may be displayed. 
+The code is executed on every click, until the Command is removed 
+ via onMapSingleClick "", orreplaced by onMapSingleClick "SomeOtherCommand 
+(s)" 
+Syntax:  
+ onMapSingleClick command 
+Parameters: 
+command: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+triggerActivation 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger activation in the form [by, type, repeating].  
+Syntax:  
+ triggerActivation trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Array

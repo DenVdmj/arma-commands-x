@@ -1,0 +1,10 @@
+ctrlMapScreenToWorld 
+Game: Armed Assault (1.05) 
+Description: Convert screen coordinates in map to world coordinates.  
+Syntax:  
+ map ctrlMapScreenToWorld [x, y] 
+Parameters: 
+map: Control 
+[x, y]: Array 
+Return Value: 
+ Array (Position2D Format)

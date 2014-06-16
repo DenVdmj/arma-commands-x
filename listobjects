@@ -1,0 +1,10 @@
+listObjects 
+Game: ARMA 2  (1.00) 
+Description: Return the list of all objects of given type.  
+Syntax:  
+ map listObjects type 
+Parameters: 
+map: Control - 
+type: String - 
+Return Value: 
+ Array

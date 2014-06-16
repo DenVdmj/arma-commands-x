@@ -1,0 +1,9 @@
+loadFile 
+Game: Operation Flashpoint: Resistance (1.90) 
+Description: Return content of given filename.  
+Syntax:  
+ String = loadFile filename 
+Parameters: 
+filename: String 
+Return Value: 
+ String

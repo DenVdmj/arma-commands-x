@@ -1,0 +1,9 @@
+getGroupIcons 
+Game: ARMA 2  (1.00) 
+Description: Returns all group icons. [id,icon,[offsetx,offsety],[..],..]  
+Syntax:  
+ getGroupIcons group 
+Parameters: 
+group: Group - 
+Return Value: 
+ Array

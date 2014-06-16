@@ -1,0 +1,9 @@
+resources 
+Game: ARMA 2  (1.00) 
+Description: Returns the resources of a team member.  
+Syntax:  
+ resources member 
+Parameters: 
+member: Team Member - 
+Return Value: 
+ returnValue

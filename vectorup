@@ -1,0 +1,9 @@
+vectorUp 
+Game: Armed Assault (1.00) 
+Description: Return object's up vector in world Position coordinates ( [x, y, z] ).  
+Syntax:  
+ Array = vectorUp objectName 
+Parameters: 
+objectName: Object 
+Return Value: 
+ Array - format Position

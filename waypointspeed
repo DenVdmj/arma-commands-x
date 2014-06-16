@@ -1,0 +1,10 @@
+waypointSpeed 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint speed. 
+Possible values are: "UNCHANGED" "LIMITED" "NORMAL" "FULL" 
+Syntax:  
+ waypointSpeed waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ String

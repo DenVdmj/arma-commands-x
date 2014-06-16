@@ -1,0 +1,9 @@
+ctrlMapScale 
+Game: Armed Assault (1.00) 
+Description: Return the current scale of the map control.   
+Syntax:  
+ Number =  ctrlMapScale controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Number

@@ -1,0 +1,12 @@
+camSetRelPos 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set the position of the given camera relative to its target set with 
+ camSetTarget.Needs the call of camCommit to be conducted.  
+Syntax:  
+ camera camSetRelPos position 
+Parameters: 
+camera: Object - object of type "camera" 
+position: Array - relative Position 
+Return Value: 
+ Nothing

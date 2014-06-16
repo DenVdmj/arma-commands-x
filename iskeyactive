@@ -1,0 +1,12 @@
+isKeyActive 
+Game: Armed Assault (1.00) 
+Description: Checks whether the given key is active in the current user profile 
+. 
+See keys, keysLimit and doneKeys in the description.ext file of the missions 
+.  
+Syntax:  
+ isKeyActive keyName 
+Parameters: 
+keyName: String 
+Return Value: 
+ Boolean

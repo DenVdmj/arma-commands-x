@@ -1,0 +1,7 @@
+overcastForecast 
+Game: Armed Assault (1.00) 
+Description: Return the overcast forecast.  
+Syntax:  
+ Number = overcastForecast 
+Return Value: 
+ Number

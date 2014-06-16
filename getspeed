@@ -1,0 +1,11 @@
+getSpeed 
+Game: Armed Assault (1.00) 
+Description: Get the speed for the given speed mode. 
+SpeedMode can be:"AUTO""SLOW""NORMAL""FAST"  
+Syntax:  
+ Number = object getSpeed speedMode 
+Parameters: 
+object: Object 
+speedMode: String 
+Return Value: 
+ Number

@@ -1,0 +1,10 @@
+effectiveCommander 
+Game: Armed Assault (1.00) 
+Description: Returns the effective commander (who really commands) of the vehicle 
+.  
+Syntax:  
+ Object = effectiveCommander vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Object

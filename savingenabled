@@ -1,0 +1,7 @@
+savingEnabled 
+Game: ARMA 2  (1.00) 
+Description: Check if saving the game is enabled.  
+Syntax:  
+ savingEnabled 
+Return Value: 
+ Boolean

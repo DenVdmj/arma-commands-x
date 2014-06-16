@@ -1,0 +1,12 @@
+setVehicleAmmo 
+Game: Armed Assault (1.00) 
+Description: Sets how much ammunition (compared to a full state defined by the vehicle 
+ type) the vehicle has. 
+The value ranges from 0 to 1.  
+Syntax:  
+  vehicleName setVehicleAmmo value 
+Parameters: 
+vehicleName: Object 
+value: Number Range 0 to 1 
+Return Value: 
+ Nothing

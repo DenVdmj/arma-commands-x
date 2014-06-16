@@ -1,0 +1,11 @@
+addResources 
+Game: ARMA 2  (1.00) 
+Description: Adds resources to a team member.  
+Syntax:  
+ teamMember addResources [resource1, resource2,... 
+Parameters: 
+member: Team Member - 
+resource1: dataType 
+resource2: dataType 
+Return Value: 
+ returnValue

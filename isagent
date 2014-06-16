@@ -1,0 +1,9 @@
+isAgent 
+Game: ARMA 2  (1.00) 
+Description: Check if team member is an agent.  
+Syntax:  
+ isAgent teamMember 
+Parameters: 
+teamMember: Team Member 
+Return Value: 
+ Boolean

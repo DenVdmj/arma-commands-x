@@ -1,0 +1,10 @@
+assignedCommander 
+Game: ARMA 2  (1.00) 
+Description: Returns the soldier assigned to the given vehicle as a commander 
+.  
+Syntax:  
+ assignedCommander vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Object

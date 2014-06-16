@@ -1,0 +1,10 @@
+closeDisplay 
+Game: Armed Assault (1.00) 
+Description: Close given display.  
+Syntax:  
+ display closeDisplay exitcode 
+Parameters: 
+display: Display 
+exitcode: Number 
+Return Value: 
+ Nothing

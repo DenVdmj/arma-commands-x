@@ -1,0 +1,7 @@
+runInitScript 
+Game: Armed Assault (1.00) 
+Description: Launch init.sqs or init.sqf scripts.  
+Syntax:  
+ runInitScript 
+Return Value: 
+ Nothing

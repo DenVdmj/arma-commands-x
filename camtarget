@@ -1,0 +1,9 @@
+camTarget 
+Game: ARMA 2  (1.00) 
+Description: Returns camera's target.  
+Syntax:  
+ camTarget camera 
+Parameters: 
+camera: Object - 
+Return Value: 
+ Object

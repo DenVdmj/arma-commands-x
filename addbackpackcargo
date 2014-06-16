@@ -1,0 +1,12 @@
+addBackpackCargo 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Add backpack(s) to the cargo space of vehicle. Classname list of available 
+ backpacks is here  
+Syntax:  
+vehicle addBackpackCargo [packClassName,count] 
+Parameters: 
+vehicle: Object - vehicle to add the backpack to 
+packClassName: String - backpack classname 
+count: Number - number of backpacks to add. 
+Return Value: 
+ Nothing

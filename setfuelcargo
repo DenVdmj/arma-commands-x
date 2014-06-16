@@ -1,0 +1,12 @@
+setFuelCargo 
+Game: Operation Flashpoint (1.00) 
+Description: Set fuel amount in cargo space of refuel vehicle from empty (0) to full 
+ (1)Note the carrying capacity of each side's refuel trucks differ 
+.  
+Syntax:  
+ vehicle setFuelCargo amount 
+Parameters: 
+vehicle&#160;: Object 
+amount&#160;: Number 
+Return Value: 
+ Nothing

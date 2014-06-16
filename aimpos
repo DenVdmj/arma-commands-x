@@ -1,0 +1,9 @@
+aimPos 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the object's (main turret) aiming position.  
+Syntax:  
+ aimPos object 
+Parameters: 
+object: Object 
+Return Value: 
+ Array - format PositionASL

@@ -1,0 +1,10 @@
+kbRemoveTopic 
+Game: ARMA 2  (1.00) 
+Description: Unregister conversation topic from given person. 
+Syntax:  
+ person kbRemoveTopic TopicName 
+Parameters: 
+person: Object 
+TopicName: String 
+Return Value: 
+ Nothing

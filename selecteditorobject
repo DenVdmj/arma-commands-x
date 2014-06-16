@@ -1,0 +1,11 @@
+selectEditorObject 
+Game: ARMA 2  (1.00) 
+Description: Select an editor object. Does not un-select previously selected objects 
+.  
+Syntax:  
+ map selectEditorObject object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ Any

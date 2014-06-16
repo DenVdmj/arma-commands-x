@@ -1,0 +1,14 @@
+assignAsDriver 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Assign a unit as driver of a vehicle. Used together with orderGetIn 
+ to order subordinate units to get in as driver of a specific vehicle 
+. Before usage of this command a subordinate unit hasn't got the option 
+ to get into the driver place of the vehicle.  
+Syntax:  
+ unitName assignAsDriver vehicleName 
+Parameters: 
+unitName: Object 
+vehicleName: Object 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+NumberToDate 
+Game: ARMA 2  (1.00) 
+Description: Convert float number to date.  
+Syntax:  
+ NumberToDate [year,time] 
+Parameters: 
+[year,time]: Array - 
+Return Value: 
+ Array

@@ -1,0 +1,10 @@
+lnbColor 
+Game: ARMA 2  (1.00) 
+Description: Returns the text color of the item with the given position of the 2D listbox 
+. The color is returned in format Color.  
+Syntax:  
+ lnbColor [idc,[row,column] 
+Parameters: 
+[idc,[row,column]: Array - 
+Return Value: 
+ Array

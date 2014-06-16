@@ -1,0 +1,11 @@
+setText 
+Game: Armed Assault (1.08) 
+Description: Sets the text associated with a location. This text will be displayed 
+ on the game map at the location's position.  
+Syntax:  
+ location setText text 
+Parameters: 
+location: Location 
+text: String 
+Return Value: 
+ Nothing

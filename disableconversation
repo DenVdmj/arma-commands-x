@@ -1,0 +1,10 @@
+disableConversation 
+Game: ARMA 2  (1.00) 
+Description: Disable the ability to talk to other people.  
+Syntax:  
+ unitName disableConversation disable 
+Parameters: 
+unitName: Object 
+disable: Boolean 
+Return Value: 
+Nothing

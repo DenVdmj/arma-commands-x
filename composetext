@@ -1,0 +1,10 @@
+composeText 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text by joining the given structured or plain 
+ texts.  
+Syntax:  
+ Structured Text = composeText [text1, text2,...] 
+Parameters: 
+[text1, text2,...]: Array 
+Return Value: 
+ Structured Text

@@ -1,0 +1,23 @@
+say 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Unit will say given sound. 
+When the Unit is a Person, it will also perform corresponding lipsync 
+ effect provided an appropriate.lip file has been created for this 
+ sound. 
+A unit that has been killed or does not exist will not say anything 
+. 
+Compare this with playSound which will always play a sound at the location 
+ of the player. 
+If the camera is not within given range, title is not shown and the sound 
+ will not be heard. 
+Sound is defined in CfgSound of the Description.ext.  
+Syntax:  
+ unit say [sound, maxTitlesDistance,speed] 
+Parameters: 
+unit: Object 
+[sound, maxTitlesDistance,speed]: Array 
+sound: String classname. Defined in Description.ext 
+maxTitlesDistance: Number 
+speed: Number. Optional 
+Return Value: 
+ Nothing

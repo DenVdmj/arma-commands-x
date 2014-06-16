@@ -1,0 +1,9 @@
+AISFinishHeal 
+Game: ARMA 2  (1.00) 
+Description: AIS end state.  
+Syntax:  
+ AISFinishHeal [unit,unit,bool] 
+Parameters: 
+[unit,unit,bool]: Array - 
+Return Value: 
+ Nothing

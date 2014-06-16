@@ -1,0 +1,13 @@
+countType 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Count how many units in the array are of given type. Other than typeOf 
+ this command also works with parent classes like "Air", "Tank" and "Car". For a full 
+ class reference see Classes.  
+Syntax:  
+ Number = type countType arrayName 
+Parameters: 
+type: String - class type 
+arrayName: Array 
+Return Value: 
+ Number

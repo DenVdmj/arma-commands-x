@@ -1,0 +1,10 @@
+nearestLocationWithDubbing 
+Game: ARMA 2  (1.00) 
+Description: Find the nearest location (to the given position) having it speech 
+ non-empty.  
+Syntax:  
+ nearestLocationWithDubbing position 
+Parameters: 
+position: Array - 
+Return Value: 
+ Location

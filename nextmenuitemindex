@@ -1,0 +1,9 @@
+nextMenuItemIndex 
+Game: ARMA 2  (1.00) 
+Description: Returns the next available menu item index.  
+Syntax:  
+ nextMenuItemIndex map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Number

@@ -1,0 +1,9 @@
+getNumber 
+Game: Armed Assault (1.00) 
+Description: Extract number from config entry.  
+Syntax:  
+ Number =getNumber config 
+Parameters: 
+config: Config 
+Return Value: 
+ Number

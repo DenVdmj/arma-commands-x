@@ -1,0 +1,9 @@
+image 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text containing the given image.   
+Syntax:  
+ Structured Text = image filename 
+Parameters: 
+filename: String 
+Return Value: 
+ Structured Text

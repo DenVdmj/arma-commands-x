@@ -1,0 +1,9 @@
+taskParent 
+Game: ARMA 2  (1.00) 
+Description: Return the parent task of the specified task.  
+Syntax:  
+ taskParent task 
+Parameters: 
+task: Task - 
+Return Value: 
+ Task

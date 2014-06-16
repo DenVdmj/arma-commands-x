@@ -1,0 +1,11 @@
+camSetDive 
+Game: Operation Flashpoint (1.00) 
+Description: Set camera dive angle. 
+Does not commit changes.  
+Syntax:  
+ camera camSetDive dive 
+Parameters: 
+camera: Object 
+dive: Number 
+Return Value: 
+ Nothing

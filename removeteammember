@@ -1,0 +1,10 @@
+removeTeamMember 
+Game: ARMA 2  (1.00) 
+Description: Remove given member from given team.  
+Syntax:  
+ team removeTeamMember member 
+Parameters: 
+team: Team Member 
+member: Team Member 
+Return Value: 
+ Nothing

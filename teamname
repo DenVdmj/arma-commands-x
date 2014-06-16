@@ -1,0 +1,9 @@
+teamName 
+Game: ARMA 2  (1.00) 
+Description: Return a name of given team.  
+Syntax:  
+ teamName team 
+Parameters: 
+team: Team Member 
+Return Value: 
+ String

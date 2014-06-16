@@ -1,0 +1,15 @@
+stop 
+Game: Operation Flashpoint (1.00) 
+Description: Stop AI unit. 
+Stopped unit will not be able to move, fire, or change its orientation 
+ to follow a watched object. 
+It may still change the stance if deemed appropriate (e.g. under 
+ fire). 
+Use disableAI to disable specific AI capabilities.  
+Syntax:  
+ unitName stop stop 
+Parameters: 
+unitName: Object 
+stop: Boolean 
+Return Value: 
+ Nothing

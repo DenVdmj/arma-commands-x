@@ -1,0 +1,9 @@
+isFormationLeader 
+Game: Armed Assault (1.00) 
+Description: Returns true if the specified unit is subgroup leader.  
+Syntax:  
+ isLeader = isFormationLeader unit 
+Parameters: 
+unit: Object - Unit being checked. 
+Return Value: 
+ isLeader: Boolean - True if subgroup leader.

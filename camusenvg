@@ -1,0 +1,9 @@
+camUseNVG 
+Game: Armed Assault (1.00) 
+Description: Set / clear using of night vision during cutscenes.  
+Syntax:  
+ camUseNVG set 
+Parameters: 
+set: Boolean 
+Return Value: 
+ Nothing

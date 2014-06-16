@@ -1,0 +1,9 @@
+parseText 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text by parsing the given XML description.  
+Syntax:  
+ Structured Text = parseText text 
+Parameters: 
+text: String 
+Return Value: 
+ Structured Text

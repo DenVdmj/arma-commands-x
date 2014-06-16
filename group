@@ -1,0 +1,10 @@
+group 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the group a unit is assigned to.  
+Syntax:  
+ Group = group object 
+Parameters: 
+object: Object 
+Return Value: 
+ Group -  For dead units, the returned group equals grpNull.

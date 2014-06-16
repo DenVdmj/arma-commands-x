@@ -1,0 +1,13 @@
+nearTargets 
+Game: Armed Assault (1.07) 
+Description: Returns a list of targets within the defined range. 
+"Targets" are not restricted to enemy units.  
+Syntax:  
+ Array = unit nearTargets range 
+Parameters: 
+unit: Object 
+range: Number 
+Return Value: 
+ Nested Array, consisting of:0: Position (perceived, includes judgment and memory errors),1: Type (perceived, gives only what was recognized),2: Side (perceived side),3: Subjective Cost (positive for enemies, more positive for more important or more dangerous  
+enemies),4: Object (object type, can be used to get more information if needed)5: (since build 5209:) position accuracy (assumed accuracy of the perceived position) 
+for each recognized target

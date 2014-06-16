@@ -1,0 +1,12 @@
+hintCadet 
+Game: Operation Flashpoint (1.00) 
+Description: Shows a text hint only when using cadet mode. 
+The text can contain several lines. 
+ is used to indicate the end of a line 
+.  
+Syntax:  
+ hintCadet text 
+Parameters: 
+text: String 
+Return Value: 
+ Nothing

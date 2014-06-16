@@ -1,0 +1,11 @@
+nearestBuilding 
+Game: Operation Flashpoint (1.00) 
+Description: Nearest building to given object.  
+A "building" is defined as an object that is of class "House", and contains 
+ a path LOD.  
+Syntax:  
+ Object = nearestBuilding object 
+Parameters: 
+object: Object 
+Return Value: 
+ Object

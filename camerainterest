@@ -1,0 +1,10 @@
+cameraInterest 
+Game: Armed Assault (1.00) 
+Description: Return camera interest for given entity, as set by setCameraInterest 
+, or as autodetected. 
+Syntax:  
+ Number = cameraInterest entity 
+Parameters: 
+entity: Object 
+Return Value: 
+ Number

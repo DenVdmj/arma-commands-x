@@ -1,0 +1,12 @@
+then 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: First or second element of array is executed depending on result 
+ of if condition. Result of the expression executed is returned as a result 
+ (result may be Nothing).   
+Syntax:  
+ if then else 
+Parameters: 
+if: If Type 
+else: Array 
+Return Value: 
+ Anything

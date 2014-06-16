@@ -1,0 +1,27 @@
+typeName 
+Game: Armed Assault (1.00) 
+Description: Returns the data type of an expression.  
+The type is returned as an all-uppercase string having one of the following 
+ values: 
+ "ARRAY", 
+"BOOL", 
+"CODE", 
+"CONFIG", 
+"CONTROL", 
+"DISPLAY", 
+"GROUP", 
+"LOCATION", 
+"OBJECT", 
+"SCALAR", 
+"SCRIPT", 
+"SIDE", 
+"STRING", 
+"TEXT".  
+They represent the available data types in ArmA. If the argument 
+ is  nil (undefined), it returns an empty string. 
+Syntax:  
+ String =  typeName anything 
+Parameters: 
+anything: Anything 
+Return Value: 
+ String

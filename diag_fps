@@ -1,0 +1,7 @@
+diag_fps 
+Game: ARMA 2  (1.00) 
+Description: Returns average framerate calculated over last 16 frames.   
+Syntax:  
+ diag_fps 
+Return Value: 
+ Number

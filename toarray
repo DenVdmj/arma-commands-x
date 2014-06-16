@@ -1,0 +1,13 @@
+toArray 
+Game: Armed Assault (1.09) 
+Description: Converts the supplied String into an Array of Numbers.  
+The numbers in the created array are the decimal Unicode representations 
+ of characters. 
+ 
+ 
+Syntax:  
+ toArray string 
+Parameters: 
+string: String 
+Return Value: 
+ Array

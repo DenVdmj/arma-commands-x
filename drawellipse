@@ -1,0 +1,10 @@
+drawEllipse 
+Game: Armed Assault (1.00) 
+Description: Draw an ellipse on the map.  
+Syntax:  
+ map drawEllipse [center, a, b, angle, color, fill] 
+Parameters: 
+map: Control 
+[center, a, b, angle, color, fill]: Array 
+Return Value: 
+ Nothing

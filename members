@@ -1,0 +1,9 @@
+members 
+Game: ARMA 2  (1.00) 
+Description: Return a list of members in given team.  
+Syntax:  
+ members team 
+Parameters: 
+team: Team Member 
+Return Value: 
+ Array

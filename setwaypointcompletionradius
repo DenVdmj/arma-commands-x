@@ -1,0 +1,11 @@
+setWaypointCompletionRadius 
+Game: ARMA 2  (1.00) 
+Description: The completion radius allows units to call the waypoint completed 
+ once they are inside of the given circle.  
+Syntax:  
+ waypoint setWaypointCompletionRadius radius 
+Parameters: 
+waypoint:  Array - format Waypoint 
+radius: Number 
+Return Value: 
+ Nothing

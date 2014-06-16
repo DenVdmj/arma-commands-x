@@ -1,0 +1,9 @@
+waypointDescription 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint description.  
+Syntax:  
+ waypointDescription waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ String

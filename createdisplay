@@ -1,0 +1,11 @@
+createDisplay 
+Game: Armed Assault (1.00) 
+Description: Create child display of given display and load from  "resourceName 
+".  
+Syntax:  
+ parent createDisplay resourceName 
+Parameters: 
+parent: Display 
+resourceName: String 
+Return Value: 
+ Nothing

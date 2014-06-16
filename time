@@ -1,0 +1,7 @@
+time 
+Game: Operation Flashpoint (1.00) 
+Description: Time elapsed since mission started (in seconds).  
+Syntax:  
+ Number = time 
+Return Value: 
+ Number

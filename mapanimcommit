@@ -1,0 +1,8 @@
+mapAnimCommit 
+Behavior: local 
+Game: Operation Flashpoint (1.27) 
+Description: Play map animation.  
+Syntax:  
+ mapAnimCommit 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+breakTo 
+Game: Armed Assault (1.00) 
+Description: Breaks block to scope named name. Nil is returned. 
+Scope name can be assigned using scopeName command.  
+Syntax:  
+ breakTo name 
+Parameters: 
+name: String 
+Return Value: 
+ Nothing

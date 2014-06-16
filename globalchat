@@ -1,0 +1,11 @@
+globalChat 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Make a unit send a text message over the global radio channel.  
+Syntax:  
+ unit globalChat chatText 
+Parameters: 
+unit: Object 
+chatText: String - the message that should be sent 
+Return Value: 
+ Nothing

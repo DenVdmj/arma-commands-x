@@ -1,0 +1,9 @@
+enableTeamSwitch 
+Game: Armed Assault (1.00) 
+Description: Enable / disable Team Switch. The default setting is enabled.  
+Syntax:  
+ enableTeamSwitch enable 
+Parameters: 
+enable: Boolean 
+Return Value: 
+ Nothing

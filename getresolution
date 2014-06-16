@@ -1,0 +1,11 @@
+getResolution 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Returns an array containing all information about resolution. 
+The returned Array is as follow: [width, height, 2D viewport width 
+, 2D viewport height, aspect ratio, UI scale] 
+Note: aspect ratio and UI scale are returned as coefficients and not 16:9 for example 
+. 
+Syntax:  
+ getResolution 
+Return Value: 
+ Array

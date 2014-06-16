@@ -1,0 +1,8 @@
+isDedicated 
+Game: ARMA 2  (1.00) 
+Description: Return true if the machine (executing the command) is a dedicated 
+ server.  
+Syntax:  
+ isDedicated 
+Return Value: 
+ Boolean

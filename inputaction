@@ -1,0 +1,10 @@
+inputAction 
+Game: ARMA 2  (1.00) 
+Description: Return the state of input devices mapped to given input action (see Category 
+:Key Actions for action names).   
+Syntax:  
+ inputAction name 
+Parameters: 
+name: String - name of the action 
+Return Value: 
+ Number

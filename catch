@@ -1,0 +1,11 @@
+catch 
+Game: Armed Assault (1.00) 
+Description: Processes code when an exception is thrown in a try block. The exception 
+ caught can be found in the _exception variable.  
+Syntax:  
+ try-block catch code 
+Parameters: 
+try-Block Exception Type 
+code Code 
+Return Value: 
+ Anything

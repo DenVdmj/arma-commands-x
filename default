@@ -1,0 +1,9 @@
+default 
+Game: Armed Assault (1.00) 
+Description: see switch.  
+Syntax:  
+ default a 
+Parameters: 
+a: Code 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+primaryWeapon 
+Behavior: global 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Returns name of unit's primary weapon (empty string if none).  
+Syntax:  
+ String = primaryWeapon unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ String

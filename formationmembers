@@ -1,0 +1,9 @@
+formationMembers 
+Game: Armed Assault (1.00) 
+Description: Return list of units (drivers) in the formation.  
+Syntax:  
+ Array = formationMembers person 
+Parameters: 
+person: Object 
+Return Value: 
+ Array

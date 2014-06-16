@@ -1,0 +1,9 @@
+waypointTimeout 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint timeout values.  
+Syntax:  
+ waypointTimeout waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ Array

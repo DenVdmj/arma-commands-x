@@ -1,0 +1,10 @@
+formation 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the current formation of a group.  
+Syntax:  
+ String = formation grp 
+Parameters: 
+grp: Object or Group 
+Return Value: 
+ String -  returns either "COLUMN", "STAG COLUMN", "WEDGE", "ECH LEFT", "ECH RIGHT", "VEE" or "LINE"

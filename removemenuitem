@@ -1,0 +1,10 @@
+removeMenuItem 
+Game: ARMA 2  (1.00) 
+Description: Removes a previously added menu item.  
+Syntax:  
+ map removeMenuItem index of menu item to delete 
+Parameters: 
+map: Control - 
+index of menu item to delete: Number - 
+Return Value: 
+ Nothing

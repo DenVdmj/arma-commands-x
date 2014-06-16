@@ -1,0 +1,9 @@
+isArray 
+Game: Armed Assault (1.00) 
+Description: Check if config entry represents array.   
+Syntax:  
+ Boolean =  isArray config 
+Parameters: 
+config: Config 
+Return Value: 
+ Boolean

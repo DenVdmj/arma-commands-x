@@ -1,0 +1,9 @@
+triggerText 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger text.  
+Syntax:  
+ triggerText trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ String

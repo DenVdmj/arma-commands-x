@@ -1,0 +1,20 @@
+publicVariable 
+Behavior: global 
+Game: Operation Flashpoint (1.34) 
+Description: Broadcast variable value to all computers. 
+Only type Number is supported in version 1.33 and before. 
+Following Types are supported since version 1.34:  Number Boolean 
+ Object Group 
+Following Types are supported since version ArmA v1.00:  String 
+Since version ArmA v1.09:Any value can be transferred, including 
+ Array  Code 
+The only limitation is you cannot transfer references to entities 
+ which are local, like scripts, displays, or local objects. 
+ 
+ 
+Syntax:  
+ publicVariable varName 
+Parameters: 
+varName: String 
+Return Value: 
+ Nothing

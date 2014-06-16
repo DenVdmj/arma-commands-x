@@ -1,0 +1,12 @@
+textLogFormat 
+Game: ARMA 2  (1.05) 
+Description: Debugging output. This command is non-functional in the retail version 
+.  
+Syntax:  
+ textLogFormat [format, arg1, arg2,...] 
+Parameters: 
+format: dataType 
+arg1: Any Value 
+arg2: Any Value 
+Return Value: 
+ Nothing

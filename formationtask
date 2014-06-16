@@ -1,0 +1,10 @@
+formationTask 
+Game: Armed Assault (1.00) 
+Description: Return the current task of the unit in the formation. 
+You can't use it in ArmA 2, it will always returns "NOTHING" 
+Syntax:  
+ String = formationTask person 
+Parameters: 
+person: Object 
+Return Value: 
+ String: (EXCLUDED, MOVE, COVER, LEADER)

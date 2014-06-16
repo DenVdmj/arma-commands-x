@@ -1,0 +1,7 @@
+wind 
+Game: Armed Assault (1.00) 
+Description: Returns the current wind vector as array [x, z, y].  
+Syntax:  
+ wind 
+Return Value: 
+ Array

@@ -1,0 +1,11 @@
+getFSMVariable 
+Game: ARMA 2  (1.00) 
+Description: Return the value of variable in the variable space of given FSM. The FSM handle 
+ is the number returned by the execFSM command.  
+Syntax:  
+ FSM handle getFSMVariable name 
+Parameters: 
+FSM handle: Number - 
+name: String - 
+Return Value: 
+ Any

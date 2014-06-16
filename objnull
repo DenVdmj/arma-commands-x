@@ -1,0 +1,8 @@
+objNull 
+Game: Operation Flashpoint (1.00) 
+Description: A non-existing Object. This value is not equal to anything, including 
+ itself.  
+Syntax:  
+ Object = objNull 
+Return Value: 
+ Object

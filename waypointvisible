@@ -1,0 +1,10 @@
+waypointVisible 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Returns the visibility of the waypoint. 
+Returns 0 (Number) for a non valid waypoint.  
+Syntax:  
+ waypointVisible waypoint 
+Parameters: 
+waypoint: Array - format Waypoint 
+Return Value: 
+ Boolean

@@ -1,0 +1,9 @@
+lockedDriver 
+Game: ARMA 2  (1.00) 
+Description: Check whether driver position of the vehicle turret is locked.  
+Syntax:  
+ lockedDriver vehicle 
+Parameters: 
+vehicle: Object - 
+Return Value: 
+ Boolean

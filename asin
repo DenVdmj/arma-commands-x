@@ -1,0 +1,9 @@
+asin 
+Game: Operation Flashpoint (1.00) 
+Description: Arcsine of a number, result in Degrees.  
+Syntax:  
+ Number = asin x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

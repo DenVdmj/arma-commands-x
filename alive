@@ -1,0 +1,11 @@
+alive 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Check if given vehicle/person/building is alive (i.e. not dead or destroyed 
+).  
+Syntax:  
+ alive object 
+Parameters: 
+object: Object to test 
+Return Value: 
+ Boolean: true when alive, false when dead

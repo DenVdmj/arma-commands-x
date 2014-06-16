@@ -1,0 +1,14 @@
+forEach 
+Game: Operation Flashpoint (1.00) 
+Description: Executes the given command(s) on every item of an array. 
+The array items are represented by _x. The array indices are represented 
+ by _forEachIndex. 
+In ArmA2 &amp; VBS2, the variable _x is always local to the forEach 
+ block so it is safe to nest them. 
+Syntax:  
+ command forEach array 
+Parameters: 
+command: String 
+array: Array 
+Return Value: 
+ Nothing

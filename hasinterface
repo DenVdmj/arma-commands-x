@@ -1,0 +1,8 @@
+hasInterface 
+Game: ArmA 2: Operation Arrowhead (1.63) 
+Description: Returns true if the computer has an interface (a real player). False 
+ for a dedicated server or for a headless client.  
+Syntax:  
+ hasInterface 
+Return Value: 
+ Boolean

@@ -1,0 +1,16 @@
+kbTell 
+Game: ARMA 2  (1.00) 
+Description: Make the person tell to the receiver the sentence.  
+Syntax:  
+ person kbTell [receiver, TopicName, SentenceClass, [argument name, argument value, argument text, argument speech],...{,forceRadio}] 
+Parameters: 
+person: Object 
+[receiver, TopicName, SentenceClass, [argument name, argument value, argument text, argument speech],...{,forceRadio}]: Array 
+receiver: Object 
+TopicName, SentenceClass, argument name: Strings 
+argument value: Code 
+argument text: String 
+argument speech is an array of Strings, where each string is an already defined word in configs. 
+forceRadio (optional): Boolean 
+Return Value: 
+ Nothing

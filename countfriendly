@@ -1,0 +1,12 @@
+countFriendly 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Count how many units in the array are considered friendly to the given 
+ unit.  
+Syntax:  
+ Number = unitName countFriendly arrayName 
+Parameters: 
+unitName: Object 
+arrayName: Array 
+Return Value: 
+ Number

@@ -1,0 +1,10 @@
+enableReload 
+Game: Armed Assault (1.00) 
+Description: Enable / disable reload when magazine is empty.  
+Syntax:  
+ object enableReload enable 
+Parameters: 
+object: Object 
+enable: Boolean 
+Return Value: 
+ Nothing

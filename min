@@ -1,0 +1,10 @@
+min 
+Game: Armed Assault (1.00) 
+Description: The smaller of a,b  
+Syntax:  
+ a min b 
+Parameters: 
+a: Number 
+b: Number 
+Return Value: 
+ Number

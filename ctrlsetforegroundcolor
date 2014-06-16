@@ -1,0 +1,11 @@
+ctrlSetForegroundColor 
+Game: Armed Assault (1.00) 
+Description: Sets foreground color of given control. Color is in format Color 
+.  
+Syntax:  
+ display ctrlSetForegroundColor color 
+Parameters: 
+display: Control 
+color: Array 
+Return Value: 
+ Nothing

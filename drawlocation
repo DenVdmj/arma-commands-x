@@ -1,0 +1,10 @@
+drawLocation 
+Game: Armed Assault (1.08) 
+Description: Unknown effect. 
+Syntax:  
+ control drawLocation location 
+Parameters: 
+control: Control 
+location: Location 
+Return Value: 
+ Unknown

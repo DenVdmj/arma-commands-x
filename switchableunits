@@ -1,0 +1,7 @@
+switchableUnits 
+Game: Armed Assault (1.00) 
+Description: Return a list of units accessible through Team Switch.  
+Syntax:  
+ Array = switchableUnits 
+Return Value: 
+ Array

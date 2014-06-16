@@ -1,0 +1,12 @@
+allowGetIn 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Set if the units given in the list are allowed to enter vehicles 
+.  
+Syntax:  
+ unitArray allowGetIn allow 
+Parameters: 
+unitArray: Array of units 
+allow: Boolean - true allows the units to enter, false denies them 
+Return Value: 
+ Nothing

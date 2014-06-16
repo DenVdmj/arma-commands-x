@@ -1,0 +1,11 @@
+lifeState 
+Behavior: global 
+Game: ARMA 2  (1.00) 
+Description: Returns the life state of the given unit. 
+Can be one of:"ALIVE""UNCONSCIOUS""DEAD"  
+Syntax:  
+ lifeState unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ String

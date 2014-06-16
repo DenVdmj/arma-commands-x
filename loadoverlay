@@ -1,0 +1,11 @@
+loadOverlay 
+Game: ARMA 2  (1.00) 
+Description: Creates the load overlay dialog for the specified type of overlay 
+.  
+Syntax:  
+ map loadOverlay config 
+Parameters: 
+map: Control - 
+config: Config - 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+removeAllWeapons 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Remove all weapons and magazines of the unit.  
+On vehicles only ammo is removed  
+Does not remove map, compass, radio. Use  
+unitname removeweapon "itemmap" 
+for that purpose. 
+Syntax:  
+ removeAllWeapons unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

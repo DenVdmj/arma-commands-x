@@ -1,0 +1,12 @@
+hcSetGroup 
+Game: ARMA 2  (1.00) 
+Description: Add group to unit's high command bar. Array parameters are group 
+,group,name and team (teammain,teamred,teamgreen,teamblue,teamyellow 
+).,Group is the only necessary parameter.  
+Syntax:  
+ unit hcSetGroup array 
+Parameters: 
+unit: Object - 
+array: Array - 
+Return Value: 
+ Nothing

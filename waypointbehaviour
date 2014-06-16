@@ -1,0 +1,9 @@
+waypointBehaviour 
+Game: ARMA 2  (1.00) 
+Description: Gets the waypoint behavior.  
+Syntax:  
+ waypointBehaviour waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ String

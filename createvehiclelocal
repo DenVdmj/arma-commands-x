@@ -1,0 +1,12 @@
+createVehicleLocal 
+Game: Armed Assault (1.00) 
+Description: Creates an empty vehicle of the given type. See CfgVehicles for possible 
+ type values. Vehicle is not transferred through network in MP games 
+.  
+Syntax:  
+ Object = type createVehicleLocal position 
+Parameters: 
+type: String 
+position: Position 
+Return Value: 
+ Object

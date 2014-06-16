@@ -1,0 +1,13 @@
+ctrlEnabled 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Returns if a control on the currently active user dialog is enabled 
+. Disabled controls cannot be focused. 
+Read Dialog Control for more information about user dialogs and controls 
+.  
+Syntax:  
+ Boolean =  ctrlEnabled idc 
+Parameters: 
+idc: Number - control ID 
+Return Value: 
+ Boolean -  true if the control is enabled, false if not.

@@ -1,0 +1,7 @@
+endLoadingScreen 
+Game: ARMA 2  (1.00) 
+Description: Finish loading screen displaying (started by startLoadingScreen).  
+Syntax:  
+ endLoadingScreen 
+Return Value: 
+ Nothing

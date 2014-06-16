@@ -1,0 +1,10 @@
+locationPosition 
+Game: Armed Assault (1.08) 
+Description: Returns the position of a location. If the location is attached to an object 
+, that object's position is returned.  
+Syntax:  
+ locationPosition Location 
+Parameters: 
+Location 
+Return Value: 
+ Position

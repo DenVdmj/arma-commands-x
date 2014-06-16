@@ -1,0 +1,10 @@
+checkAIFeature 
+Game: ARMA 2  (1.05) 
+Description: Check if given AI feature is currently enabled. Feature may be one of: 
+"AwareFormationSoft", "CombatFormationSoft".  
+Syntax:  
+ checkAIFeature feature 
+Parameters: 
+feature: String 
+Return Value: 
+ Boolean

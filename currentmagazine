@@ -1,0 +1,10 @@
+currentMagazine 
+Game: ARMA 2  (1.00) 
+Description: Return the name of the type of the currently using magazine (on the primary 
+ turret for vehicles).   
+Syntax:  
+ currentMagazine vehicle 
+Parameters: 
+vehicle:  - 
+Return Value: 
+ String

@@ -1,0 +1,14 @@
+setDir 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Sets object heading. Angles are measured in degrees clockwise from 
+ north. The accepted heading range is from 0 to 360 Negative angles 
+ represent a counter-clockwise angle and the angle can be of any size 
+.   
+Syntax:  
+ object setDir heading 
+Parameters: 
+object: Object 
+heading: Number 
+Return Value: 
+ Nothing

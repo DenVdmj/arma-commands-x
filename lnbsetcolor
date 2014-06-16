@@ -1,0 +1,10 @@
+lnbSetColor 
+Game: ARMA 2  (1.00) 
+Description: Sets the color of the item with the given position of the 2D listbox 
+. Color is in format Color.  
+Syntax:  
+ lnbSetColor [idc,[row,column],color] 
+Parameters: 
+[idc,[row,column],color]: Array - 
+Return Value: 
+ Nothing

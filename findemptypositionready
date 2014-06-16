@@ -1,0 +1,11 @@
+findEmptyPositionReady 
+Game: ARMA 2  (1.00) 
+Description: Check if findEmptyPosition can be called without waiting for files 
+.  
+Syntax:  
+ center findEmptyPositionReady [radius,maxDistance] 
+Parameters: 
+center: Array - 
+[radius,maxDistance]: Array - 
+Return Value: 
+ Array

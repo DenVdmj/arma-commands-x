@@ -1,0 +1,7 @@
+allDead 
+Game: ArmA 2: Operation Arrowhead (1.57) 
+Description: Return a list of all dead units. Dead units may be in vehicles.  
+Syntax:  
+ allDead 
+Return Value: 
+ Array

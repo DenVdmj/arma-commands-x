@@ -1,0 +1,13 @@
+lnbPicture 
+Game: ARMA 2  (1.00) 
+Description: Returns the picture name of the item with the given position of the 2D listbox 
+.  
+Syntax:  
+ lnbPicture [idc, [row, column]] 
+Parameters: 
+[idc, [row, column]]: Array 
+IDC: Identifier Number of Control 
+Row: Index Number of Row 
+Column: Index Number of Column 
+Return Value: 
+ String

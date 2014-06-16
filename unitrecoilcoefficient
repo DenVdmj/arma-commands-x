@@ -1,0 +1,9 @@
+unitRecoilCoefficient 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns recoil coefficient of a soldier.  
+Syntax:  
+ unitRecoilCoefficient soldier 
+Parameters: 
+soldier: Object 
+Return Value: 
+ Number

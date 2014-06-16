@@ -1,0 +1,10 @@
+removeAllEventHandlers 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Removes all event handlers of given type that were added by addEventHandler 
+. Since VBS2 v1.24 can be applied on individual weapon rounds.  
+Syntax:  
+ objectName removeAllEventHandlers handlerType 
+Parameters: 
+handlerType: String. See Event Handlers for list 
+Return Value: 
+ Nothing

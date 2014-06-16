@@ -1,0 +1,11 @@
+clearMagazineCargo 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Remove all magazines from the given vehicle's magazine cargo space 
+.  
+Syntax:  
+ clearMagazineCargo vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ Nothing

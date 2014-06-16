@@ -1,0 +1,10 @@
+waypointCompletionRadius 
+Game: ARMA 2  (1.00) 
+Description: Gets the radius around the waypoint where the waypoint is completed 
+.  
+Syntax:  
+ waypointCompletionRadius waypoint 
+Parameters: 
+waypoint:  Array - format Waypoint 
+Return Value: 
+ Number

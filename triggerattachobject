@@ -1,0 +1,11 @@
+triggerAttachObject 
+Game: Armed Assault (1.00) 
+Description: Assigns a static object to the trigger. The activation source is changed 
+ to "STATIC".  
+Syntax:  
+ triggerName triggerAttachObject objectId 
+Parameters: 
+triggerName: Object 
+objectId: Number 
+Return Value: 
+ Nothing

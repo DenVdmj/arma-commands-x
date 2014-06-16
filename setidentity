@@ -1,0 +1,12 @@
+setIdentity 
+Game: Operation Flashpoint (1.00) 
+Description: Set identity of person.Identities are defined in Description.ext of the mission 
+ or campaign. For a list of available faces, glasses and speakers 
+ check Category:CfgIdentities.  
+Syntax:  
+ person setIdentity identity 
+Parameters: 
+person: Object 
+identity: String 
+Return Value: 
+ Nothing

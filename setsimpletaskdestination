@@ -1,0 +1,10 @@
+setSimpleTaskDestination 
+Game: ARMA 2  (1.00) 
+Description: Attach a destination to the simple task.   
+Syntax:  
+ task setSimpleTaskDestination position 
+Parameters: 
+Task: Task 
+Position: Position 
+Return Value: 
+ Nothing

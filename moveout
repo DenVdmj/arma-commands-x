@@ -1,0 +1,11 @@
+moveOut 
+Behavior: global 
+Game: ARMA 2  (1.00) 
+Description: Moves the soldier out of vehicle. (Immediately,without animation 
+).  
+Syntax:  
+ moveOut soldier 
+Parameters: 
+soldier: Object - 
+Return Value: 
+ Nothing

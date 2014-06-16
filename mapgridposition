@@ -1,0 +1,11 @@
+mapGridPosition 
+Game: ARMA 2  (1.04) 
+Description: Returns the map grid position of an object or position. The format 
+ is determined by the Grid format specified in the CfgWorlds for the current 
+ world. Eg: "024577" or "De82" or similar.  
+Syntax:  
+ mapGridPosition param 
+Parameters: 
+param: Object or Position - determines reference position 
+Return Value: 
+ String - grid position

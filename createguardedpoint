@@ -1,0 +1,17 @@
+createGuardedPoint 
+Game: Armed Assault (1.00) 
+Description: Adds a point guarded by the given side. The actual item or position 
+ guarded is determined by the following priority.If idStatic is not negative 
+, the position of a static object with the given id is guarded. If the given 
+ vehicle is valid, the starting position of the vehicle is guarded 
+.otherwise the given position is guarded.  
+Syntax:  
+ createGuardedPoint [side, position, idStatic, vehicle] 
+Parameters: 
+[side, position, idStatic, vehicle]: Array 
+side: Side 
+position: Position 
+idStatic: Number 
+vehicle: Object 
+Return Value: 
+ Nothing or undocumented

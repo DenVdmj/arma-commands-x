@@ -1,0 +1,10 @@
+moveTime 
+Game: ARMA 2  (1.00) 
+Description: Returns the current time of the most important RTM animation currently 
+ being played on the soldier.  
+Syntax:  
+ moveTime soldier 
+Parameters: 
+soldier:  - 
+Return Value: 
+ Number

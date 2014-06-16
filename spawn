@@ -1,0 +1,13 @@
+spawn 
+Game: Armed Assault (1.00) 
+Description: Starts running a new script (SQF). Additional arguments are passed 
+ in local _this variable. 
+The new script is running in parallel, spawn does not wait for it to be done 
+, instead spawn returns a Script handle.  
+Syntax:  
+ Script = arguments spawn code 
+Parameters: 
+arguments: Any Value 
+code: Code 
+Return Value: 
+ Script

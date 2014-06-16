@@ -1,0 +1,10 @@
+lockedTurret 
+Game: ARMA 2  (1.00) 
+Description: Check whether gunner position of the vehicle turret is locked.  
+Syntax:  
+ vehicle lockedTurret turret path 
+Parameters: 
+vehicle: Object - 
+turret path: Array - 
+Return Value: 
+ Boolean

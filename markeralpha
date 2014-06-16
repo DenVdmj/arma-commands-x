@@ -1,0 +1,9 @@
+markerAlpha 
+Game: ARMA 2  (1.00) 
+Description: Gets the marker alpha. See setMarkerAlpha.  
+Syntax:  
+ markerAlpha markerName 
+Parameters: 
+markerName: String - 
+Return Value: 
+ Number

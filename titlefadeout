@@ -1,0 +1,10 @@
+titleFadeOut 
+Game: Armed Assault (1.05) 
+Description: Terminate the title effect and set duration of the fade out phase 
+ to the given time.  
+Syntax:  
+ titleFadeOut duration 
+Parameters: 
+duration: Number 
+Return Value: 
+ Nothing

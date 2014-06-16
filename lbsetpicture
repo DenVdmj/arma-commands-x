@@ -1,0 +1,18 @@
+lbSetPicture 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Sets the picture in the item with the given index of the listbox 
+ or combobox with id idc of the topmost user dialog. 
+Name is the picture name. 
+The picture is searched for in the mission directory, the dtaExt 
+ subdirectory of the campaign directory and the dtaExt directory 
+ and the data bank (or directory).  
+Syntax:  
+ lbSetPicture [idc, index, name] 
+Parameters: 
+[idc, index, name]: Array 
+idc: Number of control 
+index: Number 
+name: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,13 @@
+lbSetSelected 
+Game: Armed Assault (1.00) 
+Description: Set the selection state of the given row of the given listbox. 
+Listbox must support multiple selection.  
+Syntax:  
+ control lbSetSelected [index, selected] 
+Parameters: 
+control: Control 
+[index, selected]: Array 
+index: Number 
+selected: Boolean 
+Return Value: 
+ Nothing

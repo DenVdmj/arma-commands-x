@@ -1,0 +1,10 @@
+getPosASL 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Returns the object position height above sea level.  
+Syntax:  
+ Array = getPosASL object 
+Parameters: 
+object: Object 
+Return Value: 
+ Array - format PositionASL

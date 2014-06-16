@@ -1,0 +1,10 @@
+speedMode 
+Game: Operation Flashpoint (1.00) 
+Description: Returns speed mode of the group, which can be any of the following 
+:  "LIMITED" "NORMAL" "FULL" 
+Syntax:  
+String = speedMode groupName 
+Parameters: 
+groupName: Object or Group 
+Return Value: 
+ String

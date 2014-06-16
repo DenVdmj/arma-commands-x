@@ -1,0 +1,17 @@
+setVehiclePosition 
+Game: Armed Assault (1.00) 
+Description: Moves the object to a random position. 
+Uses either the position that's defined in the first array, or one of the marker 
+ positions from the markers array.  
+The object is placed inside a circle with this position as its center 
+ and placement as its radius.  
+Syntax:  
+ object setVehiclePosition [position, markers, placement] 
+Parameters: 
+object: Object 
+[position, markers, placement]: Array 
+position: Array - format Position 
+markers: Array - format Position 
+placement: Number 
+Return Value: 
+ Nothing

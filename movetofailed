@@ -1,0 +1,9 @@
+moveToFailed 
+Game: Armed Assault (1.00) 
+Description: Check if latest low level moveTo command failed.  
+Syntax:  
+ Boolean = moveToFailed person 
+Parameters: 
+person: Object 
+Return Value: 
+ Boolean

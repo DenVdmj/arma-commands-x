@@ -1,0 +1,10 @@
+setLightColor 
+Game: Armed Assault (1.00) 
+Description: Set diffuse color of light.  
+Syntax:  
+ light setLightColor [r, g, b] 
+Parameters: 
+light: Object 
+[r, g, b]: Array 
+Return Value: 
+ Nothing

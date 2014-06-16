@@ -1,0 +1,9 @@
+compile 
+Game: Armed Assault (1.00) 
+Description: Compile expression.  
+Syntax:  
+ Code = compile expression 
+Parameters: 
+expression: String 
+Return Value: 
+ Code

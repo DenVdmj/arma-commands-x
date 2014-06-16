@@ -1,0 +1,20 @@
+setTriggerActivation 
+Game: Armed Assault (1.00) 
+Description: Defines the trigger activation type.  
+See ArmA:Mission Editor - Triggers for a thorough overview of triggers 
+ and its fields for activation, effects, etc. 
+Syntax:  
+ trigger setTriggerActivation [by, type, repeating] 
+Parameters: 
+trigger: Object - Trigger object 
+by: String - Who activates trigger. Can be "NONE" or 
+Side': "EAST", "WEST", "GUER", "CIV", "LOGIC", "ANY" 
+Radio: "ALPHA", "BRAVO", "CHARLIE", "DELTA", "ECHO", "FOXTROT", "GOLF", "HOTEL", "INDIA", "JULIET" 
+Object: "STATIC", "VEHICLE", "GROUP", "LEADER", "MEMBER" 
+Status: "WEST SEIZED", "EAST SEIZED" or "GUER SEIZED" 
+type: String -  How trigger is it activated. Can be: 
+Presence: "PRESENT", "NOT PRESENT" 
+Detection: "WEST D", "EAST D", "GUER D" or "CIV D" 
+repeating: Boolean - Activation can happen repeatedly 
+Return Value: 
+ Nothing

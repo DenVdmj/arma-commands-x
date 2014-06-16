@@ -1,0 +1,15 @@
+onPlayerDisconnected 
+Game: Armed Assault (1.00) 
+Description: This statement is launched whenever a player is disconnected from 
+ a MP session.  
+Variables _id and _name are set.  
+Note that as of 1.08, this command only accepts a code-string rather 
+ than code delimited by braces.  
+Note as of ArmA 2 version 1.02 this function returns also variable 
+ _uid with uniqueID of player. 
+Syntax:  
+ onPlayerDisconnected statement 
+Parameters: 
+statement: String 
+Return Value: 
+ Nothing

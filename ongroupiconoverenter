@@ -1,0 +1,9 @@
+onGroupIconOverEnter 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when player clicked on group marker (3D or in a map)  
+Syntax:  
+ onGroupIconOverEnter command 
+Parameters: 
+command:  - 
+Return Value: 
+ Nothing

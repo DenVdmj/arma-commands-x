@@ -1,0 +1,10 @@
+setEditorMode 
+Game: ARMA 2  (1.00) 
+Description: Sets map mode to MAP,3D or PREVIEW.  
+Syntax:  
+ map setEditorMode mode 
+Parameters: 
+map: Control - 
+mode: String - 
+Return Value: 
+ Nothing

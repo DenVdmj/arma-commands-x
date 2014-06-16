@@ -1,0 +1,10 @@
+displayRemoveEventHandler 
+Game: ARMA 2  (1.00) 
+Description: Remove a given event handler from the given display.  
+Syntax:  
+ display displayRemoveEventHandler [handler name,id] 
+Parameters: 
+display: Display - 
+[handler name,id]: Array - 
+Return Value: 
+ Nothing

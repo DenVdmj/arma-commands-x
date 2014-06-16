@@ -1,0 +1,10 @@
+moveTo 
+Game: Armed Assault (1.00) 
+Description: Low level command to person to move to given position.  
+Syntax:  
+ person moveTo position 
+Parameters: 
+person: Object 
+position: Array 
+Return Value: 
+ Nothing

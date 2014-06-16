@@ -1,0 +1,9 @@
+waypointAttachedVehicle 
+Game: ARMA 2  (1.00) 
+Description: Gets the vehicle attached to the waypoint.  
+Syntax:  
+ waypointAttachedVehicle waypoint 
+Parameters: 
+waypoint:  - 
+Return Value: 
+ Object

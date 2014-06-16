@@ -1,0 +1,9 @@
+hintSilent 
+Game: ARMA 2  (1.00) 
+Description: Same as hint, but without a sound.  
+Syntax:  
+ hintSilent text 
+Parameters: 
+text: String or Structured Text 
+Return Value: 
+ Nothing

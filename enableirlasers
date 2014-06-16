@@ -1,0 +1,10 @@
+enableIRLasers 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Allows the AI to use IR lasers  
+Syntax:  
+ thing enableIRLasers value 
+Parameters: 
+thing: Object or Group - the unit or the group allowed to use IR lasers 
+value: Boolean - true/false 
+Return Value: 
+ Nothing

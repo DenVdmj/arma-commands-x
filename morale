@@ -1,0 +1,9 @@
+morale 
+Game: ARMA 2  (1.00) 
+Description: Checks a current morale level of the unit (-1..+1).  
+Syntax:  
+ morale unit 
+Parameters: 
+unit:  - 
+Return Value: 
+ Number

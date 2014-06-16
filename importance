@@ -1,0 +1,9 @@
+importance 
+Game: Armed Assault (1.08) 
+Description: Returns a location's importance value. 
+Syntax:  
+ importance location 
+Parameters: 
+location: Location 
+Return Value: 
+ Number

@@ -1,0 +1,14 @@
+set 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Format of element is [index, value]. Changes an element of given 
+ array. If element does not exist, resize index+1 is called to create 
+ it.  
+Syntax:  
+ array set [index, value] 
+Parameters: 
+array: Array 
+[index, value]: Array 
+index: Number 
+value: Anything 
+Return Value: 
+ Nothing

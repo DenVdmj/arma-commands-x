@@ -1,0 +1,10 @@
+isKindOf 
+Game: Armed Assault (1.00) 
+Description: Checks whether the object is (a subtype) of the given type.  
+Syntax:  
+ Boolean = object isKindOf typeName 
+Parameters: 
+object: Object 
+typeName: String 
+Return Value: 
+ Boolean

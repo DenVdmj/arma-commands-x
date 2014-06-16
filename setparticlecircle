@@ -1,0 +1,13 @@
+setParticleCircle 
+Game: Armed Assault (1.00) 
+Description: Update particle source to create particles on circle with given radius 
+. Velocity is transformed and added to total velocity.  
+Syntax:  
+ particleSource setParticleCircle [radius, velocity] 
+Parameters: 
+particleSource: Object 
+[radius, velocity]: Array 
+radius: Number 
+velocity: Array (x,y,z) 
+Return Value: 
+ Nothing

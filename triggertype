@@ -1,0 +1,9 @@
+triggerType 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger type.  
+Syntax:  
+ triggerType trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ String

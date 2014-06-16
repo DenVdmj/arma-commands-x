@@ -1,0 +1,12 @@
+onDoubleClick 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when the user double clicks on the map. Command 
+ receives:,_pos array position,_units array selected units,_shift 
+,_alt bool key state,   
+Syntax:  
+ map onDoubleClick command 
+Parameters: 
+map: Control - 
+command: String - 
+Return Value: 
+ Any

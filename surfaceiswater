@@ -1,0 +1,9 @@
+surfaceIsWater 
+Game: Armed Assault (1.00) 
+Description: Returns whether water is at given position.  
+Syntax:  
+Boolean =  surfaceIsWater [x, y] 
+Parameters: 
+[x, y]: Array - format Position2D 
+Return Value: 
+ Boolean

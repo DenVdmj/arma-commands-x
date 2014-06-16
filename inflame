@@ -1,0 +1,11 @@
+inflame 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Control fireplace burning. Set inflame to true (on) or false (off).  
+Syntax:  
+ fireplace inflame burn 
+Parameters: 
+fireplace: Object 
+burn: Boolean 
+Return Value: 
+ Nothing

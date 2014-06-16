@@ -1,0 +1,9 @@
+secondaryWeapon 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Returns name of a unit's secondary weapon (empty string if none).  
+Syntax:  
+ secondaryWeapon unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ String

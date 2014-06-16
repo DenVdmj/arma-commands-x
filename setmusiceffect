@@ -1,0 +1,12 @@
+setMusicEffect 
+Game: Armed Assault (1.00) 
+Description: Defines the music track played on activation. 
+Track is a subclass name of CfgMusic. In addition, "$NONE$" (no change 
+) or "$STOP$" (stops the current music track).  
+Syntax:  
+ trigger setMusicEffect track 
+Parameters: 
+trigger: Object 
+track: String 
+Return Value: 
+ Nothing

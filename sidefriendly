@@ -1,0 +1,7 @@
+sideFriendly 
+Game: Operation Flashpoint: Resistance (1.78) 
+Description: The Friendly side (used for captives).  
+Syntax:  
+ Side = sideFriendly 
+Return Value: 
+ Side

@@ -1,0 +1,14 @@
+setWaypointTimeout 
+Game: Armed Assault (1.00) 
+Description: Defines the time between condition satisfaction and waypoint finish 
+ (randomly from min to max, with an average value mid).  
+Syntax:  
+ waypoint setWaypointTimeout [min, mid, max] 
+Parameters: 
+waypoint: Array - format Waypoint 
+[min, mid, max]: Array 
+min: Number 
+mid: Number 
+max: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+lnbData 
+Game: ARMA 2  (1.00) 
+Description: Returns the additional text (invisible) in an item with the given 
+ position of the 2D listbox.  
+Syntax:  
+ lnbData [idc,[row,column] 
+Parameters: 
+[idc,[row,column]: Array - 
+Return Value: 
+ String

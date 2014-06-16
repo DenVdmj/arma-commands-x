@@ -1,0 +1,10 @@
+player 
+Game: Operation Flashpoint (1.00) 
+Description: Person controlled by player. 
+In MP this value is different on each computer. 
+In Intros and Outros this isn't set by default and must be assigned 
+.  
+Syntax:  
+ Object = player 
+Return Value: 
+ Object

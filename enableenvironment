@@ -1,0 +1,9 @@
+enableEnvironment 
+Game: Armed Assault (1.00) 
+Description: Enable/disable environmental effects (ambient life + sound).  
+Syntax:  
+ enableEnvironment enabled 
+Parameters: 
+enabled: Boolean 
+Return Value: 
+ Nothing

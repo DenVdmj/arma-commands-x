@@ -1,0 +1,10 @@
+progressSetPosition 
+Game: ARMA 2  (1.00) 
+Description: Sets the current position in the progress bar.  
+Syntax:  
+ control progressSetPosition pos 
+Parameters: 
+control: Control - 
+pos: Number - 
+Return Value: 
+ Nothing

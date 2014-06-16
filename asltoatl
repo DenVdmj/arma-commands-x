@@ -1,0 +1,7 @@
+ASLToATL 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Converts a position from PositionASL to PositionATL  
+Syntax:  
+ ASLtoATL PositionASL 
+Return Value: 
+ PositionATL

@@ -1,0 +1,10 @@
+limitSpeed 
+Game: Armed Assault (1.00) 
+Description: Limit speed of given vehicle or person to given value (in km/h).  
+Syntax:  
+ objectName limitSpeed speed 
+Parameters: 
+objectName: Object 
+speed: Number 
+Return Value: 
+ Nothing

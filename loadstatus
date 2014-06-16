@@ -1,0 +1,11 @@
+loadStatus 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Loads object's properties from Objects.sav file in campaign directory 
+ (from entry name).  
+Syntax:  
+ Boolean = Object loadStatus "EntryName" 
+Parameters: 
+Object 
+EntryName: String 
+Return Value: 
+ Boolean

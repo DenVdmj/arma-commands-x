@@ -1,0 +1,9 @@
+position 
+Game: Operation Flashpoint (1.5) 
+Description: Synonym for getPos.  
+Syntax:  
+ Array = position object 
+Parameters: 
+object: Object; since VBS2 1.24: Location 
+Return Value: 
+ Array - format Position

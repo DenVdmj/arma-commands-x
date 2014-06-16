@@ -1,0 +1,10 @@
+boundingBox 
+Game: Armed Assault (1.00) 
+Description: Returns a bounding box of given object in model coordinate space 
+.   
+Syntax:  
+ Array = boundingBox model 
+Parameters: 
+model&#160;: Object 
+Return Value: 
+ Array - An array with the extreme points of the model. Format: [[minX, minY, minZ], [maxX, maxY, maxZ]] 

@@ -1,0 +1,7 @@
+saveGame 
+Game: Operation Flashpoint (1.00) 
+Description: Autosave game (used for Retry).  
+Syntax:  
+ saveGame 
+Return Value: 
+ Nothing

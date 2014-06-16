@@ -1,0 +1,10 @@
+waypointAttachVehicle 
+Game: Armed Assault (1.00) 
+Description: Attaches a Unit to the given Waypoint.  
+Syntax:  
+ waypoint waypointAttachVehicle vehicleName 
+Parameters: 
+waypoint: Array - format Waypoint 
+vehicleName: Object 
+Return Value: 
+ Nothing

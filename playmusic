@@ -1,0 +1,9 @@
+playMusic 
+Game: Operation Flashpoint (1.00) 
+Description: Plays music defined in CfgMusic.   
+Syntax:  
+ playMusic name 
+Parameters: 
+name&#160;: String 
+Return Value: 
+Nothing

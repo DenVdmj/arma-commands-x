@@ -1,0 +1,10 @@
+sendSimpleCommand 
+Game: Armed Assault (1.00) 
+Description: Sends a simple command to the vehicle's driver / gunner.  
+Syntax:  
+ vehicleName sendSimpleCommand command 
+Parameters: 
+vehicleName: Object 
+command: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+ctrlText 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Returns the text of a control of the currently active user dialog 
+. This command can be used on static texts, buttons, edit lines and active 
+ texts as well as for images, where it returns the image path. 
+Read Dialog Control for more information about user dialogs and controls 
+.  
+Syntax:  
+ String =  ctrlText idc 
+Parameters: 
+idc: Number - control ID 
+Return Value: 
+ String - The text or image path is returned, dependent on the control type.

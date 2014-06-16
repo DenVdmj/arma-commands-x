@@ -1,0 +1,24 @@
+createDiaryRecord 
+Game: ARMA 2  (1.00) 
+Description: creates a diary entry. 
+Supported tags and their parameters: &lt;All&gt; image: String - path 
+ to image. When present, any element with it will be displayed as image 
+. width: Number - image width in pixels. height: Number - image height 
+ in pixels. font color: String - HTML color in format #aarrggbb or #rrggbb 
+ size: Number - font height in pixels. face: String - font type (class 
+ from CfgFontFamilies) br marker name: String - marker name execute 
+ expression: String - executed code executeClose expression: String 
+ - executed code, diary is closed afterwards log subject: String 
+ - subject name. record: String - record name (e.g. "Record6" or "Unit1059524 
+") gear unit: Number - unit ID teamSwitch unit: Number - unit ID kick 
+ id: Number - player ID ban id: Number - player ID mute id: Number 
+ - player ID currentTask id: Number - task ID 
+Syntax:  
+ unitName createDiaryRecord parameters 
+Parameters: 
+unitName: Object 
+parameters: Array. 
+can be [subject, text(, task(, state))] 
+or [subject, [title, text](, task(, state))] 
+Return Value: 
+ text: String

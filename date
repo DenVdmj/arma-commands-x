@@ -1,0 +1,9 @@
+date 
+Game: Armed Assault (1.00) 
+Description: Return the actual mission date and time as an array [year, month 
+, day, hour, minute]. Month is a full number between 1 and 12, day is between 
+ 1 and 31, hour is between 0 and 23 and minute is between 0 and 59.  
+Syntax:  
+ Array = date 
+Return Value: 
+ Array

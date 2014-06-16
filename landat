@@ -1,0 +1,11 @@
+landAt 
+Game: Armed Assault (1.08) 
+Description: Order an AI airplane to land at a given airport. ID is the number 
+ to identify which airport on the island you want.  
+Syntax:  
+ plane landAt id 
+Parameters: 
+plane: Object 
+id: Number 
+Return Value: 
+ Nothing

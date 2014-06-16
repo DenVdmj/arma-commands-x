@@ -1,0 +1,10 @@
+setMarkerPos 
+Game: Operation Flashpoint (1.00) 
+Description: Moves the marker. Pos format is Position2D.  
+Syntax:  
+ markerName setMarkerPos pos 
+Parameters: 
+markerName: String 
+pos: Array - format Position2D 
+Return Value: 
+ Nothing

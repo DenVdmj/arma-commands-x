@@ -1,0 +1,16 @@
+setDamage 
+Behavior: global 
+Game: Operation Flashpoint (1.5) 
+Description: Damage / repair object. 
+Damage 0 means fully functional, damage 1 means completely destroyed 
+ / dead. 
+This function is identical to setDammage. 
+It was introduced to fix a spelling error in original function name 
+.  
+Syntax:  
+ object setDamage damage 
+Parameters: 
+object: Object 
+damage: Number 
+Return Value: 
+ Nothing

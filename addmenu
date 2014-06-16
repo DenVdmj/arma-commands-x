@@ -1,0 +1,10 @@
+addMenu 
+Game: ARMA 2  (1.00) 
+Description: Adds a new menu button. Priority is optional.   
+Syntax:  
+ map addMenu [text,priority] 
+Parameters: 
+map: Control - 
+[text,priority]: Array - 
+Return Value: 
+ Number

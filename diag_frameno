@@ -1,0 +1,7 @@
+diag_frameno 
+Game: ARMA 2  (1.00) 
+Description: Returns number of frame currently displayed.   
+Syntax:  
+ diag_frameno 
+Return Value: 
+ Number

@@ -1,0 +1,8 @@
+assignToAirport 
+Game: Armed Assault (1.08) 
+Description: Not correctly implemented yet, currently it does the same as landAt 
+. As the implementation may get fixed sometime, please do not use this 
+ command until then.  
+Syntax:  
+ assignToAirport 
+Return Value: 

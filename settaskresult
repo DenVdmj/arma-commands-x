@@ -1,0 +1,10 @@
+setTaskResult 
+Game: ARMA 2  (1.00) 
+Description: Set a result of the task.  
+Syntax:  
+ task setTaskResult [state,result] 
+Parameters: 
+task: Task - 
+[state,result]: Array - 
+Return Value: 
+ Nothing

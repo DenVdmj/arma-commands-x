@@ -1,0 +1,21 @@
+camCommand 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Executes a command on the given camera / actor object. 
+The "manual on" and "manual off" commands are recognized for all types 
+. 
+For the "camera" type, the following commands can be used: "inertia 
+ on" and "inertia off". 
+For the "seagull" type it's one of: "landed" and "airborne" these 
+ control if they land or fly. 
+When you execute camCommand "landed" on a flying seagull, it will 
+ land and sit on the floor until you call camCommand "airborne". 
+The camCommand changes are conducted immediately, the command doesn 
+'t wait for camCommit.  
+Syntax:  
+ camera camCommand command 
+Parameters: 
+camera: Object - object of type "camera" or "seagull" 
+command: String - one of "manual on", "manual off", "inertia on", "inertia off", "landed" and "airborne" corresponding to the description above. 
+Return Value: 
+ Nothing

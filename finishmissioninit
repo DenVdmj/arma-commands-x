@@ -1,0 +1,7 @@
+finishMissionInit 
+Game: Armed Assault (1.00) 
+Description: Finish world initialization before mission is launched.  
+Syntax:  
+ finishMissionInit 
+Return Value: 
+ Nothing

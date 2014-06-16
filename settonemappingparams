@@ -1,0 +1,10 @@
+setToneMappingParams 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Edits tone mapping parameters  
+Syntax:  
+ toneName setToneMapping params 
+Parameters: 
+toneName: String - where string is effect name - defaults are Arma, Filmic and Reinhard. 
+params: Array - (please populate) 
+Return Value: 
+ Nothing

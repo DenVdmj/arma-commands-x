@@ -1,0 +1,9 @@
+markerText 
+Game: Armed Assault (1.04) 
+Description: Get marker text.  
+Syntax:  
+ String = markerText markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ String

@@ -1,0 +1,10 @@
+ctrlMapAnimClear 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Clears the map animation.  
+Syntax:  
+ ctrlMapAnimClear controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Nothing

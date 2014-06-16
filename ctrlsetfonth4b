@@ -1,0 +1,10 @@
+ctrlSetFontH4B 
+Game: Armed Assault (1.00) 
+Description: Sets H4 bold font of given HTML control.  
+Syntax:  
+ controlName ctrlSetFontH4B fontName 
+Parameters: 
+controlName: Control 
+fontName: String 
+Return Value: 
+ Nothing

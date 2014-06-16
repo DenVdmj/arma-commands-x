@@ -1,0 +1,10 @@
+removeDrawIcon 
+Game: ARMA 2  (1.00) 
+Description: Removes an icon for an editor object.  
+Syntax:  
+ map removeDrawIcon [object,string identifier] 
+Parameters: 
+map: Control - 
+[object,string identifier]: Array - 
+Return Value: 
+ Nothing

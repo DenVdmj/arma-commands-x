@@ -1,0 +1,10 @@
+lnbSetText 
+Game: ARMA 2  (1.00) 
+Description: Sets the additional text (invisible) in the item with the given position 
+ of the 2D listbox.  
+Syntax:  
+ lnbSetText [idc,[row,column],data] 
+Parameters: 
+[idc,[row,column],data]: Array - 
+Return Value: 
+ Nothing

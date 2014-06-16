@@ -1,0 +1,14 @@
+setMimic 
+Game: Operation Flashpoint (1.00) 
+Description: Set person's facial expression. Following mimic values are recognized 
+:  "Default" "Normal" "Smile" "Hurt" "Ironic" "Sad" "Cynic" "Surprised 
+" "Agresive" "Angry" 
+Since Arma 2 OA 1.6*, these values are used&#160;: "neutral" "dead 
+" "danger" "hurt" "aware" "safe" "combat" 
+Syntax:  
+ person setMimic mimic 
+Parameters: 
+person: Object 
+mimic: String. as above 
+Return Value: 
+ Nothing

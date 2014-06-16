@@ -1,0 +1,9 @@
+scoreSide 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns score for a given side.  
+Syntax:  
+ scoreSide side 
+Parameters: 
+side: side 
+Return Value: 
+ Number

@@ -1,0 +1,12 @@
+camSetPos 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set the position of the given camera or seagull.Needs the call of camCommit 
+ to be conducted.  
+Syntax:  
+ camera camSetPos position 
+Parameters: 
+camera: Object - object of type "camera" or "seagull" 
+position: Array - Position to set the object to 
+Return Value: 
+ Nothing

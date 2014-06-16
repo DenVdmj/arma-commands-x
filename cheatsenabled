@@ -1,0 +1,8 @@
+cheatsEnabled 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Checks whether cheats are enabled (whether the designers' version 
+ is running).  
+Syntax:  
+ Boolean = cheatsEnabled 
+Return Value: 
+ Boolean

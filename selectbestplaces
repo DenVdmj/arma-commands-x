@@ -1,0 +1,10 @@
+selectBestPlaces 
+Game: ARMA 2  (1.00) 
+Description: Find the places with the max. value of _expression in the given area 
+. Places can be on water.  
+Syntax:  
+ selectBestPlaces [_position,_radius,_expression,_precision,_sourcesCount] 
+Parameters: 
+[_position,_radius,_expression,_precision,_sourcesCount]: Array - 
+Return Value: 
+ Array - Format is [[position: Position2D, expressionResult: Number],...]

@@ -1,0 +1,10 @@
+createDiarySubject 
+Game: ARMA 2  (1.00) 
+Description: Create a new subject page in a log.  
+Syntax:  
+ person createDiarySubject [subject,display name] or [subject,display name,picture] 
+Parameters: 
+person: Object - 
+[subject,display name,picture]: Array - 
+Return Value: 
+ Number

@@ -1,0 +1,17 @@
+camCreate 
+Game: Operation Flashpoint (1.00) 
+Description: Create a camera or a seagull object on the given position. Also other 
+ objects can be created this way, but vehicles created with camCreate 
+ cannot be entered. Any units created with camCreate will remain 
+ static. With difference to createVehicle, objects are created without 
+ consideration of the collision detection with surrounding objects 
+, thus the objects are spawned exactly at the given position.camCreate 
+ is conducted immediately, the command doesn't wait for camCommit 
+.  
+Syntax:  
+ Object = type camCreate position 
+Parameters: 
+type: String - either "camera", "seagull" or any other class name of OFP vehicles. 
+position: Array - format Position - position to create the object at 
+Return Value: 
+ Object -  The newly created object is returned.

@@ -1,0 +1,11 @@
+enableAIFeature 
+Game: ARMA 2  (1.05) 
+Description: Enable/disable given AI feature. Feature may be one of: 
+"AwareFormationSoft", "CombatFormationSoft".  
+Syntax:  
+ feature enableAIFeature enabled 
+Parameters: 
+feature: String 
+enabled: Boolean 
+Return Value: 
+ Nothing

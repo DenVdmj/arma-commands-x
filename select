@@ -1,0 +1,13 @@
+select 
+Game: Operation Flashpoint (1.00) 
+Description: Selects an index element of an array or config object. 
+Index 0 denotes the first element, 1 the second, etc. 
+If index has decimal places it gets rounded down for fractions less 
+ than.5, otherwise it gets rounded up.  
+Syntax:  
+ array  select index 
+Parameters: 
+array&#160;: Array 
+index: Number 
+Return Value: 
+ Any Value

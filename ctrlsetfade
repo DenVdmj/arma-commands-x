@@ -1,0 +1,10 @@
+ctrlSetFade 
+Game: Armed Assault (1.00) 
+Description: Sets wanted transparency for control animation.  
+Syntax:  
+ controlName ctrlSetFade fade 
+Parameters: 
+controlName: Control 
+fade: Number 
+Return Value: 
+ Nothing

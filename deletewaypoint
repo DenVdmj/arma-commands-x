@@ -1,0 +1,12 @@
+deleteWaypoint 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Removes the specified waypoint.  
+Syntax:  
+ deleteWaypoint [group, index] 
+Parameters: 
+[group, index]: Array 
+group: Group 
+index: Number 
+Return Value: 
+ Nothing

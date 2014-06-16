@@ -1,0 +1,15 @@
+loadMagazine 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Initiates the loading action on given weapon of the turret. So the new magazine 
+ is not available instantly, yet according to the reloadTime. 
+The turret has to be manned. One can also change the magazine if its respective 
+ weapon is not selected.  
+Syntax:  
+ vehicle loadMagazine [turretPath, weaponName, magazineName] 
+Parameters: 
+vehicle: Object 
+turretPath: Array 
+weaponName: String 
+magazineName: String 
+Return Value: 
+ Nothing

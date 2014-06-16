@@ -1,0 +1,12 @@
+createMarkerLocal 
+Game: Armed Assault (1.04) 
+Description: Creates a new marker at the given position. The marker name has to be unique 
+.  
+Syntax:  
+ String = createMarkerLocal [name, position] 
+Parameters: 
+[name, position]: Array 
+name: String 
+position: Array - format Position 
+Return Value: 
+ String

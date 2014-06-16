@@ -1,0 +1,14 @@
+setOvercast 
+Game: Operation Flashpoint (1.00) 
+Description: Set overcast to given value smoothly during given time (in seconds 
+). Zero time means immediate change. An overcast setting of zero 
+ means clear (sunny) weather, and one means storms and rain are very 
+ likely. Higher overcast values also result in higher wind speeds 
+.  
+Syntax:  
+ time setOvercast overcast 
+Parameters: 
+time: Number. In seconds 
+overcast: Number. Range 0 to 1 
+Return Value: 
+ Nothing

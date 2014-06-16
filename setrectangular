@@ -1,0 +1,11 @@
+setRectangular 
+Game: Armed Assault (1.08) 
+Description: Set the shape of a location to be either rectangular or elliptical 
+. Locations default shape is elliptical. 
+Syntax:  
+ location setRectangular set 
+Parameters: 
+location: Location 
+set: Boolean 
+Return Value: 
+ Nothing

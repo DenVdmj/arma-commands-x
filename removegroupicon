@@ -1,0 +1,10 @@
+removeGroupIcon 
+Game: ARMA 2  (1.00) 
+Description: Remove icon with given ID from group.  
+Syntax:  
+ group removeGroupIcon icon ID 
+Parameters: 
+group: Group - 
+icon ID: Number - 
+Return Value: 
+ Nothing

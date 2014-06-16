@@ -1,0 +1,9 @@
+ctrlMapWorldToScreen 
+Game: Armed Assault (1.05) 
+Description: Transfers a map control world position to screen coordinates.  
+Syntax:  
+ ctrlMapWorldToScreen controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Array (Position2D Format)

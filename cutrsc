@@ -1,0 +1,12 @@
+cutRsc 
+Game: Operation Flashpoint (1.00) 
+Description: Display a resource defined in the mission's description.ext, the campaign 
+'s description.ext or the global resource.cpp.  
+Syntax:  
+ cutRsc [name, type, speed] 
+Parameters: 
+name: String - the class name of the resource. ("Default" will remove the current resource.) 
+type: String - one of "PLAIN", "PLAIN DOWN", "BLACK", "BLACK FADED", "BLACK OUT", "BLACK IN", "WHITE OUT" and "WHITE IN". See Title Effect Types for more information about these values. 
+speed: Number - Time in seconds to fade in resource (optional, default: 1). 
+Return Value: 
+ Nothing

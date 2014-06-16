@@ -1,0 +1,11 @@
+camPrepareRelPos 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera position relative to the current position of the currect 
+ target (see camPrepareTarget).  
+Syntax:  
+ camera camPrepareRelPos position 
+Parameters: 
+camera: Object 
+position: Array - format (Position) 
+Return Value: 
+ Nothing

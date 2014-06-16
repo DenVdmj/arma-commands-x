@@ -1,0 +1,9 @@
+disableSerialization 
+Game: ARMA 2  (1.00) 
+Description: Disable saving of script containing this command. After this script 
+ can work with the data types which do not support serialization 
+ (UI types).   
+Syntax:  
+ disableSerialization 
+Return Value: 
+ Nothing

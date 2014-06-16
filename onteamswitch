@@ -1,0 +1,10 @@
+onTeamSwitch 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when the team switch is finished. Command 
+ receives: _from object previous unit, _to object current unit.  
+Syntax:  
+ onTeamSwitch command 
+Parameters: 
+command:  - 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+camCommitted 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Checks if the conduction of the last camCommit call already finished 
+.  
+Syntax:  
+ Boolean = camCommitted camera 
+Parameters: 
+camera: Object - object of type "camera" 
+Return Value: 
+ Boolean -  true if the last camCommit already finished, false if not

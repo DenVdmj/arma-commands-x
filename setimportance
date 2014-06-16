@@ -1,0 +1,10 @@
+setImportance 
+Game: Armed Assault (1.08) 
+Description: Sets the importance value of location. 
+Syntax:  
+ location setImportance value 
+Parameters: 
+location: Location 
+value: Number 
+Return Value: 
+ Nothing

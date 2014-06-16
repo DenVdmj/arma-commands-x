@@ -1,0 +1,12 @@
+diag_captureFrame 
+Game: ArmA 2: Operation Arrowhead (1.63) 
+Description: Capture the single frame, following after the number of frames given 
+ as parameter.  
+Note: Only available in specific builds. See Performance Profiling 
+ for details.  
+Syntax:  
+ diag_captureFrame frame 
+Parameters: 
+frame: Number - next n-th frame to be captured 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+actionKeysNamesArray 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns a list of button names assigned to the given user action 
+. A maximum of maxKeys keys is listed. You can find the action names 
+ in config class ControllerSchemes or user action names.  
+Syntax:  
+actionKeysNamesArray userAction 
+Parameters: 
+userAction: String - name of the action 
+Return Value: 
+ Array of Strings

@@ -1,0 +1,10 @@
+missionStart 
+Game: Operation Flashpoint: Resistance (1.8) 
+Description: Return when mission started in format [year, month, day, hour, minute 
+, second]. 
+Works only in multiplayer, in singleplayer all values are equal to zero 
+ &#8594; [0,0,0,0,0,0] 
+Syntax:  
+ Array = missionStart 
+Return Value: 
+ Array

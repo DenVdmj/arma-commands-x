@@ -1,0 +1,10 @@
+random 
+Game: Operation Flashpoint (1.00) 
+Description: Random real (floating point) value from 0 (inclusive) to x (not inclusive 
+).  
+Syntax:  
+ Number = random x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

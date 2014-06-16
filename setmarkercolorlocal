@@ -1,0 +1,12 @@
+setMarkerColorLocal 
+Game: Armed Assault (1.04) 
+Description: Set marker color. Color is one of:  "Default" "ColorBlack" "ColorRed 
+" "ColorRedAlpha" "ColorGreen" "ColorGreenAlpha" "ColorBlue" "ColorYellow 
+" "ColorOrange" (Arma 2 only) "ColorWhite" 
+Syntax:  
+ markerName setMarkerColorLocal color 
+Parameters: 
+markerName: String 
+color: String 
+Return Value: 
+ Nothing

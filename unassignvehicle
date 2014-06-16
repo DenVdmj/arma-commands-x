@@ -1,0 +1,12 @@
+unassignVehicle 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Unassigns a unit from whichever vehicle that unit is currently assigned 
+ to. If the unit is currently in that vehicle, the group leader will 
+ issue an order to disembark.  
+Syntax:  
+ unassignVehicle unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

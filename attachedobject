@@ -1,0 +1,10 @@
+attachedObject 
+Game: Armed Assault (1.08) 
+Description: Returns the object a location is attached to. If the location is unattached 
+, then objNull is returned.  
+Syntax:  
+ attachedObject location 
+Parameters: 
+location: Location 
+Return Value: 
+ Object

@@ -1,0 +1,13 @@
+camSetFovRange 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set the zoom level (field of view) start and end values for automatical 
+ zooming. The default zoom level is 0.7, 0 is the nearest and 1 the most 
+ far zoom value.Needs the call of camCommit to be conducted.  
+Syntax:  
+ camera camSetFovRange fovRange 
+Parameters: 
+camera: Object - object of type "camera" 
+fovRange: Array - zoom level, range 0 to 1 (see description above) 
+Return Value: 
+ Nothing

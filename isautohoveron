@@ -1,0 +1,10 @@
+isAutoHoverOn 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Return true if vehicle has enabled auto hover. (always returns false 
+ if the vehicle can't set auto hover)  
+Syntax:  
+ isAutoHoverOn vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Boolean

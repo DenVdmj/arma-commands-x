@@ -1,0 +1,7 @@
+east 
+Game: Operation Flashpoint (1.00) 
+Description: Pre-defined variable for the eastern side  
+Syntax:  
+ Side = east 
+Return Value: 
+ Side

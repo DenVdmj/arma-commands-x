@@ -1,0 +1,12 @@
+weaponsTurret 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.52) 
+Description: Returns all weapons of given turret. Use turret path [-1] for driver 
+'s turret.  
+Syntax:  
+ vehicle weaponsTurret turretPath 
+Parameters: 
+vehicle: Object 
+turretPath: Array 
+Return Value: 
+ Array of Strings

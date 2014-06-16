@@ -1,0 +1,9 @@
+lightDetachObject 
+Game: Armed Assault (1.00) 
+Description: Detach light from object.  
+Syntax:  
+ lightDetachObject light 
+Parameters: 
+light: Object 
+Return Value: 
+ Nothing

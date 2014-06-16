@@ -1,0 +1,11 @@
+setCurrentWaypoint 
+Behavior: local 
+Game: Armed Assault (1.05) 
+Description: Sets the currently active waypoint for a group.  
+Syntax:  
+ groupName setCurrentWaypoint waypoint 
+Parameters: 
+groupName: Object or Group 
+waypoint: Array - format Waypoint 
+Return Value: 
+ Nothing

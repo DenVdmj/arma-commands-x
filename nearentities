@@ -1,0 +1,11 @@
+nearEntities 
+Game: ARMA 2  (1.00) 
+Description: Find entities in the circle with given radius. If typeName(s) is (are) given 
+, only entities of given type (or its subtype) are listed.  
+Syntax:  
+ position nearEntities radius or [typeName,radius] or [[typeName1,typeName2,...],radius] 
+Parameters: 
+position: Object or Array - 
+[typeName,radius] or [[typeName1,typeName2,...],radius]: Array - 
+Return Value: 
+ Array

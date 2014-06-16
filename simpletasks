@@ -1,0 +1,9 @@
+simpleTasks 
+Game: ARMA 2  (1.00) 
+Description: Return all simple tasks assigned to given person.  
+Syntax:  
+ simpleTasks person 
+Parameters: 
+person: Object - 
+Return Value: 
+ Array

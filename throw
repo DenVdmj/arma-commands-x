@@ -1,0 +1,10 @@
+throw 
+Game: Armed Assault (1.00) 
+Description: Throws an exception. The exception is processed by first catch block 
+.   
+Syntax:  
+ throw expression 
+Parameters: 
+expression: Anything 
+Return Value: 
+ Nothing

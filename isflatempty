@@ -1,0 +1,10 @@
+isFlatEmpty 
+Game: ARMA 2  (1.00) 
+Description: Check if given area is flat and empty.  
+Syntax:  
+ position isFlatEmpty [float minDistance,float precizePos,float maxGradient,float gradientRadius,float onWater,bool onShore,object skipobj] 
+Parameters: 
+position: Array - 
+[float minDistance,float precizePos,float maxGradient,float gradientRadius,float onWater,bool onShore,object skipobj]: Array - 
+Return Value: 
+ Array

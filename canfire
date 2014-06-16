@@ -1,0 +1,11 @@
+canFire 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns if the given vehicle is still able to fire. This command 
+ checks only the damage value, not the ammo!  
+Syntax:  
+ Boolean = canFire unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean -  true if it's still able to fire, false if not

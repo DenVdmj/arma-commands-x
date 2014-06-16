@@ -1,0 +1,7 @@
+reversedMouseY 
+Game: ARMA 2  (1.00) 
+Description: Return if mouse vertical axe is inverted.  
+Syntax:  
+ reversedMouseY 
+Return Value: 
+ Boolean

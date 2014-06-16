@@ -1,0 +1,10 @@
+enableAI 
+Game: Armed Assault (1.00) 
+Description: Enables parts of the AI behavior that was disabled by disableAI.   
+Syntax:  
+ unit enableAI skilltype 
+Parameters: 
+unit: Object 
+skilltype: String - See disableAI for possible values. 
+Return Value: 
+ Nothing

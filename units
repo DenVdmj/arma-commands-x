@@ -1,0 +1,10 @@
+units 
+Game: Operation Flashpoint (1.00) 
+Description: Returns an array with all the units in the group or unit. 
+For a destroyed object an empty array is returned.  
+Syntax:  
+ Array = units groupOrunit 
+Parameters: 
+groupOrunit: Group or Object 
+Return Value: 
+ Array

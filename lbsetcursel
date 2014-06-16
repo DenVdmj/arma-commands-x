@@ -1,0 +1,13 @@
+lbSetCurSel 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Selects the item with the given index of the listbox or combobox 
+ with id idc of the topmost user dialog.  
+Syntax:  
+ lbSetCurSel [idc, index] 
+Parameters: 
+[idc, index]: Array 
+idc: Number of control 
+index: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+setWaypointBehaviour 
+Game: Armed Assault (1.00) 
+Description: Switches the unit behaviour when the waypoint becomes active. 
+Possible values are: "UNCHANGED" "CARELESS" "SAFE" "AWARE" "COMBAT 
+" "STEALTH" 
+See the AIBehaviour page for details of the effect of this command 
+ on AI units. 
+Syntax:  
+ waypoint setWaypointBehaviour mode 
+Parameters: 
+waypoint: Array - format Waypoint 
+mode: String As Above 
+Return Value: 
+ Nothing

@@ -1,0 +1,7 @@
+groupIconsVisible 
+Game: ARMA 2  (1.00) 
+Description: Return group icons are visible.  
+Syntax:  
+ groupIconsVisible 
+Return Value: 
+ Array

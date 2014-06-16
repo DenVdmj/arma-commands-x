@@ -1,0 +1,9 @@
+ctrlSetFocus 
+Game: Armed Assault (1.00) 
+Description: Set the input focus on given control.  
+Syntax:  
+ ctrlSetFocus controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Nothing

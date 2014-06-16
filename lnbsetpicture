@@ -1,0 +1,12 @@
+lnbSetPicture 
+Game: ARMA 2  (1.00) 
+Description: Sets the picture in the item with the given position of the 2D listbox 
+.,Name is the picture name. The picture is searched in the mission 
+,directory,the dtaExt subdirectory of the campaign directory and the,dtaExt 
+ directory and the data bank (or directory).   
+Syntax:  
+ lnbSetPicture [idc, [row, column], name] 
+Parameters: 
+[idc, [row, column], name]: Array - 
+Return Value: 
+ Nothing

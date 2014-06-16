@@ -1,0 +1,10 @@
+waitUntil 
+Game: Armed Assault (1.00) 
+Description: Suspend execution of function or SQF based script until condition 
+ is satisfied.  
+Syntax:  
+ waitUntil condition 
+Parameters: 
+condition: Code 
+Return Value: 
+ Nothing

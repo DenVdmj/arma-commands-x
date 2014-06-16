@@ -1,0 +1,14 @@
+count 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Returns a count for either the number of elements in array  the number 
+ of elements in array for which given condition is true the number 
+ of sub-entries in a config object 
+Syntax:  
+ condition count array 
+Parameters: 
+condition: (optional) Code that must return true to be counted. 
+The variable _x will contain the currently tested element. 
+array: Array 
+Return Value: 
+ Number

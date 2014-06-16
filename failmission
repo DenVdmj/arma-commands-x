@@ -1,0 +1,13 @@
+failMission 
+Game: ARMA 2  (1.00) 
+Description: Finish the mission. 
+The end type can be: "CONTINUE" "KILLED" "LOSER" "END1" "END2" "END3 
+" "END4" "END5" "END6" 
+Mission saves won't be deleted.  To maintain Arma 3 visual style 
+, it's recommended to use BIS_fnc_endMission instead. 
+Syntax:  
+ failMission end type 
+Parameters: 
+end type: String - 
+Return Value: 
+ Nothing

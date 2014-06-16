@@ -1,0 +1,9 @@
+removeSwitchableUnit 
+Game: Armed Assault (1.00) 
+Description: Remove a unit from the list of units available for Team Switch.  
+Syntax:  
+ removeSwitchableUnit  unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

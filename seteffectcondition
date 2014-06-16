@@ -1,0 +1,15 @@
+setEffectCondition 
+Game: Armed Assault (1.00) 
+Description: The statement is executed when the trigger or waypoint is activated 
+ and the effects are launched depending on the result.If the result 
+ is a boolean and true, the effect is launched.If the result is an object 
+, the effect is launched if the result is the player or the player 
+ vehicle.If the result is an array, the effect is launched if the result 
+ contains the player or the player vehicle.  
+Syntax:  
+ trigger setEffectCondition statement 
+Parameters: 
+trigger: Object 
+statement: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,19 @@
+setCaptive 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Mark a unit as captive. 
+If unit is a vehicle, commander is marked. 
+A captive is neutral to everyone, and will not trigger "detected 
+ by" conditions for its original side. 
+Using a number (instead of a boolean) for the status has no further 
+ effect on the engine's behavior, but can be used by captiveNum to keep 
+ track of the captivity status at a finer resolution (e.g. handcuffed 
+, grouped, etc.) 
+The numbered status syntax was introduced in Arma 2.  
+Syntax:  
+ unitName setCaptive status 
+Parameters: 
+unitName: Object 
+status: Boolean or Number - When using a number parameter, any value&gt;0 is considered to be the same as true 
+Return Value: 
+ Nothing

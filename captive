@@ -1,0 +1,11 @@
+captive 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns if the given unit is captive. "captive" means that enemies 
+ will not shoot at the unit.  
+Syntax:  
+ Boolean = captive object 
+Parameters: 
+object: Object 
+Return Value: 
+ Boolean -  true if the unit is captive, false if not

@@ -1,0 +1,18 @@
+selectWeapon 
+Game: Operation Flashpoint (1.27) 
+Description: Selects the given weapon. 
+Note: For weapons that have more than one muzzle, you have to input 
+ the muzzlename and not the weaponName. 
+The only weapons that have muzzleNames seem to be rifles with grenade 
+ launchers, handgrenades, smokeshells and satchels. 
+In all other cases the weaponName must be used.Fortunately, in OFP, in most 
+ cases, both names are the same. But check. 
+In ArmA the weaponNames and muzzleNames are different. 
+For muzzle names see cfgWeapons.  
+Syntax:  
+ unitName selectWeapon muzzleName 
+Parameters: 
+unitName: Object 
+muzzleName: String 
+Return Value: 
+ Nothing

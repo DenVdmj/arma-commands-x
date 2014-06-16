@@ -1,0 +1,11 @@
+setParticleParams 
+Game: Armed Assault (1.00) 
+Description: Set parameters to particle source. Array is in format ParticleArray 
+.  
+Syntax:  
+ particleSource setParticleParams array 
+Parameters: 
+particleSource: Object 
+array: Array - format ParticleArray 
+Return Value: 
+ Nothing

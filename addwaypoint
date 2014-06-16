@@ -1,0 +1,16 @@
+addWaypoint 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Adds (or inserts when index is given) a new waypoint to a group. 
+The waypoint is placed randomly within a circle with the given center 
+ and radius. 
+The function returns a waypoint with format [group, index].    
+Syntax:  
+ Array = groupName addWaypoint [center, radius] or [center, radius, index] 
+Parameters: 
+groupName: Group 
+[center, radius]: Array 
+center: Position or Object 
+index: Number 
+Return Value: 
+ Array - format Waypoint

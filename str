@@ -1,0 +1,9 @@
+str 
+Game: Armed Assault (1.00) 
+Description: Converts any variable to a string.  
+Syntax:  
+ String = str value 
+Parameters: 
+value: Anything 
+Return Value: 
+ String

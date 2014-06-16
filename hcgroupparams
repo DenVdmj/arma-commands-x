@@ -1,0 +1,11 @@
+hcGroupParams 
+Game: ARMA 2  (1.00) 
+Description: Returns parameters describing group in high command bar. Return value 
+ is [string,float[4]]  
+Syntax:  
+ unit hcGroupParams group 
+Parameters: 
+unit: Object - 
+group: Group - 
+Return Value: 
+ Array

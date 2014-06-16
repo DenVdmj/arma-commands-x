@@ -1,0 +1,10 @@
+rectangular 
+Game: Armed Assault (1.08) 
+Description: Checks if a location is rectangular (returns true) or elliptical 
+ (returns false). 
+Syntax:  
+ rectangular location 
+Parameters: 
+location: Location 
+Return Value: 
+ Boolean

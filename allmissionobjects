@@ -1,0 +1,9 @@
+allMissionObjects 
+Game: ArmA 2: Operation Arrowhead (1.57) 
+Description: Returns all mission objects with given type (or its subtype).  
+Syntax:  
+ allMissionObjects type 
+Parameters: 
+type: String 
+Return Value: 
+ Array of Objects

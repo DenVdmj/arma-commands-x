@@ -1,0 +1,10 @@
+displayRemoveAllEventHandlers 
+Game: ARMA 2  (1.00) 
+Description: Remove all even handlers from the given display.  
+Syntax:  
+ display displayRemoveAllEventHandlers handler name 
+Parameters: 
+display: Display - 
+handler name: String - 
+Return Value: 
+ Nothing

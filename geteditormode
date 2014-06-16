@@ -1,0 +1,9 @@
+getEditorMode 
+Game: ARMA 2  (1.00) 
+Description: Returns the current mode of the editor.  
+Syntax:  
+ getEditorMode map 
+Parameters: 
+map: Control - 
+Return Value: 
+ String

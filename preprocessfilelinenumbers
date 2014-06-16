@@ -1,0 +1,11 @@
+preprocessFileLineNumbers 
+Game: Armed Assault (1.00) 
+Description: Returns the preprocessed content of the given file. The preprocessor 
+ is C-like, it supports comments using // or /* and */ and macros 
+ defined with #define.  
+Syntax:  
+ String = preprocessFileLineNumbers fileName 
+Parameters: 
+fileName: String 
+Return Value: 
+ String

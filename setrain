@@ -1,0 +1,13 @@
+setRain 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Set rain density smoothly over the given transition time (in seconds 
+). A transition time of zero means an immediate change. A rain density 
+ of zero is no rain, one is maximum rain. Rain is not possible when 
+ overcast is less than 0.7.  
+Syntax:  
+ time setRain rain 
+Parameters: 
+time: Number. In seconds 
+rain: Number. Range 0 to 1 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+lnbDeleteColumn 
+Game: ARMA 2  (1.00) 
+Description: Removes column with given index.  
+Syntax:  
+ lnbDeleteColumn [idc,index] 
+Parameters: 
+[idc,index]: Array - 
+Return Value: 
+ Nothing

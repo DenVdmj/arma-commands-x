@@ -1,0 +1,10 @@
+addGroupIcon 
+Game: ARMA 2  (1.00) 
+Description: Add icon to a group. Returns icon ID  
+Syntax:  
+ group addGroupIcon properties 
+Parameters: 
+group: Group - 
+properties: Array - 
+Return Value: 
+ Number

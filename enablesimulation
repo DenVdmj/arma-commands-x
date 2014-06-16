@@ -1,0 +1,11 @@
+enableSimulation 
+Behavior: global 
+Game: ARMA 2  (1.00) 
+Description: Enable / disable simulation for given entity.  
+Syntax:  
+ object enableSimulation bool 
+Parameters: 
+Object 
+Boolean 
+Return Value: 
+ None

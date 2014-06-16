@@ -1,0 +1,12 @@
+addWeaponPool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Add weapons to the weapon pool, of which the player may choose in the following 
+ mission. Available in campaigns only.  
+Syntax:  
+ addWeaponPool [weaponName, count] 
+Parameters: 
+[weaponName, count]: Array 
+weaponName: String - weapon name. See the topic Category:Weapons for reference about possible values. 
+count: Number - number of weapons to add 
+Return Value: 
+ Nothing

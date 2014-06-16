@@ -1,0 +1,10 @@
+markerPos 
+Game: Operation Flashpoint (1.5) 
+Description: Get marker Position. Note: This function is identical to getMarkerPos 
+.  
+Syntax:  
+ Array = markerPos markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ Array - format Position

@@ -1,0 +1,8 @@
+detach 
+Game: ARMA 2  (1.00) 
+Description: Detaches an object.  
+Syntax:  
+ detach object 
+Parameters: 
+object: Object - 
+Return Value: 

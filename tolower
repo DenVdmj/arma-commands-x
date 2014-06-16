@@ -1,0 +1,9 @@
+toLower 
+Game: Armed Assault (1.09) 
+Description: Converts the supplied string to all lowercase characters.  
+Syntax:  
+ toLower string 
+Parameters: 
+string: String 
+Return Value: 
+ String

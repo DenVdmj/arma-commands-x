@@ -1,0 +1,11 @@
+atan2 
+Game: Operation Flashpoint (1.00) 
+Description: ArcTangent of x/y. Used to determine the angle of a vector [x,y]. Result 
+ in Degrees.  
+Syntax:  
+ Number = x atan2 y 
+Parameters: 
+x: Number 
+y: Number 
+Return Value: 
+ Number

@@ -1,0 +1,9 @@
+ctrlCommitted 
+Game: Armed Assault (1.00) 
+Description: Check if the control animation is finished.  
+Syntax:  
+ Boolean = ctrlCommitted controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Boolean

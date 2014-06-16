@@ -1,0 +1,12 @@
+dissolveTeam 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Dissolves the given team. All members become members of the main 
+ team. Possible team values are: "RED", "GREEN", "BLUE" or "YELLOW 
+".  
+Syntax:  
+ dissolveTeam teamColor 
+Parameters: 
+teamColor: String 
+Return Value: 
+ Nothing

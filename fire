@@ -1,0 +1,11 @@
+fire 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Forces a unit to fire the given weapon.  
+Syntax:  
+ unit fire weaponName 
+Parameters: 
+unit: Object - unit that's supposed to fire 
+weaponName: String - name of the weapon to be fired 
+Return Value: 
+ Nothing

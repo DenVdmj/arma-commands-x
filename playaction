@@ -1,0 +1,11 @@
+playAction 
+Game: ARMA 2  (1.00) 
+Description: When used on a person, a smooth transition to the given action will 
+ be initiated.  
+Syntax:  
+ soldier playAction action 
+Parameters: 
+soldier: Object - 
+action: String - 
+Return Value: 
+ Nothing

@@ -1,0 +1,12 @@
+hint 
+Game: Operation Flashpoint (1.00) 
+Description: Outputs a hint message on the left upper corner of the screen (in OFP with 
+ a ding sound). 
+The text may contain several lines.  
+Syntax:  
+ hint text 
+Parameters: 
+text: String - the message to write on the screen may consist of any characters. 
+ indicates a line break. 
+Return Value: 
+ Nothing

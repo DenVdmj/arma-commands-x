@@ -1,0 +1,12 @@
+sliderSetRange 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Set limits of slider idc of topmost user dialog.  
+Syntax:  
+ sliderSetRange [idc, min, max] 
+Parameters: 
+[idc, min, max]: Array 
+idc: Number of control 
+min: Number 
+max: Number 
+Return Value: 
+ Nothing

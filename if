@@ -1,0 +1,15 @@
+if 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: The standard if, then, else construct available in many languages 
+. This syntax however has alternate forms in the manner of an Array 
+.if (condition) then {code} else {code}if (condition) then [ {code 
+},{code} ] 
+Result of the Code executed is returned as the result to this command 
+ (which may be Nothing}. 
+Syntax:  
+ Anything = if (condition) then {Code} else {Code} 
+Anything = if (condition) then  [ {ThenCode} , {ElseCode} ] 
+Parameters: 
+condition: Boolean expression. If it evaluates as 'true', the 'then' clause is executed.  Otherwise, the 'else' clause (if present) is executed. 
+Return Value: 
+ If Type - Predicate which will execute 1st or 2nd option when used. This predicate is used in then or exitWith commands.

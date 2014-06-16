@@ -1,0 +1,10 @@
+nearRoads 
+Game: ARMA 2  (1.00) 
+Description: Find the road segments within the circle of given radius.  
+Syntax:  
+ pos nearRoads radius 
+Parameters: 
+pos: Array or Object - Position or object 
+radius: Number - 
+Return Value: 
+ Array

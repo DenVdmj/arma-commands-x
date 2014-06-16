@@ -1,0 +1,9 @@
+sin 
+Game: Operation Flashpoint (1.00) 
+Description: Sine of x, argument in Degrees.  
+Syntax:  
+ Number = sin x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

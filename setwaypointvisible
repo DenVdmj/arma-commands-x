@@ -1,0 +1,10 @@
+setWaypointVisible 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Sets the visibility of the waypoint.  
+Syntax:  
+ waypoint setWaypointVisible visible 
+Parameters: 
+waypoint: Array - format Waypoint 
+visible: Boolean 
+Return Value: 
+ Nothing

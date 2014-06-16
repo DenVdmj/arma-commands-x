@@ -1,0 +1,8 @@
+mapAnimDone 
+Behavior: local 
+Game: Operation Flashpoint (1.27) 
+Description: Check if map animation is finished.  
+Syntax:  
+ Boolean = mapAnimDone 
+Return Value: 
+ Boolean

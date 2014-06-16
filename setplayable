@@ -1,0 +1,10 @@
+setPlayable 
+Game: Armed Assault (1.00) 
+Description: Create MP role for the unit. The roles created this way are used 
+ for Join In Progress and Team Switch.  
+Syntax:  
+ setPlayable unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

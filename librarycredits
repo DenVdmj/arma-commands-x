@@ -1,0 +1,7 @@
+libraryCredits 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the credits for the libraries used by the game.  
+Syntax:  
+ libraryCredits 
+Return Value: 
+ Array - [array1, array2, (..), arrayN] all under the form [libraryName, credits] 

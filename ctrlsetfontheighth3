@@ -1,0 +1,10 @@
+ctrlSetFontHeightH3 
+Game: Armed Assault (1.00) 
+Description: Sets H3 font size of given HTML control.  
+Syntax:  
+ controlName ctrlSetFontHeightH3 height 
+Parameters: 
+controlName: Control 
+height: Number 
+Return Value: 
+ Nothing

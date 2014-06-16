@@ -1,0 +1,11 @@
+startLoadingScreen 
+Game: ARMA 2  (1.00) 
+Description: Shows loading screen with the given text,using the given resource 
+.,When loading screen is shown,simulation and scene drawing is disabled 
+, scripts run at full speed.   
+Syntax:  
+ startLoadingScreen [text] or [text,resource] 
+Parameters: 
+[text] or [text,resource]: Array - 
+Return Value: 
+ Nothing

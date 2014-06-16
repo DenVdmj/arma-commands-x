@@ -1,0 +1,10 @@
+displayCtrl 
+Game: Armed Assault (1.00) 
+Description: Return child control with specified idc.  
+Syntax:  
+ Control = display displayCtrl idc 
+Parameters: 
+display: Display 
+idc: Number 
+Return Value: 
+ Control

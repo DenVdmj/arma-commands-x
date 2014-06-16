@@ -1,0 +1,10 @@
+showSubtitles 
+Game: ARMA 2  (1.00) 
+Description: Enable / disable showing of subtitles. Return the previous state 
+.  
+Syntax:  
+ showSubtitles enable 
+Parameters: 
+enable: Boolean - 
+Return Value: 
+ Boolean

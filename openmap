@@ -1,0 +1,9 @@
+openMap 
+Game: ARMA 2  (1.03) 
+Description: Show player's map. If forced, cannot be closed.  
+Syntax:  
+ openMap show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Boolean

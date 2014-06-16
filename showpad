@@ -1,0 +1,10 @@
+showPad 
+Game: Operation Flashpoint (1.00) 
+Description: Shows or hides the notebook on the map screen, if enabled for the mission 
+. (default true). It is no longer relevant to Arma 2.  
+Syntax:  
+ showPad show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

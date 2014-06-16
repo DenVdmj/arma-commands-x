@@ -1,0 +1,7 @@
+registeredTasks 
+Game: ARMA 2  (1.00) 
+Description: List all registered task types.  
+Syntax:  
+ registeredTasks teamMember 
+Return Value: 
+Task

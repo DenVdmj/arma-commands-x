@@ -1,0 +1,11 @@
+lock 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Lock vehicle (disable mounting / dismounting) for player.  
+Syntax:  
+ vehicleName lock lock 
+Parameters: 
+vehicleName: Object 
+lock: Boolean 
+Return Value: 
+ Nothing

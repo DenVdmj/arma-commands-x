@@ -1,0 +1,9 @@
+ppEffectDestroy 
+Game: ARMA 2  (1.00) 
+Description: Destroy post process effect given by handle.  
+Syntax:  
+ ppEffectDestroy effect 
+Parameters: 
+effect: Array or Number - 
+Return Value: 
+ Nothing

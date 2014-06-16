@@ -1,0 +1,12 @@
+setFormDir 
+Game: Operation Flashpoint (1.00) 
+Description: Set group formation heading. Accepted heading range is 0 to 360. Formation 
+ is facing this direction unless enemy is seen. When group is moving 
+, this value is overriden by movement direction.  
+Syntax:  
+ group setFormDir heading 
+Parameters: 
+group: Object or Group 
+heading: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,21 @@
+setVariable 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Set variable to given value in the variable space of given element 
+.  
+To remove a variable, set it to nil (e.g. player setVariable ["varname 
+",nil]).  
+All available data type combinations: Namespace setVariable Array 
+ Control setVariable Array Object setVariable Array Group setVariable 
+ Array Team_Member setVariable Array Task setVariable Array Location 
+ setVariable Array 
+Syntax:  
+ objectName setVariable [name, value, (public)] 
+Parameters: 
+objectName: Object or Location. Arma 2 also supports: Namespace, Group, Control, Task 
+[name, value]: Array 
+name: String 
+value: Any_Value 
+public: Boolean - Only available for Object types. If public is true then the value is broadcast to all computers. 
+Return Value: 
+ Nothing

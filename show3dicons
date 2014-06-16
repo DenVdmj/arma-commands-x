@@ -1,0 +1,10 @@
+show3DIcons 
+Game: ARMA 2  (1.00) 
+Description: Toggle the drawing of 3D icons.  
+Syntax:  
+ map show3DIcons bool 
+Parameters: 
+map: Control - 
+bool: Boolean - 
+Return Value: 
+ Nothing

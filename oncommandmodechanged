@@ -1,0 +1,10 @@
+onCommandModeChanged 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when command mode change. Command receives 
+,_isHighCommand bool  
+Syntax:  
+ onCommandModeChanged command 
+Parameters: 
+command:  - 
+Return Value: 
+ Nothing

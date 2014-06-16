@@ -1,0 +1,10 @@
+callExtension 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Execute an extension function.  
+Syntax:  
+ extension callExtension functionWithArguments 
+Parameters: 
+extension: String 
+functionWithArguments: String 
+Return Value: 
+ String

@@ -1,0 +1,10 @@
+currentWeaponMode 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns current weapon mode of unit's weapon. Result can be: "Single 
+", "Burst" or "manual"  
+Syntax:  
+ currentWeaponMode gunner 
+Parameters: 
+gunner: Object 
+Return Value: 
+ String

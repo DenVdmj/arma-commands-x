@@ -1,0 +1,8 @@
+playerSide 
+Game: Armed Assault (1.00) 
+Description: Returns the player's side. This is valid even when the player controlled 
+ person is dead (a difference from side player).  
+Syntax:  
+ Side = playerSide 
+Return Value: 
+ Side

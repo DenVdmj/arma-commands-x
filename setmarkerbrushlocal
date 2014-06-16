@@ -1,0 +1,14 @@
+setMarkerBrushLocal 
+Game: Armed Assault (1.04) 
+Description: Selects the fill texture for the marker ("RECTANGLE" or "ELLIPSE 
+"). Brush is the name of the subclass in CfgMarkerBrushes. 
+brush can be: "Solid" "Horizontal" "Vertical" "Grid" "FDiagonal" "BDiagonal 
+" "DiagGrid" "Cross" "Border" (ArmA2 only) "SolidBorder" (OA only 
+)  
+Syntax:  
+ markerName setMarkerBrushLocal brush 
+Parameters: 
+markerName: String 
+brush: String 
+Return Value: 
+ Nothing

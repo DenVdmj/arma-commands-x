@@ -1,0 +1,20 @@
+onPlayerConnected 
+Game: Armed Assault (1.00) 
+Description: This statement is launched whenever a player is connected to a MP session 
+.  
+ Variables _id and _name are set, in theory _id being the session 
+ id number as seen in #userlist.  
+Note that as of 1.08, this command only accepts a code-string rather 
+ than code delimited by braces. 
+Note as of ArmA 2 version 1.02 this function returns also variable 
+ _uid with uniqueID of player. 
+As of version Arma2 1.04, _id will return a number in float format 
+, something like 1.4253e+10.  
+_id is the Unique DirectPlay ID of player, and there are some conversions 
+ between DirectPlay floats and Arma Engine numbers. 
+Syntax:  
+ onPlayerConnected statement 
+Parameters: 
+statement: String 
+Return Value: 
+ Nothing

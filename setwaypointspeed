@@ -1,0 +1,11 @@
+setWaypointSpeed 
+Game: Armed Assault (1.00) 
+Description: Switches the group speed mode when the waypoint becomes active. 
+Possible values are: "UNCHANGED" "LIMITED" "NORMAL" "FULL" 
+Syntax:  
+ waypoint setWaypointSpeed mode 
+Parameters: 
+waypoint: Array - format Waypoint 
+mode: String 
+Return Value: 
+ Nothing

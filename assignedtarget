@@ -1,0 +1,10 @@
+assignedTarget 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Return the target assigned to the vehicle. 
+Syntax:  
+ Object = assignedTarget vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ Object

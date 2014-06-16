@@ -1,0 +1,7 @@
+registerTask 
+Game: ARMA 2  (1.00) 
+Description: Register a new task type. Parameters are defined in the given config 
+ class (subclass of CfgTasks).   
+Syntax:  
+ teamMember registerTask entry name 
+Return Value: 

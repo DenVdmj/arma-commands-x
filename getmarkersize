@@ -1,0 +1,10 @@
+getMarkerSize 
+Behavior: local 
+Game: Operation Flashpoint (1.21) 
+Description: Returns the size of a given marker.  
+Syntax:  
+ Array = getMarkerSize markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ Array -  The returned array contains two values: [a,b] where a is the size in the markers x-axis, b the size in its y-axis (in meters).

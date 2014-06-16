@@ -1,0 +1,10 @@
+showLegend 
+Game: ARMA 2  (1.00) 
+Description: Show/hide map legend.  
+Syntax:  
+ map showLegend bool 
+Parameters: 
+map: Control - 
+bool: Boolean - 
+Return Value: 
+ Nothing

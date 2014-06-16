@@ -1,0 +1,9 @@
+while 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Repeat Code while condition is true.  
+Syntax:  
+ while condition 
+Parameters: 
+condition: Code 
+Return Value: 
+ While Type

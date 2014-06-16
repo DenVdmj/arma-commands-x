@@ -1,0 +1,13 @@
+setVehicleInit 
+Game: Armed Assault (1.00) 
+Description: Attach a statement to a unit. The statement is propagated over the network 
+ in MP games, it can be executed by invoking processInitCommands 
+.  For security reasons, the command was disabled in Arma 3. Use BIS_fnc_MP 
+ for remote execution. 
+Syntax:  
+ unitName setVehicleInit statement 
+Parameters: 
+unitName: Object 
+statement: String 
+Return Value: 
+ Nothing

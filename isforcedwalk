@@ -1,0 +1,9 @@
+isForcedWalk 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns true if player is forced to walk.  
+Syntax:  
+ isForcedWalk unitName 
+Parameters: 
+unitName&#160;: Object 
+Return Value: 
+ Boolean

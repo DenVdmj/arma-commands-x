@@ -1,0 +1,10 @@
+lockedCargo 
+Game: ARMA 2  (1.00) 
+Description: Check whether cargo position of the vehicle is locked.  
+Syntax:  
+ vehicle lockedCargo cargo index 
+Parameters: 
+vehicle: Object - 
+cargo index: Number - 
+Return Value: 
+ Boolean

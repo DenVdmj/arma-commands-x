@@ -1,0 +1,10 @@
+setPosition 
+Game: Armed Assault (1.08) 
+Description: Sets the position of a location.  
+Syntax:  
+ location setPosition pos 
+Parameters: 
+location: Location 
+pos: Array - format Position 
+Return Value: 
+ Nothing

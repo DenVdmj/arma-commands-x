@@ -1,0 +1,10 @@
+camPrepareFovRange 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera field of view range for auto zooming.  
+Syntax:  
+ camera camPrepareFovRange fovRange 
+Parameters: 
+camera: Object 
+fovRange: Array 
+Return Value: 
+ Nothing

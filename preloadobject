@@ -1,0 +1,13 @@
+preloadObject 
+Game: Armed Assault (1.00) 
+Description: Preload all textures, materials and proxies needed to render given 
+ object. Object can be determined either by config class name (CfgVehicles 
+), or by Unit.  
+Returns true once all data is loaded and ready.  
+Syntax:  
+Boolean = distance preloadObject object 
+Parameters: 
+distance: Number 
+object: Object or String 
+Return Value: 
+ Boolean

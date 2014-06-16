@@ -1,0 +1,10 @@
+lnbValue 
+Game: ARMA 2  (1.00) 
+Description: Returns the additional integer value in the item with the given position 
+ of the 2D listbox.  
+Syntax:  
+ lnbValue [idc,[row,column] 
+Parameters: 
+[idc,[row,column]: Array - 
+Return Value: 
+ Number

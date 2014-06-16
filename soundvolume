@@ -1,0 +1,7 @@
+soundVolume 
+Game: Operation Flashpoint (1.00) 
+Description: Check current sound volume (set by fadeSound).  
+Syntax:  
+ Number = soundVolume 
+Return Value: 
+ Number

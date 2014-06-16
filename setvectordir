@@ -1,0 +1,11 @@
+setVectorDir 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Set object's direction vector. Up vector will remain unchanged.  
+Syntax:  
+ object setVectorDir [x, z, y] 
+Parameters: 
+object: Object 
+[x, z, y]: Array 
+Return Value: 
+ Nothing

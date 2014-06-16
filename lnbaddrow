@@ -1,0 +1,9 @@
+lnbAddRow 
+Game: ARMA 2  (1.00) 
+Description: Adds an row of strings.  
+Syntax:  
+ lnbAddRow [idc,[text,text,...]] 
+Parameters: 
+[idc,[text,text,...]]: Array - 
+Return Value: 
+ Number

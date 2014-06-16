@@ -1,0 +1,22 @@
+createAgent 
+Game: ARMA 2  (1.00) 
+Description: Creates an (independent) agent (person) of the given type (type is a name 
+ of a subclass of CfgVehicles). If the markers array contains several 
+ marker names, the position of a random one is used, otherwise, the given 
+ position is used. The unit is placed inside a circle with this position 
+ as its center and placement as its radius. 
+Players assigned to an agent using setPlayable will be able to control 
+ the agent, operate weapons and other actions, but will not be able 
+ to access their inventory using the gear screen. 
+Special properties can be: "NONE" and "FORM".  
+Syntax:  
+ Object = createAgent [type, position, markers, placement, special] 
+Parameters: 
+[type, position, markers, placement, special]: Array 
+type: String from CfgVehicles 
+position: Array (Position format) 
+markers: Array 
+placement: Number radius 
+special: String "None", or "Form" 
+Return Value: 
+ Object

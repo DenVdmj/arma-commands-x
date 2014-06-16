@@ -1,0 +1,9 @@
+cameraView 
+Game: ARMA 2  (1.00) 
+Description: Returns mode of active camera view. Mode is one of:  "INTERNAL" (1st person 
+) "EXTERNAL" (3rd person) "GUNNER" (optics / sights) "GROUP" (commander 
+ view)  
+Syntax:  
+ cameraView 
+Return Value: 
+ String

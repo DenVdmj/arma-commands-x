@@ -1,0 +1,10 @@
+fadeSound 
+Game: Operation Flashpoint (1.00) 
+Description: Changes the sound volume smoothly within the given time.  
+Syntax:  
+ time fadeSound volume 
+Parameters: 
+time: Number - the time in seconds 
+volume: Number - sound volume range 0 to 1. Maximum volume is 1. Default is 1. 
+Return Value: 
+ Nothing

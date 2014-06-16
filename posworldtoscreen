@@ -1,0 +1,10 @@
+posWorldToScreen 
+Game: Armed Assault (1.00) 
+Description: Convert world coordinates to screen coordinates in map.  
+Syntax:  
+ map posWorldToScreen position 
+Parameters: 
+map&#160;: Control 
+position&#160;: Array - format Position2D 
+Return Value: 
+ Array (Position2D Format)

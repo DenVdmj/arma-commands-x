@@ -1,0 +1,10 @@
+setMarkerTextLocal 
+Game: Armed Assault (1.04) 
+Description: Sets the text label of an existing marker.  
+Syntax:  
+ markerName setMarkerTextLocal text 
+Parameters: 
+markerName: String 
+text: String 
+Return Value: 
+ Nothing

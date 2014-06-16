@@ -1,0 +1,14 @@
+assignAsCargo 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Assign a unit as cargo of a vehicle. Used together with orderGetIn 
+ to order a unit to get in as cargo into a specific vehicle. Before 
+ usage of this command a subordinate unit hasn't got the option to get into 
+ the cargo space of the vehicle.  
+Syntax:  
+ unitName assignAsCargo vehicleName 
+Parameters: 
+unitName: Object 
+vehicleName: Object 
+Return Value: 
+ Nothing

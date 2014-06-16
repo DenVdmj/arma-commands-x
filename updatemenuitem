@@ -1,0 +1,11 @@
+updateMenuItem 
+Game: ARMA 2  (1.00) 
+Description: Sets the text and command for the menu item. index is index as returned 
+ from addMenuItem command. command is optional.  
+Syntax:  
+ map updateMenuItem [menu item index,text,command] 
+Parameters: 
+map: Control - 
+[menu item index,text,command]: Array - 
+Return Value: 
+ Nothing

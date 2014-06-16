@@ -1,0 +1,16 @@
+switchCamera 
+Game: Operation Flashpoint (1.00) 
+Description: Switch camera to given vehicle / camera. Mode is one of:  "INTERNAL 
+": 1st person "GUNNER": optics / sights "EXTERNAL": 3rd person "GROUP 
+": group "VIEW": exactly what spectated unit sees (gun optics, binoculars 
+, TI and NV, etc.) (VBS2 1.30+ only) 
+ 
+Note: If you switch to a unit in a vehicle, this command uses the correct 
+ turret. 
+Syntax:  
+ unitName switchCamera mode 
+Parameters: 
+unitName: Object 
+mode: String 
+Return Value: 
+ Nothing

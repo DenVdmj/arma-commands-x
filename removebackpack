@@ -1,0 +1,9 @@
+removeBackpack 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Removes unit's backpack  
+Syntax:  
+ removeBackpack unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ Nothing

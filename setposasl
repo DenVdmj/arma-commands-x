@@ -1,0 +1,11 @@
+setPosASL 
+Game: Armed Assault (1.00) 
+Description: Sets the object position above sea level. The pos array uses the PositionASL 
+ format.  
+Syntax:  
+ object setPosASL pos 
+Parameters: 
+object: Object 
+pos: Array - format PositionASL 
+Return Value: 
+ Nothing

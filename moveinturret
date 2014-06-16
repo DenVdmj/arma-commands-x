@@ -1,0 +1,22 @@
+moveInTurret 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Moves the soldier into the vehicle's turret. (Immediately, without 
+ animation). 
+turret path is an array of positions inside a turret, or positions 
+ inside a turret of a turret. 
+[0,0] means first turret of first turret. 
+[1,0] means second turret of first turret. 
+[0,1] means first turret of the second turret. 
+[0,2] means first turret of third turret. 
+[1] means second turret (without turrets in that turret). 
+And so on...  
+Syntax:  
+ unitName moveInTurret [vehicle, turret path] 
+Parameters: 
+unitName: Object 
+[vehicle, turret path]: Array 
+vehicle: Object 
+turret path: Array - see Description. 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+ctrlSetActiveColor 
+Game: Armed Assault (1.00) 
+Description: Sets text color of given control when control is selected.  
+Syntax:  
+ display ctrlSetActiveColor color 
+Parameters: 
+display: Control 
+color: Array (format Color) 
+Return Value: 
+ Nothing

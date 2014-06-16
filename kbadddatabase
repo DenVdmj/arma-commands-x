@@ -1,0 +1,10 @@
+kbAddDatabase 
+Game: ARMA 2  (1.00) 
+Description: Register knowledge base database to given person. 
+Syntax:  
+ Boolean = person kbAddDatabase filename 
+Parameters: 
+person: Object 
+filename: String 
+Return Value: 
+ Boolean

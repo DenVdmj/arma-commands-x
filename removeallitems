@@ -1,0 +1,9 @@
+removeAllItems 
+Game: ARMA 2  (1.00) 
+Description: Removes all special items from the unit.  
+Syntax:  
+ removeAllItems unit 
+Parameters: 
+unit: Object - 
+Return Value: 
+ Nothing

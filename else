@@ -1,0 +1,10 @@
+else 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Construct an array that can be processed by then.  
+Syntax:  
+ ifCode else elseCode 
+Parameters: 
+ifCode: Code 
+elseCode: Code 
+Return Value: 
+ Array

@@ -1,0 +1,12 @@
+countEnemy 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Count how many units in the array are considered enemy to the given 
+ unit.  
+Syntax:  
+ Number = unitName countEnemy arrayName 
+Parameters: 
+unitName: Object 
+arrayName: Array 
+Return Value: 
+ Number

@@ -1,0 +1,10 @@
+suppressFor 
+Game: ARMA 2  (1.05) 
+Description: Force suppressive fire from the unit.  
+Syntax:  
+ unit suppressFor duration 
+Parameters: 
+unit: Object 
+duration: Number 
+Return Value: 
+ Nothing

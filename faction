@@ -1,0 +1,19 @@
+faction 
+Game: ARMA 2  (1.00) 
+Description: Gets unit faction.  Standard Factions include:  
+Arma 2: West: "USMC", "CDF" East: "RU", "INS" Guer: "GUE" Civ: "CIV", "CIV_RU 
+" 
+Arma 2: Operation Arrowhead:  West: "BIS_US", "BIS_CZ", "BIS_GER 
+" East: "BIS_TK", "BIS_TK_INS" Guer: "BIS_TK_GUE", "BIS_UN" Civ: "BIS_TK_CIV 
+", "BIS_CIV_special" 
+DLC Factions 
+Arma 2: British Armed Forces:  West: "BIS_BAF" 
+Arma 2: Private Military Company: Guer: "PMC_BAF" 
+Factions are defined under cfgFactionClasses. If the given faction 
+ is not defined, the command returns empty string.  
+Syntax:  
+ String = faction unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String. See above.

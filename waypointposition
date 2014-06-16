@@ -1,0 +1,10 @@
+waypointPosition 
+Game: Operation Flashpoint (1.5) 
+Description: Get Waypoint's  Position.  
+Note: This function is identical to getWPPos.  
+Syntax:  
+ Array = waypointPosition waypoint 
+Parameters: 
+waypoint: Array - format Waypoint 
+Return Value: 
+ Array - format Position

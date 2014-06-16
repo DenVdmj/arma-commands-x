@@ -1,0 +1,11 @@
+setRadioMsg 
+Game: Operation Flashpoint (1.00) 
+Description: Set radio message (0, 0, map radio) to given text. Use "NULL" to disable 
+ radio slot.  
+Syntax:  
+ index setRadioMsg text 
+Parameters: 
+index: Number 
+text: String 
+Return Value: 
+ Nothing

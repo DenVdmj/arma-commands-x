@@ -1,0 +1,10 @@
+setParticleRandom 
+Game: Armed Assault (1.00) 
+Description: Set randomization of particle source parameters.  
+Syntax:  
+ particleSource setParticleRandom [lifeTime, position, moveVelocity, rotationVelocity, size, color, randomDirectionPeriod, randomDirectionIntensity, {angle}] 
+Parameters: 
+particleSource: Object 
+[lifeTime, position, moveVelocity, rotationVelocity, size, color, randomDirectionPeriod, randomDirectionIntensity, {angle}]: Array 
+Return Value: 
+ Nothing

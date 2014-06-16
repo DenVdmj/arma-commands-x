@@ -1,0 +1,12 @@
+knowsAbout 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Check if (and by how much) unit knows about target. If unit is vehicle 
+, vehicle commander is considered.  
+Syntax:  
+ Number = unit knowsAbout target 
+Parameters: 
+unit: Object or Group 
+target: Object 
+Return Value: 
+ Number (from 0 to 4)

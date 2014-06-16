@@ -1,0 +1,9 @@
+someAmmo 
+Game: Operation Flashpoint (1.00) 
+Description: Check if unit has some ammo.  
+Syntax:  
+ Boolean = someAmmo unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean

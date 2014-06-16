@@ -1,0 +1,19 @@
+kbAddTopic 
+Game: ARMA 2  (1.00) 
+Description: Register conversation topic to given person. 
+Syntax:  
+ person kbAddTopic [TopicName, filename.bikb, (filename.fsm, (event_handler))] 
+Parameters: 
+person: Object 
+[TopicName, filename.bikb, (filename.fsm, (event_handler))]: Array 
+TopicName: String - 
+filename.bikb: String - Must exist. bikb file name. 
+filename.fsm: String - Optional. Can be empty string. fsm file name 
+event_handler: Code or String - Optional. New to Arma2. 
+The event handler receives parameters: 
+_sentenceId: the sentence as defined in the.bikb file 
+_topic: TopicName registered via kbAddTopic 
+_this: the person that was talked to (receiver) 
+_from: the person that talked to the receiver and triggered the script 
+Return Value: 
+ Nothing

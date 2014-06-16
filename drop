@@ -1,0 +1,15 @@
+drop 
+Game: Operation Flashpoint (1.5) 
+Description: Creates a particle effect. 
+This command is used to create smoke, fire and similar effects. 
+The particles are single polygons with single textures that always 
+ face the player. 
+They can be set to dynamically change their position, size, direction 
+, can be set to different weights and more or less dependant on the wind 
+.  
+Syntax:  
+ drop array 
+Parameters: 
+array: Array - format ParticleArray. 
+Return Value: 
+ Nothing

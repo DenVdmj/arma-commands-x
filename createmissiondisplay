@@ -1,0 +1,11 @@
+createMissionDisplay 
+Game: Armed Assault (1.08) 
+Description: Create single missions display as a child of given display. The mission 
+ dialog will be set to the directory given as an argument "root".  
+Syntax:  
+ Display = display createMissionDisplay string 
+Parameters: 
+display&#160;: Display 
+string: String 
+Return Value: 
+ Display

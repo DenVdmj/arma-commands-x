@@ -1,0 +1,10 @@
+setFormationTask 
+Game: Armed Assault (1.00) 
+Description: Set the current task of the formation member.  
+Syntax:  
+ object setFormationTask task 
+Parameters: 
+object: Object 
+task: String 
+Return Value: 
+ Nothing

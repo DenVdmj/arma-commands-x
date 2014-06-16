@@ -1,0 +1,10 @@
+ctrlSetFontHeightH5 
+Game: Armed Assault (1.00) 
+Description: Sets H5 font size of given HTML control.  
+Syntax:  
+ controlName ctrlSetFontHeightH5 height 
+Parameters: 
+controlName: Control 
+height: Number 
+Return Value: 
+ Nothing

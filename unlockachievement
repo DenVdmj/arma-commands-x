@@ -1,0 +1,9 @@
+unlockAchievement 
+Game: ARMA 2  (1.00) 
+Description: Unlock the given achievement.  
+Syntax:  
+ unlockAchievement name 
+Parameters: 
+name: String 
+Return Value: 
+ Boolean

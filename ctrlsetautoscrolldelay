@@ -1,0 +1,10 @@
+ctrlSetAutoScrollDelay 
+Game: ARMA 2  (1.00) 
+Description: Sets number of second before auto-scroll starts.  
+Syntax:  
+ control ctrlSetAutoScrollDelay delay 
+Parameters: 
+control: Control - 
+delay: Number - 
+Return Value: 
+ Nothing

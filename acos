@@ -1,0 +1,9 @@
+acos 
+Game: Operation Flashpoint (1.00) 
+Description: ArcCosine of a number, result in Degrees 
+Syntax:  
+  Number = acos x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

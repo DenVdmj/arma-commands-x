@@ -1,0 +1,12 @@
+unitPos 
+Game: Armed Assault (1.00) 
+Description: Return the unit position rules. 
+The return value is always "Auto" unless the unit has gotten a setUnitPos 
+ command. In that case the value is the last stance the unit was ordered 
+ to.  
+Syntax:  
+ String = unitPos unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String

@@ -1,0 +1,9 @@
+getPosATL 
+Game: ARMA 2  (1.03) 
+Description: Returns the position of an object relative to the terrain.  
+Syntax:  
+ getPosATL object 
+Parameters: 
+object: Object 
+Return Value: 
+ Array - format PositionATL

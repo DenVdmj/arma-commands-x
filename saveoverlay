@@ -1,0 +1,9 @@
+saveOverlay 
+Game: ARMA 2  (1.00) 
+Description: Save the current overlay.  
+Syntax:  
+ saveOverlay map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+ctrlSetTooltip 
+Game: Armed Assault (1.00) 
+Description: Sets tooltip text of given control.  
+Syntax:  
+ control ctrlSetTooltip text 
+Parameters: 
+control: Control - Any control type, except for CT_STATIC &amp; CT_STRUCTURED_TEXT 
+text: String 
+Return Value: 
+ Nothing

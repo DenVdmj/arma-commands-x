@@ -1,0 +1,10 @@
+setDate 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Sets the actual mission date and time.  
+Syntax:  
+ setDate [year, month, day, hour, minute] 
+Parameters: 
+[year, month, day, hour, minute]: Array 
+Return Value: 
+ Nothing

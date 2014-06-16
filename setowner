@@ -1,0 +1,11 @@
+setOwner 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: From server machine, change the ownership of an object to a given 
+ client. Returns true if locality was changed.  
+Syntax:  
+ object setOwner clientID 
+Parameters: 
+object: Object - 
+clientID: Number - clientID of the new owner 
+Return Value: 
+ Boolean

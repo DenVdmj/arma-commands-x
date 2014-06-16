@@ -1,0 +1,10 @@
+findEditorObject 
+Game: ARMA 2  (1.00) 
+Description: Return object that matches the provided reference.  
+Syntax:  
+ map findEditorObject value 
+Parameters: 
+map: Control - 
+value: Any - 
+Return Value: 
+ String

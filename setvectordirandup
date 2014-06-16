@@ -1,0 +1,11 @@
+setVectorDirAndUp 
+Behavior: local 
+Game: Armed Assault (1.09) 
+Description: Set object's orientation (given as direction and up vector).  
+Syntax:  
+ vehicle setVectorDirAndUp [[x, z, y],[x, z, y]] 
+Parameters: 
+vehicle: Object 
+[[x, z, y],[x, z, y]]: Array 
+Return Value: 
+ Nothing

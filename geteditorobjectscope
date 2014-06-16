@@ -1,0 +1,10 @@
+getEditorObjectScope 
+Game: ARMA 2  (1.00) 
+Description: Returns the editor object scope of the specified editor object.  
+Syntax:  
+ map getEditorObjectScope object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ String

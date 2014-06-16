@@ -1,0 +1,9 @@
+text 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text containing the given plain text.  
+Syntax:  
+ Structured Text = text text 
+Parameters: 
+text: String 
+Return Value: 
+ Structured Text

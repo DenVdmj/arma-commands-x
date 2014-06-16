@@ -1,0 +1,7 @@
+shownGPS 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has GPS reciever enabled.  
+Syntax:  
+ Boolean = shownGPS 
+Return Value: 
+ Boolean

@@ -1,0 +1,10 @@
+remoteControl 
+Game: ARMA 2  (1.00) 
+Description: Switch on remote control of the unit.  
+Syntax:  
+ who remoteControl whom 
+Parameters: 
+who: Object - 
+whom: Object - 
+Return Value: 
+ Nothing

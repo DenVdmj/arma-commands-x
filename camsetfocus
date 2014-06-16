@@ -1,0 +1,11 @@
+camSetFocus 
+Game: Armed Assault (1.00) 
+Description: focusRange is in format [distance,blur]. Sets the camera focus blur 
+. It does not automatically commit changes.  
+Syntax:  
+ camera camSetFocus focusRange 
+Parameters: 
+camera: Object 
+focusRange: Array 
+Return Value: 
+ Nothing

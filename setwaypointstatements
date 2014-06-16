@@ -1,0 +1,16 @@
+setWaypointStatements 
+Game: Armed Assault (1.00) 
+Description: The waypoint is done only when the condition is fulfilled. When the waypoint 
+ is done, the statement expression is executed. 
+Within the Condition &amp; Statement code string: this refers to the group 
+ leader thislist refers to an array containing each unit in the group 
+ 
+Syntax:  
+ waypoint setWaypointStatements [condition, statement] 
+Parameters: 
+waypoint: Array - format Waypoint 
+[condition, statement]: Array 
+condition: String 
+statement: String 
+Return Value: 
+ Nothing

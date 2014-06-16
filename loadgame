@@ -1,0 +1,7 @@
+loadGame 
+Game: ARMA 2  (1.00) 
+Description: Load a game from the autosave,if failed,restart the mission.  
+Syntax:  
+ loadGame 
+Return Value: 
+ Nothing

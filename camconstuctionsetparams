@@ -1,0 +1,13 @@
+camConstuctionSetParams 
+Game: ARMA 2  (1.00) 
+Description: Sets construction camera parameters.  
+Syntax:  
+ camera camConstuctionSetParams [[x,y,z], radius, max above land] 
+Parameters: 
+camera: Object 
+[[x,y,z], radius, max above land]: Array 
+[x,y,z]: Position 
+radius: Number 
+max above land: Number 
+Return Value: 
+ Nothing

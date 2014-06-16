@@ -1,0 +1,10 @@
+canStand 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns if the given soldier is able to stand up.  
+Syntax:  
+ Boolean = canStand unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean -  true if he's still able to stand up, false if not. Automatically return false if unit is vehicle.

@@ -1,0 +1,15 @@
+findDisplay 
+Game: Armed Assault (1.00) 
+Description: Find display by its IDD (which is defined in the description.ext or config 
+). 
+If the specified display can't be found displayNull ("No display 
+") is returned, (which can be tested with the isNull command.) 
+The primary display uses IDD 46. (eg: findDisplay 46). This will 
+ return displayNull on a dedicated server (so be sure to check isDedicated 
+ if using this in a waitUntil condition).  
+Syntax:  
+ Display = findDisplay idd 
+Parameters: 
+idd: Number 
+Return Value: 
+ Display

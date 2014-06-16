@@ -1,0 +1,11 @@
+showWaypoint 
+Game: Armed Assault (1.00) 
+Description: Sets the condition determining when the waypoint is shown. 
+Possible values are: "NEVER", "EASY" and "ALWAYS".  
+Syntax:  
+ waypoint showWaypoint show 
+Parameters: 
+waypoint: Array - format Waypoint 
+show: String As above 
+Return Value: 
+ Nothing

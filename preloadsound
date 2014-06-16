@@ -1,0 +1,11 @@
+preloadSound 
+Game: Armed Assault (1.00) 
+Description: Makes sure that a sound can start playing without any delay once 
+ it is needed. 
+ Note:Not implemented yet - currently does nothing.  
+Syntax:  
+ Boolean = preloadSound soundName 
+Parameters: 
+soundName: String 
+Return Value: 
+ Boolean

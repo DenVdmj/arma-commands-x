@@ -1,0 +1,13 @@
+nearestLocations 
+Game: Armed Assault (1.08) 
+Description: Returns an array of locations of chosen type(s) within the given 
+ radius of the given position, sorted from nearest to farthest.  
+Syntax:  
+ Array = nearestLocations [position, [locationType,...], radius] 
+Parameters: 
+[position, [locationType,...], radius]: Array 
+position: Array - format Position 
+[locationType,...]: Array An array of location type name strings 
+radius: Number The maximum distance from the given position that returned locations may be, in meters. 
+Return Value: 
+ Array of locations

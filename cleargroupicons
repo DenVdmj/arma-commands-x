@@ -1,0 +1,9 @@
+clearGroupIcons 
+Game: ARMA 2  (1.00) 
+Description: Removes all icon from group.  
+Syntax:  
+ clearGroupIcons group 
+Parameters: 
+group: Group - 
+Return Value: 
+ Nothing

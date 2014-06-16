@@ -1,0 +1,17 @@
+saveProfileNamespace 
+Game: Take On Helicopters (1.00) 
+Description: Saves the variables stored in profileNamespace to the persistent 
+ active user profile.  Warning: this is a file operation, which makes 
+ it expensive! It is not recommended to do this at a high frequency 
+ in a loop for example. It is however also recommended not to change 
+ a large amount of variables and wait long before saving, because 
+ certain game crashes may cause a loss of data.  Warning: saving 
+ a lot of data can quickly increase the size of the profile variables 
+ file, so keep an eye on this. Warning: TKOH's Heliport status (used 
+ in the Career mode for example) is stored in this file, so be mindful 
+ of working with this technology to avoid losing data and progress 
+.  
+Syntax:  
+ saveProfileNamespace 
+Return Value: 
+ Nothing

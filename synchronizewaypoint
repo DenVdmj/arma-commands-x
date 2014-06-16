@@ -1,0 +1,14 @@
+synchronizeWaypoint 
+Game: Armed Assault (1.00) 
+Description: Synchronizes the waypoint with other waypoints. Each waypoint is given 
+ as an array [group, index].  
+Syntax:  
+ waypoint synchronizeWaypoint [waypoint1, waypoint2,...] 
+Parameters: 
+waypoint: Array - format Waypoint 
+[waypoint1, waypoint2,...]: Array of waypoints 
+waypoint1: Array - format Waypoint 
+waypoint2: Array - format Waypoint 
+And so on...... 
+Return Value: 
+ Nothing

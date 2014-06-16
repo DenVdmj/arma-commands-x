@@ -1,0 +1,8 @@
+configFile 
+Game: Armed Assault (1.00) 
+Description: Return root of config entries hierarchy. 
+See AllInOne Config for a full config extract as example.  
+Syntax:  
+ Config = configFile 
+Return Value: 
+ Config

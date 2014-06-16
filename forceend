@@ -1,0 +1,8 @@
+forceEnd 
+Game: Operation Flashpoint (1.00) 
+Description: Enforces mission termination. Can be used in an "END" trigger to force 
+ end conditions in the editor. 
+Syntax:  
+ forceEnd 
+Return Value: 
+ Nothing

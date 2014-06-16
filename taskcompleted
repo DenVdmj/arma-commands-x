@@ -1,0 +1,10 @@
+taskCompleted 
+Game: ARMA 2  (1.00) 
+Description: Return if task is completed. (state Succeeded, Failed or Canceled 
+)  
+Syntax:  
+ taskCompleted task 
+Parameters: 
+task: Task 
+Return Value: 
+ Boolean

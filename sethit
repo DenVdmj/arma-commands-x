@@ -1,0 +1,14 @@
+setHit 
+Behavior: local 
+Game: ARMA 2  (1.00) 
+Description: Damage / repair part of object. Damage 0 means fully functional, damage 
+ 1 means completely destroyed / dead. Note: Some part names are in Czech 
+; see translation table.   
+Syntax:  
+ object setHit [part, damage] 
+Parameters: 
+object: Object - 
+part: String - Name of the part (selection name). 
+damage: Number - 
+Return Value: 
+ Nothing

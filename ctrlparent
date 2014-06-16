@@ -1,0 +1,9 @@
+ctrlParent 
+Game: Armed Assault (1.00) 
+Description: Returns container of the given control.  
+Syntax:  
+ Display = ctrlParent controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Display

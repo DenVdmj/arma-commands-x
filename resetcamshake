@@ -1,0 +1,7 @@
+resetCamShake 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Reset all camera shakes.  
+Syntax:  
+ resetCamShake 
+Return Value: 
+ Nothing

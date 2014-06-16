@@ -1,0 +1,10 @@
+showCinemaBorder 
+Game: Operation Flashpoint (1.00) 
+Description: Force drawing of cinema borders. This is normally used in cutscenes 
+ to indicate player has no control.  
+Syntax:  
+ showCinemaBorder show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

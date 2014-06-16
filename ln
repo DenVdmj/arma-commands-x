@@ -1,0 +1,9 @@
+ln 
+Game: Operation Flashpoint (1.00) 
+Description: Natural logarithm of x.  
+Syntax:  
+Number =  ln x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

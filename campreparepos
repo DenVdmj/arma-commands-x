@@ -1,0 +1,10 @@
+camPreparePos 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera position (format Position).  
+Syntax:  
+ camera camPreparePos position 
+Parameters: 
+camera: Object 
+position: Array - format Position 
+Return Value: 
+ Nothing

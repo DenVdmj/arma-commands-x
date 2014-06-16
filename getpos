@@ -1,0 +1,10 @@
+getPos 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the object position in format Position.   
+Syntax:  
+ Array = getPos object 
+Parameters: 
+object: Object; since VBS2 1.24: Location 
+Return Value: 
+ Array - format Position

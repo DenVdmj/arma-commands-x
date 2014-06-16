@@ -1,0 +1,21 @@
+displayAddEventHandler 
+Game: ARMA 2  (1.00) 
+Description: Add an event handler to the given display. Returns id of the handler 
+ or -1 when failed. 
+The provided function should return true/false indicating that the event 
+ has handled this event fully or not and whether the engine should 
+ execute it's default code or not afterwards.  
+See User Interface Event Handlers for the full list of handler names 
+. 
+If applicable, see DIK_KeyCodes for a list of key code constants 
+, which are relevant to key related user interface events like: KeyDown 
+ &amp; KeyUp.  
+Syntax:  
+ display displayAddEventHandler [handlerName, function] 
+Parameters: 
+display: Display 
+[handlerName, function]: Array 
+handlerName: String 
+function: String 
+Return Value: 
+ Number

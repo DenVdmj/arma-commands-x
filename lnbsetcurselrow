@@ -1,0 +1,9 @@
+lnbSetCurSelRow 
+Game: ARMA 2  (1.00) 
+Description: Selects the row with the given index of the 2D listbox.  
+Syntax:  
+ lnbSetCurSelRow [idc,index] 
+Parameters: 
+[idc,index]: Array - 
+Return Value: 
+ Nothing

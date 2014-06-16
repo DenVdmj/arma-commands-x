@@ -1,0 +1,11 @@
+lbCurSel 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Returns the index of the selected item of the listbox or combobox 
+ with id idc of the topmost user dialog.  
+Syntax:  
+ Number = lbCurSel idc 
+Parameters: 
+idc: Number 
+Return Value: 
+ Number

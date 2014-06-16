@@ -1,0 +1,7 @@
+productVersion 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the product's friendly name, identifier and version.  
+Syntax:  
+ productVersion 
+Return Value: 
+ Array - [friendlyName, productID, version, releaseNumber] String - friendlyName String - productID Number - version Number - releaseNumber 

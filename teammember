@@ -1,0 +1,9 @@
+teamMember 
+Game: ARMA 2  (1.00) 
+Description: Return an agent for given person.  
+Syntax:  
+ teamMember person 
+Parameters: 
+person: Object 
+Return Value: 
+ Team Member

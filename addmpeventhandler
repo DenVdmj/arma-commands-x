@@ -1,0 +1,13 @@
+addMPEventHandler 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: The format of handler is [type,command]. Check scripting topic Event 
+ handlers for more information. The index of the current handler 
+ is returned.  
+Syntax:  
+ unitName addMPEventHandler ["event", {action}]; 
+Parameters: 
+unitName: Object 
+event: String 
+action: Code 
+Return Value: 
+ Number or Nothing

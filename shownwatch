@@ -1,0 +1,7 @@
+shownWatch 
+Game: Operation Flashpoint (1.00) 
+Description: Check if player has Watch enabled.  
+Syntax:  
+ Boolean = shownWatch 
+Return Value: 
+ Boolean

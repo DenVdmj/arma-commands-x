@@ -1,0 +1,12 @@
+getMarkerPos 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the position of a given marker. [x,y,z] 
+Argument 3 (height above ground) is always zero. 
+If a non-existing marker is referenced the values returned are [0,0,0]. 
+Syntax:  
+ Array = getMarkerPos markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ Array - (format Position3D)

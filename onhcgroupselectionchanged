@@ -1,0 +1,11 @@
+onHCGroupSelectionChanged 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed when HC group has been selected. Command 
+ receives,_group group selected group,_isSelected bool new selection 
+ state  
+Syntax:  
+ onHCGroupSelectionChanged command 
+Parameters: 
+command:  - 
+Return Value: 
+ Nothing

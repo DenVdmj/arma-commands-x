@@ -1,0 +1,11 @@
+getObjectArgument 
+Game: ARMA 2  (1.00) 
+Description: Return name of object argument in mission editor.  
+Syntax:  
+ map getObjectArgument [object, argument] 
+Parameters: 
+map: Control 
+object: Object 
+argument: String 
+Return Value: 
+ String

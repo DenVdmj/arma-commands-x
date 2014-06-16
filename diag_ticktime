@@ -1,0 +1,8 @@
+diag_tickTime 
+Game: ARMA 2  (1.00) 
+Description: Real time spent from the start of the game. Expressed in fractions 
+ of second. Resolution of 1 tick is 1 ms.  
+Syntax:  
+ diag_tickTime 
+Return Value: 
+ Number

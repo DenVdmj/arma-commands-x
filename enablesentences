@@ -1,0 +1,10 @@
+enableSentences 
+Game: ARMA 2  (1.00) 
+Description: Enables radio transmissions to be heard and seen on screen. It does 
+ not affect KBTell conversations.  
+Syntax:  
+ enableSentences enable 
+Parameters: 
+enable: Boolean 
+Return Value: 
+ Nothing

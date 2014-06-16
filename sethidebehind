@@ -1,0 +1,14 @@
+setHideBehind 
+Game: Armed Assault (1.00) 
+Description: Sets the data for hiding. objectWhereHide can be taken using findCover 
+. hidePosition can be taken using getHideFrom. Command is not functional 
+ in ArmA 2.  
+Syntax:  
+ object setHideBehind [objectWhereHide, hidePosition] 
+Parameters: 
+object: Object 
+[objectWhereHide, hidePosition]: Array 
+objectWhereHide: Object 
+hidePosition: Array - format Position 
+Return Value: 
+ Nothing

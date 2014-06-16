@@ -1,0 +1,13 @@
+camCommitPrepared 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Smoothly conduct the changes that were assigned to a camera within 
+ the given time. If the time is set to zero, the changes are done 
+ immediately.  
+Syntax:  
+ camera camCommitPrepared time 
+Parameters: 
+camera: Object - object of type "camera" 
+time: Number - time in seconds during which the changes shall be done 
+Return Value: 
+ Nothing

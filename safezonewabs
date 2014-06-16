@@ -1,0 +1,8 @@
+safeZoneWAbs 
+Game: ARMA 2  (1.03) 
+Description: Returns SafeZone width (of all monitors, in case there's more than 
+ one)  
+Syntax:  
+ safeZoneWAbs 
+Return Value: 
+ Number

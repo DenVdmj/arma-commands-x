@@ -1,0 +1,9 @@
+triggerStatements 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger statements in the form [cond, activ, desactiv].  
+Syntax:  
+ triggerStatements trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Array

@@ -1,0 +1,10 @@
+targetsAggregate 
+Game: ARMA 2  (1.00) 
+Description: Aggregate candidates.  
+Syntax:  
+ [speaker, side, unit, place, time] targetsAggregate candidates 
+Parameters: 
+[speaker, side, unit, place, time]: Array 
+candidates: Array 
+Return Value: 
+ Array

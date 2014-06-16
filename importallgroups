@@ -1,0 +1,9 @@
+importAllGroups 
+Game: ARMA 2  (1.00) 
+Description: Imports all groups into the RTE.  
+Syntax:  
+ importAllGroups map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

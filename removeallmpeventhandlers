@@ -1,0 +1,11 @@
+removeAllMPEventHandlers 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Removes all MP event handler of the given type which were added by addMPEventHandler 
+.  
+Syntax:  
+ objectName removeAllMPEventHandlers "event" 
+Parameters: 
+objectName: Object 
+event: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+targetsQuery 
+Game: ARMA 2  (1.00) 
+Description: Find all targets known to sender matching given query.  
+Syntax:  
+ speaker targetsQuery [receiver,side,unit,place,time] 
+Parameters: 
+speaker: Object - 
+[receiver,side,unit,place,time]: Array - 
+Return Value: 
+ Array

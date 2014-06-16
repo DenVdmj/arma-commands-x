@@ -1,0 +1,10 @@
+camPrepareBank 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera bank angle.  
+Syntax:  
+ camera camPrepareBank bank 
+Parameters: 
+camera: Object 
+bank: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+lockCargo 
+Game: ARMA 2  (1.00) 
+Description: Lock the all cargo positions of the vehicle.  
+Syntax:  
+ vehicle lockCargo lock or vehicle lockCargo [index, lock] 
+Parameters: 
+vehicle: Object - 
+lock: Boolean - 
+index: Number 
+Return Value: 
+ Nothing

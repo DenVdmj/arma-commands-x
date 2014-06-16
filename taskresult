@@ -1,0 +1,10 @@
+taskResult 
+Game: ARMA 2  (1.00) 
+Description: Send a result of the task to the task sender.  
+Syntax:  
+ task sendTaskResult [state,result,sentence] 
+Parameters: 
+task: Task - 
+[state,result,sentence]: Array - 
+Return Value: 
+ Nothing

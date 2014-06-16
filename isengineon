@@ -1,0 +1,10 @@
+isEngineOn 
+Behavior: global 
+Game: Operation Flashpoint: Resistance (1.9) 
+Description: Returns true if engine is on, false if it is off.  
+Syntax:  
+ Boolean = isEngineOn vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Boolean

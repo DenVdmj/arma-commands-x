@@ -1,0 +1,8 @@
+fogForecast 
+Game: Armed Assault (1.00) 
+Description: Returns the forecast fog value. A value of 0 means no fog, 1 means 
+ maximum fog.  
+Syntax:  
+ Number = fogForecast 
+Return Value: 
+ Number

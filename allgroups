@@ -1,0 +1,7 @@
+allGroups 
+Game: ARMA 2  (1.00) 
+Description: Return a list of all groups.  
+Syntax:  
+ allGroups 
+Return Value: 
+ Array

@@ -1,0 +1,12 @@
+setRank 
+Game: Armed Assault (1.00) 
+Description: Sets rank of given unit. 
+Possible values: PRIVATE, CORPORAL, SERGEANT, LIEUTENANT, CAPTAIN 
+, MAJOR or COLONEL.  
+Syntax:  
+ unitName setRank rank 
+Parameters: 
+unitName: Object 
+rank: String 
+Return Value: 
+ Nothing

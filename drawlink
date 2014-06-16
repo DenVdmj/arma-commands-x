@@ -1,0 +1,11 @@
+drawLink 
+Game: ARMA 2  (1.00) 
+Description: The editor will draw a line between the two specified editor objects 
+. Line type can be LINE or ARROW.  
+Syntax:  
+ map drawLink [from,to,param type,line type,color] 
+Parameters: 
+map: Control - 
+[from,to,param type,line type,color]: Array - 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+dateToNumber 
+Game: ARMA 2  (1.00) 
+Description: Convert a date to a float number, based on Jan 1st 00:00:00 = 0 and Dec 31th 
+  23:59:59 = 1  
+Syntax:  
+ DateToNumber date 
+Parameters: 
+date: Array - 
+Return Value: 
+ Number

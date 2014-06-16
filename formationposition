@@ -1,0 +1,9 @@
+formationPosition 
+Game: Armed Assault (1.00) 
+Description: Return position of unit in the formation  
+Syntax:  
+ Array = formationPosition person 
+Parameters: 
+person: Object 
+Return Value: 
+ Array - format Position

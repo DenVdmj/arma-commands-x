@@ -1,0 +1,12 @@
+buttonAction 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Return the action assigned to a control of the currently active user 
+ dialog. Can be used for buttons and active texts. Read Dialog Control 
+ for more information about user dialogs and controls.  
+Syntax:  
+ buttonAction idc 
+Parameters: 
+idc: Number. index of button 
+Return Value: 
+ String

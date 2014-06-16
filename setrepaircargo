@@ -1,0 +1,11 @@
+setRepairCargo 
+Game: Operation Flashpoint (1.00) 
+Description: Set amount of repair resources in cargo space of repair vehicle.Amount 
+ 1 is full cargo.  
+Syntax:  
+ vehicleName setRepairCargo amount 
+Parameters: 
+vehicleName: Object 
+amount: Number range 0 to 1 
+Return Value: 
+ Nothing

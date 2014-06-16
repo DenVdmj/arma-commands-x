@@ -1,0 +1,8 @@
+grpNull 
+Game: Operation Flashpoint (1.00) 
+Description: A non-existing Group. This value is not equal to anything, including 
+ itself.   
+Syntax:  
+ Group = grpNull 
+Return Value: 
+ Group

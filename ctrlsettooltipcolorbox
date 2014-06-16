@@ -1,0 +1,11 @@
+ctrlSetTooltipColorBox 
+Game: Armed Assault (1.00) 
+Description: Sets tooltip border color of given control. Color is in format Color 
+.  
+Syntax:  
+ display ctrlSetTooltipColorBox color 
+Parameters: 
+display: Control 
+color: Array 
+Return Value: 
+ Nothing

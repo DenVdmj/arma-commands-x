@@ -1,0 +1,10 @@
+serverCommandAvailable 
+Game: ARMA 2  (1.05) 
+Description: Returns true if the admin command can be performed on the machine 
+, false if not. Used in connection with serverCommand.  
+Syntax:  
+ Boolean = serverCommandAvailable command 
+Parameters: 
+command: String 
+Return Value: 
+ Boolean

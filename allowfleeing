@@ -1,0 +1,15 @@
+allowFleeing 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Sets the cowardice level (the lack of courage or bravery) of a group 
+ or unit. 
+The more cowardice a Group or Object has, the sooner it will start 
+ fleeing. 
+0 means maximum courage, while 1 means always fleeing.  
+Syntax:  
+ name allowFleeing cowardice 
+Parameters: 
+name: Object or Group 
+cowardice: Number 
+Return Value: 
+ Nothing

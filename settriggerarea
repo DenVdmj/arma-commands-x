@@ -1,0 +1,17 @@
+setTriggerArea 
+Game: Armed Assault (1.00) 
+Description: Defines the area controlled by the trigger. 
+The area is either rectangular or elliptical, the width is 2 * xrad 
+, the height is 2 * yrad. 
+It is rotated angle degrees.  
+Syntax:  
+ trigger setTriggerArea [xrad, yrad, angle, rectangle] 
+Parameters: 
+trigger: Object 
+[xrad, yrad, angle, rectangle]: Array 
+xrad: Number - horizontal(x) radius (or half the width of rectangle) 
+yrad: Number - vertical(y) radius (or half the height of rectangle) 
+angle: Number - rotational in degrees 
+rectangle: Boolean - true if rectangle) 
+Return Value: 
+ Nothing

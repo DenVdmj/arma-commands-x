@@ -1,0 +1,11 @@
+addLiveStats 
+Game: ARMA 2  (1.00) 
+Description: Adds score to the Xbox Live Statistics score for the given unit (or the commander 
+ unit of the given vehicle). (Also available in OFPE &amp; VBS2)  
+Syntax:  
+ unit addLiveStats score 
+Parameters: 
+unit Object 
+score Number 
+Return Value: 
+ Nothing

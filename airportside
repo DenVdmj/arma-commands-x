@@ -1,0 +1,12 @@
+airportSide 
+Game: Armed Assault (1.08) 
+Description: Checks a side of the airport. ID is the number to identify which 
+ airport on the island you want to check.  
+Possible values for sara are: 0 - Paraiso 1 - Rahmadi 2 - Pita 3 - Antigua 
+  
+Syntax:  
+ airportSide id 
+Parameters: 
+id: Number 
+Return Value: 
+ Side

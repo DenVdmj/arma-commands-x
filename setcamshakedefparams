@@ -1,0 +1,15 @@
+setCamShakeDefParams 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Sets camera shake default params.  
+Syntax:  
+ [power, duration, frequency, minSpeed, minMass, caliberCoefHit, vehicleCoef] setCamShakeDefParams 
+Parameters: 
+power: Number 
+duration: Number 
+frequency: Number 
+minSpeed: Number 
+minMass: Number 
+caliberCoefHit: Number 
+vehicleCoef: Number 
+Return Value: 
+ Nothing

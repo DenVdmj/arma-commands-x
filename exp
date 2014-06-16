@@ -1,0 +1,9 @@
+exp 
+Game: Operation Flashpoint (1.00) 
+Description: Let x be a number, then exp (x) is equal to e to the power of x (or e^x)  
+Syntax:  
+ Number = exp x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

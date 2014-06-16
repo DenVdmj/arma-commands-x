@@ -1,0 +1,11 @@
+synchronizeTrigger 
+Game: ARMA 2  (1.00) 
+Description: Synchronizes the trigger with zero or more waypoints.  
+Syntax:  
+ trigger synchronizeTrigger [waypoint1,...] 
+Parameters: 
+trigger: Object - trigger to synchronize 
+[waypoint1, waypoint2,...]: Array of waypoints to synchronize with trigger. Array can be empty to unset. 
+waypoint1: Waypoint - first waypoint 
+Return Value: 
+ Nothing

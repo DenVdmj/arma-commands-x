@@ -1,0 +1,10 @@
+onBriefingPlan 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Select a sound declared in the Description.ext of the mission to be played 
+ the first time the Plan tab is selected in the briefing.  
+Syntax:  
+ onBriefingPlan soundName 
+Parameters: 
+soundName: String 
+Return Value: 
+ Nothing

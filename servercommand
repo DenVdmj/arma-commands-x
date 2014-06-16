@@ -1,0 +1,13 @@
+serverCommand 
+Game: ARMA 2  (1.05) 
+Description: Executes an admin command on the server. If used in singleplayer 
+ or in multiplayer, but without required privileges (player using 
+ the computer where command is executed is not an admin) nothing 
+ happens. This can be detected beforehand using serverCommandAvailable 
+.   
+Syntax:  
+ serverCommand command 
+Parameters: 
+command&#160;: String 
+Return Value: 
+ Nothing

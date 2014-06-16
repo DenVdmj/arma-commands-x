@@ -1,0 +1,14 @@
+buildingPos 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the given indexed position in a building 
+The index is 0-based (i.e. the first possible position would be 0. So if a building 
+ has 5 positions listed in the editor, 4 would be the highest position 
+ index usable with this command). 
+Syntax:  
+ building buildingPos index 
+Parameters: 
+building: Object 
+index: Number 
+Return Value: 
+ Array

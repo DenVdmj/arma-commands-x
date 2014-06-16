@@ -1,0 +1,9 @@
+lbSort 
+Game: Armed Assault (1.08) 
+Description: Sorts listbox entries alphabetical by their text.  
+Syntax:  
+ lbSort control 
+Parameters: 
+control: Control 
+Return Value: 
+ Nothing

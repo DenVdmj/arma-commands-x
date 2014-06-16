@@ -1,0 +1,14 @@
+objStatus 
+Game: Operation Flashpoint (1.00) 
+Description: Sets the status of an objective that was defined in briefing.html 
+. 
+Status may be one of: "ACTIVE" "FAILED" "DONE" "HIDDEN" 
+To refer to an objective that is named "OBJ_1", for example, use only 
+ the index number in this command (i.e. "1" objStatus "HIDDEN"). 
+Syntax:  
+ objectivenumber objStatus status 
+Parameters: 
+objectivenumber: String 
+status: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,22 @@
+titleObj 
+Game: Operation Flashpoint (1.00) 
+Description: Object title - Object can be defined in Description.ext 
+type may be one of: 
+• "PLAIN" 
+• "PLAIN DOWN" 
+• "BLACK" 
+• "BLACK FADED" 
+• "BLACK OUT" 
+• "BLACK IN" 
+• "WHITE OUT" 
+• "WHITE IN" 
+See Title Effect Type for more information about these types.  
+Syntax:  
+ titleObj [text, type, speed] 
+Parameters: 
+[text, type, speed]: Array 
+text: String 
+type: String. 
+speed: Number - optional, default 1. 
+Return Value: 
+ Nothing

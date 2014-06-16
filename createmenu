@@ -1,0 +1,10 @@
+createMenu 
+Game: ARMA 2  (1.00) 
+Description: Creates a previously added menu.  
+Syntax:  
+ map createMenu index 
+Parameters: 
+map: Control - 
+index: Number - 
+Return Value: 
+ Nothing

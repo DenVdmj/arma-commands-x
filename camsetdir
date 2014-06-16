@@ -1,0 +1,12 @@
+camSetDir 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set the direction of the given camera.Needs the call of camCommit 
+ to be conducted.  
+Syntax:  
+ camera camSetDir direction 
+Parameters: 
+camera: Object - object of type "camera" 
+direction: Number - direction in degrees, range 0 to 360 
+Return Value: 
+ Nothing

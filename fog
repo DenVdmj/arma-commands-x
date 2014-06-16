@@ -1,0 +1,7 @@
+fog 
+Game: Armed Assault (1.00) 
+Description: Return the current fog.  
+Syntax:  
+ Number = fog 
+Return Value: 
+ Number

@@ -1,0 +1,7 @@
+libraryDisclaimers 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Returns the library disclaimers.  
+Syntax:  
+ libraryDisclaimers 
+Return Value: 
+ Array - [array1] - only has one element at the moment, but this number might grow 

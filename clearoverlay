@@ -1,0 +1,9 @@
+clearOverlay 
+Game: ARMA 2  (1.00) 
+Description: Clear the current overlay.  
+Syntax:  
+ clearOverlay map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

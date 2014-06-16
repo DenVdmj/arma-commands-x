@@ -1,0 +1,18 @@
+createUnit 
+Behavior: global 
+Game: Operation Flashpoint (1.34) 
+Description: Create unit of a class that's defined in CfgVehicles. 
+The Group parameter MUST be an existing group or the unit won't be created 
+.  
+Syntax:  
+ type createUnit [ position, group, init, skill, rank] 
+Parameters: 
+type: String - Classname of unit to be created as per cfgVehicles 
+[ position, group, init, skill, rank]: Array 
+position: Position - Location unit is created at. 
+group: Group - Existing group new unit will join. 
+init: String - (optional, default "") Command to be executed upon creation of unit. Parameter this is set to the created unit and passed to the code. 
+skill: Number - (optional, default 0.5) 
+rank: String - (optional, default "PRIVATE") 
+Return Value: 
+ Nothing

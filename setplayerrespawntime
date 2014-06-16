@@ -1,0 +1,10 @@
+setPlayerRespawnTime 
+Game: ArmA 2: Operation Arrowhead (1.57) 
+Description: Set the time interval to wait on player respawn. It is set to mission 
+ default on mission start again.  
+Syntax:  
+ setPlayerRespawnTime interval 
+Parameters: 
+interval: Number - respawn time in seconds 
+Return Value: 
+ Nothing

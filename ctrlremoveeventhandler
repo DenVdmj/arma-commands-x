@@ -1,0 +1,10 @@
+ctrlRemoveEventHandler 
+Game: ARMA 2  (1.00) 
+Description: Remove a given event handler from the given control.  
+Syntax:  
+ control ctrlRemoveEventHandler [handler name,id] 
+Parameters: 
+control: Control - 
+[handler name,id]: Array - 
+Return Value: 
+ Nothing

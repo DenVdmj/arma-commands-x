@@ -1,0 +1,10 @@
+drawArrow 
+Game: Armed Assault (1.00) 
+Description: Draw an arrow on the map.  
+Syntax:  
+ map drawArrow [position1, position2, color] 
+Parameters: 
+map: Control 
+[position1, position2, Color]: Array 
+Return Value: 
+ Nothing

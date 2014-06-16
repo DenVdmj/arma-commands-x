@@ -1,0 +1,12 @@
+formatText 
+Game: Armed Assault (1.00) 
+Description: Creates a structured text by replacing&#160;%1,&#160;%2, etc. in format 
+ with plain or structured texts given as arguments.  
+Syntax:  
+ Structured Text = formatText [format, arg1, arg2,...] 
+Parameters: 
+[format, arg1, arg2,...]: Array 
+format: String 
+arg1, arg2,...] 
+Return Value: 
+ Structured Text

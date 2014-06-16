@@ -1,0 +1,9 @@
+getGroupIconParams 
+Game: ARMA 2  (1.00) 
+Description: Returns group icons params. [color,text,scale,visible]  
+Syntax:  
+ getGroupIconParams group 
+Parameters: 
+group: Group - 
+Return Value: 
+ Array

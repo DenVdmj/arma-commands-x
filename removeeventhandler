@@ -1,0 +1,14 @@
+removeEventHandler 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Removes event handler added by addEventHandler.  
+When any handler is removed, all handler indices higher than the deleted 
+ one should be decremented.  
+Syntax:  
+ objectName removeEventHandler [type, index] 
+Parameters: 
+objectName: Object 
+[type, index]: Array 
+type: String 
+index: Number. Value returned from addEventHandler 
+Return Value: 
+ Nothing

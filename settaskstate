@@ -1,0 +1,11 @@
+setTaskState 
+Game: ARMA 2  (1.00) 
+Description: Set the state of a given task. 
+State value may be one of:"Succeeded""Failed""Canceled""Created""Assigned 
+" 
+Syntax:  
+ task setTaskState state 
+Parameters: 
+task: Task 
+state: String 
+Return Value: 

@@ -1,0 +1,10 @@
+playersNumber 
+Game: Operation Flashpoint: Resistance (1.8) 
+Description: Return count of players playing on given side. Works only in multiplayer 
+, in singleplayer always returns 0.  
+Syntax:  
+ Number =  playersNumber side 
+Parameters: 
+side: Side 
+Return Value: 
+ Number

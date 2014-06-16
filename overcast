@@ -1,0 +1,8 @@
+overcast 
+Game: Armed Assault (1.00) 
+Description: Return the current overcast level. Zero is clear skies, one is maximum 
+ cloud cover.  
+Syntax:  
+ Number = overcast 
+Return Value: 
+ Number

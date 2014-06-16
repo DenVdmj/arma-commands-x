@@ -1,0 +1,9 @@
+terminate 
+Game: Armed Assault (1.00) 
+Description: Terminate (abort) the script.  
+Syntax:  
+ terminate scriptHandle 
+Parameters: 
+scriptHandle: Script 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+lockTurret 
+Game: ARMA 2  (1.00) 
+Description: Lock the gunner position of the vehicle turret.  
+Syntax:  
+ vehicle lockTurret [turret path,lock] 
+Parameters: 
+vehicle: Object - 
+[turret path,lock]: Array - 
+Return Value: 
+ Nothing

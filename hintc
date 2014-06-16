@@ -1,0 +1,11 @@
+hintC 
+Game: Operation Flashpoint (1.00) 
+Description: Works the same way as hint, except the text is displayed in the middle 
+ of the screen. 
+The game is paused until the player presses "Continue".  
+Syntax:  
+ hintC text 
+Parameters: 
+text: String 
+Return Value: 
+ Nothing

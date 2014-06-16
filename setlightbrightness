@@ -1,0 +1,11 @@
+setLightBrightness 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Set brightness of light.  
+Syntax:  
+ light setLightBrightness brightness 
+Parameters: 
+light: Object 
+brightness: Number 
+Return Value: 
+ Nothing

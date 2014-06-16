@@ -1,0 +1,10 @@
+editorSetEventHandler 
+Game: ARMA 2  (1.00) 
+Description: Sets given event handler of given editor.  
+Syntax:  
+ map editorSetEventHandler [handler name,function] 
+Parameters: 
+map: Control - 
+[handler name,function]: Array - 
+Return Value: 
+ Nothing

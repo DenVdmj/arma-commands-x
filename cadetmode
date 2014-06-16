@@ -1,0 +1,8 @@
+cadetMode 
+Game: Operation Flashpoint (1.00) 
+Description: Returns if the player is currently playing in cadet or veteran mode 
+.  
+Syntax:  
+ Boolean = cadetMode 
+Return Value: 
+ Boolean -  true when playing in cadet mode, false when playing in veteran mode

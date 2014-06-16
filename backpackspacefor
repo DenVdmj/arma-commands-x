@@ -1,0 +1,11 @@
+backpackSpaceFor 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns how much space is in backpack for given weapon or magazine 
+  
+Syntax:  
+ result = backpack backpackSpaceFor weaponName 
+Parameters: 
+backpack: Object 
+weaponName: String 
+Return Value: 
+ Array

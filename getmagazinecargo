@@ -1,0 +1,9 @@
+getMagazineCargo 
+Game: ArmA 2: Operation Arrowhead (1.54) 
+Description: Returns all magazines types and count from the cargo space  
+Syntax:  
+ result = getMagazineCargo object 
+Parameters: 
+object: Object - object to check 
+Return Value: 
+ Array

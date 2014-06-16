@@ -1,0 +1,9 @@
+getArray 
+Game: Armed Assault (1.00) 
+Description: Extract array from config entry.  
+Syntax:  
+ Array = getArray config 
+Parameters: 
+config: Config 
+Return Value: 
+ Array

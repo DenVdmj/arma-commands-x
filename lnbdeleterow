@@ -1,0 +1,11 @@
+lnbDeleteRow 
+Game: ARMA 2  (1.00) 
+Description: Removes row with the given index from the given listbox or combobox 
+.  
+Syntax:  
+ control lnbDeleteRow row 
+Parameters: 
+control: Control - 
+row: Number - 
+Return Value: 
+ Nothing

@@ -1,0 +1,13 @@
+commandMove 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to move to the given location (via the radio 
+). Exactly the same as doMove, except this command displays a radio 
+ message.  
+Syntax:  
+ unitName commandMove position 
+Parameters: 
+unitName: Object or Array 
+position: (Array) - format Position 
+Return Value: 
+ Nothing

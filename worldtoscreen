@@ -1,0 +1,11 @@
+worldToScreen 
+Game: ARMA 2  (1.00) 
+Description: Converts position in world space into screen (UI) space. 
+If a specified position is not within the current map view, an empty 
+ array is returned.  
+Syntax:  
+ worldToScreen position 
+Parameters: 
+position: Array - 2D or 3D position 
+Return Value: 
+ Position2D - Screen position (upper left=[0,0], lower right=[1,1])

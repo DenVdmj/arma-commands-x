@@ -1,0 +1,10 @@
+getGroupIcon 
+Game: ARMA 2  (1.00) 
+Description: Get group icon properties.  
+Syntax:  
+ group getGroupIcon ID 
+Parameters: 
+group: Group - 
+ID: Number - 
+Return Value: 
+ Array

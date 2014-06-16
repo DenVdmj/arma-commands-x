@@ -1,0 +1,17 @@
+assignedVehicleRole 
+Behavior: local 
+Game: Armed Assault (1.05) 
+Description: Return the role a unit is assigned to within its assigned vehicle 
+. 
+The array which is returned contains: [] - Not assigned to any vehicle 
+ ["Driver"] - Assigned as driver ["Cargo"] - Assigned as cargo ["Turret 
+", [turret path]] - Assigned to a turret 
+If no vehicle role is assigned, an empty array is returned. 
+ 
+ 
+Syntax:  
+ Array = assignedVehicleRole unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Array

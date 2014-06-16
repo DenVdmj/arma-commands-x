@@ -1,0 +1,10 @@
+engineOn 
+Game: Operation Flashpoint: Resistance (1.9) 
+Description: Activates and deactivates the engine of a vehicle.  
+Syntax:  
+ vehicle engineOn state 
+Parameters: 
+vehicle: Object 
+state: Boolean - true to turn the engine on, false to turn it off 
+Return Value: 
+ Nothing

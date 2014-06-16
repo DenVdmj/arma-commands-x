@@ -1,0 +1,12 @@
+ammo 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Check how many rounds are left in the currently loaded magazine of the given 
+ weapon.  
+Syntax:  
+  Number = unitName ammo weaponName 
+Parameters: 
+unitName: Object 
+weaponName: String - weapon name. See the topic Category:Weapons for reference about possible values. 
+Return Value: 
+ Number

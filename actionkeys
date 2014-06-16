@@ -1,0 +1,11 @@
+actionKeys 
+Game: Armed Assault (1.00) 
+Description: Returns a list of dikCodes of buttons assigned to the given user 
+ action. You can find the action names in config class ControllerSchemes 
+ or user action names.  
+Syntax:  
+  Array = actionKeys userAction 
+Parameters: 
+userAction: String 
+Return Value: 
+ Array

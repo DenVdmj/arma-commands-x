@@ -1,0 +1,10 @@
+lnbSetValue 
+Game: ARMA 2  (1.00) 
+Description: Sets the additional integer value in the item with the position index 
+ of the 2D listbox.  
+Syntax:  
+ lnbSetValue [idc,[row,column],value] 
+Parameters: 
+[idc,[row,column],value]: Array - 
+Return Value: 
+ Nothing

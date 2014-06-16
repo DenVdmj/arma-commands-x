@@ -1,0 +1,12 @@
+ctrlVisible 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Returns if a control of the currently active user dialog is shown 
+ or not. Read Dialog Control for more information about user dialogs 
+ and controls.  
+Syntax:  
+ Boolean = ctrlVisible idc 
+Parameters: 
+idc: Number - control ID 
+Return Value: 
+ Boolean - true if the control is shown, false if not

@@ -1,0 +1,9 @@
+getBackpackCargo 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Returns all backpack types and count from the cargo space  
+Syntax:  
+ result = getBackpackCargo object 
+Parameters: 
+object: Object - object to check 
+Return Value: 
+ Array

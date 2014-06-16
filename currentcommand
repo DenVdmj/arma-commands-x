@@ -1,0 +1,13 @@
+currentCommand 
+Game: Armed Assault (1.00) 
+Description: Return the current command type (empty string when no command) for the commander 
+ of given vehicle (or for a given soldier). Value returned can be one of: 
+"WAIT","ATTACK","HIDE","MOVE","HEAL","REPAIR","REFUEL","REARM","SUPPORT 
+","JOIN","GET IN","FIRE","GET OUT","STOP","EXPECT","ACTION","ATTACKFIRE 
+", 
+Syntax:  
+ String = currentCommand vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+ String

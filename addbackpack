@@ -1,0 +1,11 @@
+addBackpack 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Adds a backpack for a unit. Classname list of available backpacks 
+ is here  
+Syntax:  
+ unit addBackpack packClassName 
+Parameters: 
+unit: Object 
+packClassName: String 
+Return Value: 
+ Nothing

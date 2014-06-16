@@ -1,0 +1,17 @@
+nearestObject 
+Game: Operation Flashpoint (1.00) 
+Description: Nearest object of given type to given position within a range of 50 meters 
+. 
+If class types are used in the filter, then in Arma any object derived 
+ from the type is found as well. In OFP, only objects with exactly 
+ the type given are found. 
+Syntax:  
+ nearestObject filter 
+Parameters: 
+filter: Array - Can be one of the following: 
+[x,y,z]: Any objects near position 
+[[x,y,z], "type"]: Objects of class "type" near position [x,y,z] 
+[object, "type"]: Objects of class "type" near position of "object" 
+ 
+Return Value: 
+ Object - Found object, or objNull if nothing in range.

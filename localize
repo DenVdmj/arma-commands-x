@@ -1,0 +1,11 @@
+localize 
+Game: Operation Flashpoint (1.00) 
+Description: Used to internationalise text messages. 
+A string is returned from Stringtable.csv which corresponds to the stringName 
+.  
+Syntax:  
+ localize stringName 
+Parameters: 
+stringName: String 
+Return Value: 
+ String found in corresponding entry in stringtable.csv

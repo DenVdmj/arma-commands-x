@@ -1,0 +1,10 @@
+setDropInterval 
+Game: Armed Assault (1.00) 
+Description: Set interval of emitting particles from particle source.  
+Syntax:  
+ particleSource setDropInterval interval 
+Parameters: 
+particleSource: Object 
+interval: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,9 @@
+addSwitchableUnit 
+Game: Armed Assault (1.00) 
+Description: Add a unit into the list of units available for Team Switch.  
+Syntax:  
+ addSwitchableUnit unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

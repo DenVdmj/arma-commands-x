@@ -1,0 +1,10 @@
+ctrlSetScale 
+Game: Armed Assault (1.00) 
+Description: Sets wanted scale for control animation.  
+Syntax:  
+ controlName ctrlSetScale scale 
+Parameters: 
+controlName: Control 
+scale: Number 
+Return Value: 
+ Nothing

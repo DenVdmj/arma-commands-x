@@ -1,0 +1,10 @@
+setGroupIconParams 
+Game: ARMA 2  (1.00) 
+Description: Set group icons parameters. [color,string,float,bool]  
+Syntax:  
+ group setGroupIconParams properties 
+Parameters: 
+group: Group - 
+properties: Array - 
+Return Value: 
+ Nothing

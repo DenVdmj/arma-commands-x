@@ -1,0 +1,9 @@
+onPreloadFinished 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed after the preload screen finished.  
+Syntax:  
+ onPreloadFinished command 
+Parameters: 
+command: String or Code 
+Return Value: 
+ Nothing

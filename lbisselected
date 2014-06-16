@@ -1,0 +1,10 @@
+lbIsSelected 
+Game: Armed Assault (1.00) 
+Description: Check whether given row of the given listbox is selected.  
+Syntax:  
+ Boolean = control lbIsSelected index 
+Parameters: 
+control: Control 
+index: Number 
+Return Value: 
+ Boolean

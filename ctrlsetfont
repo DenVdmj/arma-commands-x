@@ -1,0 +1,12 @@
+ctrlSetFont 
+Game: Armed Assault (1.00) 
+Description: Sets the font of given control.  
+ 
+ 
+Syntax:  
+ controlName ctrlSetFont fontName 
+Parameters: 
+controlName: Control 
+fontName: String 
+Return Value: 
+ Nothing

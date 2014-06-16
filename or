@@ -1,0 +1,13 @@
+or 
+Game: Operation Flashpoint (1.00) 
+Description: Returns true only if one or both conditions are true. In case of the alternative 
+ syntax, lazy evaluation is used (if left operand is true, evaluation 
+ of the right side is skipped completely). 
+Identical to: a  ||  b  
+Syntax:  
+ Boolean = a or b 
+Parameters: 
+a: Boolean - Test condition or variable that returns Boolean. 
+b: Boolean - Test condition or variable that returns Boolean. 
+Return Value: 
+ Boolean

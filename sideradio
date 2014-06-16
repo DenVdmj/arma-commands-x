@@ -1,0 +1,12 @@
+sideRadio 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Send the message to the side radio channel. Message is defined in Description 
+.ext file.  
+Syntax:  
+ unitName sideRadio chat 
+Parameters: 
+unitName: Object 
+chat: String 
+Return Value: 
+ Nothing

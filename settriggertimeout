@@ -1,0 +1,17 @@
+setTriggerTimeout 
+Game: Armed Assault (1.00) 
+Description: Defines the time between condition satisfaction and trigger activation 
+ (randomly from min to max, with an average value mid). If the last 
+ argument is true, the condition must be fullfilled all the time 
+.  
+Syntax:  
+ trigger setTriggerTimeout [min, mid, max, interruptable] 
+Parameters: 
+trigger: Object 
+[min, mid, max, interruptable]: Array 
+min: Number 
+mid: Number 
+max: Number 
+interruptable: Boolean 
+Return Value: 
+ Nothing

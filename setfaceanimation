@@ -1,0 +1,11 @@
+setFaceAnimation 
+Game: Operation Flashpoint (1.00) 
+Description: Set facial animation phase (eye blinking), blink is in the range 
+ from 0 to 1.  
+Syntax:  
+ person setFaceAnimation blink 
+Parameters: 
+person: Object 
+blink: Number 
+Return Value: 
+ Nothing

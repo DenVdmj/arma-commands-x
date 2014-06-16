@@ -1,0 +1,10 @@
+owner 
+Game: ARMA 2  (1.00) 
+Description: On server machine,return the ID of the client where the object is local 
+. Otherwise return 0.  
+Syntax:  
+ owner object 
+Parameters: 
+object: Object - 
+Return Value: 
+ Number

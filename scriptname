@@ -1,0 +1,11 @@
+scriptName 
+Game: ARMA 2  (1.00) 
+Description: Assign a user friendly name to the VM script this command is executed 
+ from. 
+Once name is assigned, it cannot be changed.  
+Syntax:  
+ scriptName name 
+Parameters: 
+name: String - 
+Return Value: 
+ Nothing

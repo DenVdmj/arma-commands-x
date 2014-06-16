@@ -1,0 +1,9 @@
+weapons 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Returns array of names of all Unit's weapons.  
+Syntax:  
+ Array = weapons vehicleName 
+Parameters: 
+vehicleName: Object 
+Return Value: 
+  Array of weapon names.

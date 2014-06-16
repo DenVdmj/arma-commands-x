@@ -1,0 +1,11 @@
+handsHit 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Checks if a soldier's hands are hit, which results in inaccurate 
+ aiming.  
+Syntax:  
+ Number = handsHit unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Number -  If the hands aren't damaged, the returned value is 0. If the hands are hit or the unit is dead, the returned value is 1.

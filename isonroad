@@ -1,0 +1,9 @@
+isOnRoad 
+Game: ARMA 2  (1.00) 
+Description: Check whether given position is on road.  
+Syntax:  
+ isOnRoad position or object 
+Parameters: 
+position or object: Object or Array - 
+Return Value: 
+ Boolean

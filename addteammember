@@ -1,0 +1,10 @@
+addTeamMember 
+Game: ARMA 2  (1.00) 
+Description: Add given member to given team.  
+Syntax:  
+ team addTeamMember member 
+Parameters: 
+team: Team 
+member: Team Member 
+Return Value: 
+ Nothing

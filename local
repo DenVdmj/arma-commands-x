@@ -1,0 +1,13 @@
+local 
+Game: Operation Flashpoint (1.00) 
+Description: Check if given unit is local on the computer in Multiplayer games 
+ (see Locality in Multiplayer for general concepts). 
+This can be used when some activation fields or scripts need to be performed 
+ only on one computer. In Singleplayer all objects are local.  
+Note: All static objects are local everywhere.  
+Syntax:  
+ Boolean = local object 
+Parameters: 
+object: Object 
+Return Value: 
+ Boolean

@@ -1,0 +1,11 @@
+locked 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Check if vehicle is locked for Persons. If it is locked, Persons 
+ cannot mount / dismount without order.  
+Syntax:  
+ Boolean = locked vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Nothing

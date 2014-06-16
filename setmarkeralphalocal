@@ -1,0 +1,13 @@
+setMarkerAlphaLocal 
+Game: ARMA 2  (1.00) 
+Description: Sets the marker alpha. The marker is only modified on the computer 
+ where the command is called. When alpha equal one, the marker is visible 
+, but if alpha equal zero, then the marker is invisible. Alpha can be numbers 
+ and fractions.  
+Syntax:  
+ marker setMarkerAlphaLocal alpha 
+Parameters: 
+marker: String - 
+alpha: Number - 
+Return Value: 
+ Nothing

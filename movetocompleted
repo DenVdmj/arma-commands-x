@@ -1,0 +1,9 @@
+moveToCompleted 
+Game: Armed Assault (1.00) 
+Description: Check if latest low level moveTo command is finished.  
+Syntax:  
+Boolean = moveToCompleted person 
+Parameters: 
+person: Object 
+Return Value: 
+ Boolean

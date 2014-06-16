@@ -1,0 +1,7 @@
+daytime 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the current ingame time in hours.  
+Syntax:  
+ Number = daytime 
+Return Value: 
+ Number -  Time using a 24 hour clock.

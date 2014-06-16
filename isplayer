@@ -1,0 +1,10 @@
+isPlayer 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Check if given person is a human player.   
+Syntax:  
+ isPlayer person 
+Parameters: 
+person: Object 
+Return Value: 
+ Boolean

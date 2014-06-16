@@ -1,0 +1,8 @@
+enableEndDialog 
+Game: Operation Flashpoint (1.00) 
+Description: Enables the execution of a custom camera sequence after the players 
+ death, coded in the script onPlayerKilled.sqs.  
+Syntax:  
+ enableEndDialog 
+Return Value: 
+ Nothing

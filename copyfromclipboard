@@ -1,0 +1,7 @@
+copyFromClipboard 
+Game: ARMA 2  (1.00) 
+Description: Return the content of the (text) clipboard.   
+Syntax:  
+ copyFromClipboard 
+Return Value: 
+ String

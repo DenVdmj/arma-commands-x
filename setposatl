@@ -1,0 +1,10 @@
+setPosATL 
+Game: ARMA 2  (1.03) 
+Description: Sets the position of an object relative to the terrain.  
+Syntax:  
+ object setPosATL pos 
+Parameters: 
+object: Object 
+pos: Array - format PositionATL 
+Return Value: 
+ Nothing

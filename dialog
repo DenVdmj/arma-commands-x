@@ -1,0 +1,7 @@
+dialog 
+Game: Operation Flashpoint: Resistance (1.78) 
+Description: Tests whether any user dialog is open. 
+Syntax:  
+ Boolean = dialog 
+Return Value: 
+ Boolean -  true if a dialog is open, false if not

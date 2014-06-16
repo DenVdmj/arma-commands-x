@@ -1,0 +1,10 @@
+removeAction 
+Game: Operation Flashpoint (1.20) 
+Description: Remove action with given id index.  
+Syntax:  
+ unitName removeAction index 
+Parameters: 
+unitName: Object 
+index: Number of Action 
+Return Value: 
+ Nothing

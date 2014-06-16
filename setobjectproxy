@@ -1,0 +1,10 @@
+setObjectProxy 
+Game: ARMA 2  (1.00) 
+Description: Set the proxy object associated with the given editor object.  
+Syntax:  
+ map setObjectProxy [object,proxy object] 
+Parameters: 
+map: Control - 
+[object,proxy object]: Array - 
+Return Value: 
+ Any

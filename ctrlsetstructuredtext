@@ -1,0 +1,11 @@
+ctrlSetStructuredText 
+Game: Armed Assault (1.00) 
+Description: Set the structured text which will be displayed in structured text 
+ control.  
+Syntax:  
+ controlName ctrlSetStructuredText structuredText 
+Parameters: 
+controlName: Control 
+structuredText: Structured Text 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+setDirection 
+Game: Armed Assault (1.08) 
+Description: Set's the orientation of a location. It's area and map icon (if it's type 
+ uses an icon) will be rotated to this orientation. 
+Syntax:  
+ location setDirection direction 
+Parameters: 
+location: Location 
+direction: Number 
+Return Value: 
+ Nothing

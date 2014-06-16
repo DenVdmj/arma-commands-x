@@ -1,0 +1,8 @@
+taskNull 
+Game: ARMA 2  (1.00) 
+Description: A non-existing task. This value is not equal to anything, including 
+ itself.  
+Syntax:  
+ taskNull 
+Return Value: 
+ Task

@@ -1,0 +1,9 @@
+ctrlFade 
+Game: Armed Assault (1.00) 
+Description: Returns the current fade factor of control.  
+Syntax:  
+ Number = ctrlFade controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Number

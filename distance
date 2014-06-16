@@ -1,0 +1,12 @@
+distance 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the distance in meters between two Objects, Positions or (since 
+ VBS2 1.24) Locations.  
+Syntax:  
+ var1 distance var2 
+Parameters: 
+var1: Object, Location (since VBS2 1.24) or Array-format Position 
+var2 or pos2: Object, Location (since VBS2 1.24) or Array-format Position 
+Return Value: 
+ Number -  Distance in meters.

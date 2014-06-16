@@ -1,0 +1,11 @@
+setSkill 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Sets ability level of person (commander unit). Value of skill may vary 
+ from 0 to 1.  
+Syntax:  
+ vehicleName setSkill skill 
+Parameters: 
+vehicleName: Object 
+skill: Number Range 0 to 1 
+Return Value: 
+ Nothing

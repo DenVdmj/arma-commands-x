@@ -1,0 +1,11 @@
+step 
+Game: Armed Assault (1.00) 
+Description: Optionally can set step. If you want to count down, step must be specified 
+, and set negative. Default value is 1.  
+Syntax:  
+ for /.../ step step 
+Parameters: 
+for /.../: For Type 
+step: Number 
+Return Value: 
+ For Type

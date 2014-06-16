@@ -1,0 +1,12 @@
+landResult 
+Game: ARMA 2  (1.00) 
+Description: Return the result of helicopter landing position searching (performed 
+, after land command). The value can be "Found" (position found),"NotFound 
+" (position not found), "NotReady" (position searching is,still in progress 
+) or empty string when wrong argument given.   
+Syntax:  
+ landResult helicopter 
+Parameters: 
+helicopter: Object - 
+Return Value: 
+ String

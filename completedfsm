@@ -1,0 +1,10 @@
+completedFSM 
+Game: ARMA 2  (1.00) 
+Description: Check whether the given FSM completes. 
+The FSM handle is the number returned by the execFSM command.   
+Syntax:  
+ completedFSM fsmHandle 
+Parameters: 
+fsmHandle: Number 
+Return Value: 
+ Boolean

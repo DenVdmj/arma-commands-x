@@ -1,0 +1,12 @@
+forceSpeed 
+Game: Armed Assault (1.00) 
+Description: Force the speed limit on given object (object will never attempt 
+ to move faster than given by forceSpeed). Use negative value to return 
+ to default behaviour. Used unit is m/s.  
+Syntax:  
+ object forceSpeed speed 
+Parameters: 
+object: Object 
+speed: Number (in m/s) 
+Return Value: 
+ Nothing

@@ -1,0 +1,12 @@
+enableAttack 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Set if leader can issue attack commands to the soldiers in his group 
+.  
+Syntax:  
+ group enableAttack enable 
+Parameters: 
+group: Object or Group 
+enable: Boolean 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+setWeaponReloadingTime 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: Sets states and/or makes an action of/on weapon. Reload time is between 
+ 0 and 1 inclusive, where 1 is 100% of maximum reloading time.  
+Syntax:  
+ vehicle setWeaponReloadingTime [gunner, weaponName, reloadTime] 
+Parameters: 
+vehicle: Object 
+[gunner, weaponName, reloadTime]: Array 
+Return Value: 
+ Boolean

@@ -1,0 +1,11 @@
+moveObjectToEnd 
+Game: ARMA 2  (1.00) 
+Description: Shifts an editor object to the end of the objects array. This means 
+,that the object will be drawn last (after all other objects).   
+Syntax:  
+ map moveObjectToEnd object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ Nothing

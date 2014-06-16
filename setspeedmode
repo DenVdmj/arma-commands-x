@@ -1,0 +1,12 @@
+setSpeedMode 
+Game: Operation Flashpoint (1.00) 
+Description: Set group speed mode. Mode may be one of:  "LIMITED" (half speed 
+) "NORMAL" (full speed, maintain formation) "FULL" (do not wait for any other 
+ units in formation) 
+Syntax:  
+ groupName setSpeedMode mode 
+Parameters: 
+groupName: Object or Group 
+mode: String 
+Return Value: 
+ Nothing

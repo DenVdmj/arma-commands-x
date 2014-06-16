@@ -1,0 +1,10 @@
+ctrlSetFontH1 
+Game: Armed Assault (1.00) 
+Description: Sets H1 font of given HTML control.  
+Syntax:  
+ controlName ctrlSetFontH1 fontName 
+Parameters: 
+controlName: Control 
+fontName: String 
+Return Value: 
+ Nothing

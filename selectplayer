@@ -1,0 +1,13 @@
+selectPlayer 
+Game: Armed Assault (1.00) 
+Description: Switch player to given person. Switching to a Null-Object works, but provides 
+ a view which you cannot manipulate (neither move nor rotate) with 
+ regular input. 
+This command has significant effects on locality. See notes beneath 
+. 
+Syntax:  
+ selectPlayer unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Nothing

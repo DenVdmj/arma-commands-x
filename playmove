@@ -1,0 +1,12 @@
+playMove 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: When used on person, smooth transition to given move will be done 
+.  
+Syntax:  
+ unitName playMove moveName 
+Parameters: 
+unitName: Object 
+moveName: String 
+Return Value: 
+ Nothing

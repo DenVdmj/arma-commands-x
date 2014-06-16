@@ -1,0 +1,13 @@
+sliderSetSpeed 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Set speed of slider with id idc of topmost user dialog. Click to arrow 
+ - move by line Click to scale outside thumb - move by page.  
+Syntax:  
+ sliderSetSpeed [idc,line,page] 
+Parameters: 
+[idc,line,page]: Array 
+idc: Number of control 
+line: Number 
+page: Number 
+Return Value: 
+ Nothing

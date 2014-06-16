@@ -1,0 +1,11 @@
+ctrlSetTooltipColorShade 
+Game: Armed Assault (1.00) 
+Description: Sets tooltip background color of given control. Color is in format 
+ Color.  
+Syntax:  
+ display ctrlSetTooltipColorShade color 
+Parameters: 
+display: Control 
+color: Array 
+Return Value: 
+ Nothing

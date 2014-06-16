@@ -1,0 +1,10 @@
+onBriefingTeamSwitch 
+Game: Armed Assault (1.00) 
+Description: Select a sound declared in the Description.ext of the mission to be played 
+ the first time the TeamSwitch tab is selected in the briefing.  
+Syntax:  
+ onBriefingTeamSwitch soundName 
+Parameters: 
+soundName: String 
+Return Value: 
+ Nothing

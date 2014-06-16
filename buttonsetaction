@@ -1,0 +1,14 @@
+buttonSetAction 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Set the action of a control of the currently active user dialog. Can be used 
+ for buttons and active texts. See Dialog Control for more information 
+ about user dialogs.  
+Syntax:  
+ buttonSetAction [idc, action] 
+Parameters: 
+[idc, action]: Array 
+idc: Number - control ID 
+action: String - code body that should be executed when the button/active text is clicked 
+Return Value: 
+ Nothing

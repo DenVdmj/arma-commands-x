@@ -1,0 +1,10 @@
+currentWeapon 
+Game: ARMA 2  (1.00) 
+Description: Return the name of the currently selected weapon (on the primary 
+ turret for vehicles).   
+Syntax:  
+ currentWeapon vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ String

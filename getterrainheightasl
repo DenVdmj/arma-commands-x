@@ -1,0 +1,9 @@
+getTerrainHeightASL 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Returns the terrain height above the sea for the given position.  
+Syntax:  
+ getTerrainHeightASL position 
+Parameters: 
+position: Position2D 
+Return Value: 
+ Number

@@ -1,0 +1,10 @@
+onPreloadStarted 
+Game: ARMA 2  (1.00) 
+Description: Defines an action performed just before the preload screen started 
+.  
+Syntax:  
+ onPreloadStarted command 
+Parameters: 
+command: String or Code 
+Return Value: 
+ Nothing

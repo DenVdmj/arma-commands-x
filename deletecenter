@@ -1,0 +1,9 @@
+deleteCenter 
+Game: Armed Assault (1.00) 
+Description: Destroys the AI center of the given side.  
+Syntax:  
+ deleteCenter side 
+Parameters: 
+side: Side 
+Return Value: 
+ Nothing

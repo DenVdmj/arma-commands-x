@@ -1,0 +1,11 @@
+emptyPositions 
+Game: Armed Assault (1.00) 
+Description: Returns the number of given positions in the vehicle. 
+Positions can be "Commander", "Driver", "Gunner" or "Cargo"  
+Syntax:  
+ Number = vehicle emptyPositions  position 
+Parameters: 
+vehicle: Object 
+position: String 
+Return Value: 
+ Number

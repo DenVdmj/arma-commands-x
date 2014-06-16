@@ -1,0 +1,9 @@
+inGameUISetEventHandler 
+Game: Armed Assault (1.00) 
+Description: Sets given event handler of in-game UI.  
+Syntax:  
+ inGameUISetEventHandler [handler name, function] 
+Parameters: 
+[handler name, function]: Array 
+Return Value: 
+ Nothing

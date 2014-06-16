@@ -1,0 +1,11 @@
+setVehicleArmor 
+Game: Armed Assault (1.00) 
+Description: Sets the armor (or health for men) state of the vehicle (a value 
+ from 0 to 1).  
+Syntax:  
+  vehicleName setVehicleArmor value 
+Parameters: 
+vehicleName: Object 
+value: Number range 0 to 1 
+Return Value: 
+ Nothing

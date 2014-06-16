@@ -1,0 +1,11 @@
+commandStop 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to stop (via the radio). A stop command will 
+ never finish, the unit will never be ready.  
+Syntax:  
+ commandStop unitName 
+Parameters: 
+unitName: Object or Array 
+Return Value: 
+ Nothing

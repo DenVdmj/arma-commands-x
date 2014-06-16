@@ -1,0 +1,13 @@
+setVisibleIfTreeCollapsed 
+Game: ARMA 2  (1.00) 
+Description: Sets whether or not the object is visible even if the tree is collapsed 
+.  
+Syntax:  
+ map setVisibleIfTreeCollapsed [object, visible] 
+Parameters: 
+map: Control 
+[object, visible]: Array 
+object: Editor Object 
+visible: Boolean 
+Return Value: 
+ Nothing

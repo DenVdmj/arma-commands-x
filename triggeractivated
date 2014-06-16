@@ -1,0 +1,9 @@
+triggerActivated 
+Game: ARMA 2  (1.00) 
+Description: Returns true if the trigger has been activated.  
+Syntax:  
+ triggerActivated trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Boolean

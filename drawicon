@@ -1,0 +1,10 @@
+drawIcon 
+Game: Armed Assault (1.00) 
+Description: Draw an Icon on the map.  
+Syntax:  
+ map drawIcon [texture, color, position, width, height, angle, text, shadow] 
+Parameters: 
+map: Control 
+[texture, color, position, width, height, angle, text, shadow]: Array 
+Return Value: 
+ Nothing

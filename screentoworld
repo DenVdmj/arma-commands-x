@@ -1,0 +1,10 @@
+screenToWorld 
+Game: ARMA 2  (1.00) 
+Description: Returns the position on landscape (in world coordinates) corresponding 
+ to the given point on screen (in UI coordinates).  
+Syntax:  
+ screenToWorld position 
+Parameters: 
+position: Array - 
+Return Value: 
+ Array

@@ -1,0 +1,9 @@
+onEachFrame 
+Game: ArmA 2: Operation Arrowhead (1.63) 
+Description: Statement is run every frame. 
+Syntax:  
+ onEachFrame statement 
+Parameters: 
+statement: Code 
+Return Value: 
+ Nothing

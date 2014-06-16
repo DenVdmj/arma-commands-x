@@ -1,0 +1,15 @@
+animate 
+Behavior: global 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Process a linear animation on an object. Such animations are only 
+ used in user-made addons, they can be defined in the addon's config 
+.cpp.  
+Syntax:  
+ objectName animate [animationName, phase] 
+Parameters: 
+objectName: Object 
+[animationName, phase]: Array 
+animationName: String - name of the animation. This is the class-name of the animation defined in the addon's config.cpp. 
+phase: Number - range 0 (start point of the animation) to 1 (end point of the animation). The speed, in which the animation is processed, is defined in the addon's config.cpp and cannot be changed during running missions. 
+Return Value: 
+ Nothing

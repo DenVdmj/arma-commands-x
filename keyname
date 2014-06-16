@@ -1,0 +1,10 @@
+keyName 
+Game: Armed Assault (1.00) 
+Description: Returns the name of a button (on the keyboard, mouse or joystick 
+) with the given code.  
+Syntax:  
+ String = keyName dikCode 
+Parameters: 
+dikCode: Number 
+Return Value: 
+ String

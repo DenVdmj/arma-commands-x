@@ -1,0 +1,10 @@
+showCommandingMenu 
+Game: ARMA 2  (1.00) 
+Description: Create the commanding menu described by the given config class or menu 
+ name. When the name is empty, the current menu is hidden.   
+Syntax:  
+ showCommandingMenu name 
+Parameters: 
+name: String - Class name or user menu name (with "#USER:" prefix and "_#" page number suffix, where # is the page number starting with 0). 
+Return Value: 
+ Nothing

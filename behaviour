@@ -1,0 +1,10 @@
+behaviour 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Return the behaviour of a unit.  
+Syntax:  
+ String = behaviour unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String -  One of "CARELESS", "SAFE", "AWARE", "COMBAT" and "STEALTH".

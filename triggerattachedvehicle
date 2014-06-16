@@ -1,0 +1,10 @@
+triggerAttachedVehicle 
+Game: ARMA 2  (1.00) 
+Description: Returns vehicle attached to the trigger (for example using triggerAttachVehicle 
+).  
+Syntax:  
+ triggerAttachedVehicle trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Object

@@ -1,0 +1,12 @@
+lockWp 
+Game: ARMA 2  (1.00) 
+Description: Disables switching to the next waypoint (the current waypoint will 
+ never complete while lockWp is used). This is sometimes used during 
+ cut-scenes.   
+Syntax:  
+groupName lockWp lockWP 
+Parameters: 
+groupName: Object or Group 
+lockWP: Boolean 
+Return Value: 
+ Nothing

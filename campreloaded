@@ -1,0 +1,9 @@
+camPreloaded 
+Game: Armed Assault (1.00) 
+Description: Checks whether the camera has finished preloading.  
+Syntax:  
+ Boolean = camPreloaded camera 
+Parameters: 
+camera: Object 
+Return Value: 
+ Boolean

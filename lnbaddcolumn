@@ -1,0 +1,11 @@
+lnbAddColumn 
+Game: ARMA 2  (1.00) 
+Description: Adds an item with the given text to the given listbox or combobox 
+. It returns the index of the newly added item.  
+Syntax:  
+ control lnbAddColumn position 
+Parameters: 
+control: Control - 
+position: Number - 
+Return Value: 
+ Number

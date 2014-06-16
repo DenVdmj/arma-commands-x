@@ -1,0 +1,9 @@
+log 
+Game: Operation Flashpoint (1.00) 
+Description: Base-10 logarithm of x.  
+Syntax:  
+ Number = log x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

@@ -1,0 +1,10 @@
+damage 
+Behavior: global 
+Game: Operation Flashpoint (1.5) 
+Description: Return the damage value of an object.  
+Syntax:  
+ Number = damage object 
+Parameters: 
+object: Object 
+Return Value: 
+ Number -  The returned number is in range 0 (healthy) to 1 (dead).

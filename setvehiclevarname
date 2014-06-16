@@ -1,0 +1,19 @@
+setVehicleVarName 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Sets the name of the variable which contains a reference to this 
+ object. It is necessary in MP to change the variable content after 
+ a respawn. When you only use 'myVar = &lt;vehicle&gt;', you'll just 
+ have a normal variable, when you use this command as well, 'myVar 
+' will be the name for the vehicle, i.e. if you have other variables 
+ containing the vehicle, they'll now return 'myVar' and not WEST 
+... 
+Note: This command does not set 'myVar' to contain the vehicle, this 
+ has to be done separately.  
+Syntax:  
+ object setVehicleVarName name 
+Parameters: 
+object: Object 
+name: String 
+Return Value: 
+ Nothing

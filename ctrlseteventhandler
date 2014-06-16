@@ -1,0 +1,20 @@
+ctrlSetEventHandler 
+Game: Armed Assault (1.00) 
+Description: Sets given event handler of given control. 
+The provided function should return true/false indicating that the event 
+ has handled this event fully or not and whether the engine should 
+ execute it's default code or not afterwards.  
+See User Interface Event Handlers for the full list of handler names 
+. 
+If applicable, see DIK_KeyCodes for a list of key code constants 
+, which are relevant to key related user interface events like: KeyDown 
+ &amp; KeyUp.  
+Syntax:  
+ controlName ctrlSetEventHandler [handlerName, function] 
+Parameters: 
+controlName: Control 
+[handlerName, function]: Array 
+handlerName: String 
+function: String 
+Return Value: 
+ Nothing

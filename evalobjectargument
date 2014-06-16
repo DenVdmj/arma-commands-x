@@ -1,0 +1,10 @@
+evalObjectArgument 
+Game: ARMA 2  (1.00) 
+Description: Return argument in mission editor of a given object.  
+Syntax:  
+ map evalObjectArgument [object, argument] 
+Parameters: 
+map: Control 
+[object, argument]: Array 
+Return Value: 
+ Any Value

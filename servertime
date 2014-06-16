@@ -1,0 +1,10 @@
+serverTime 
+Game: ARMA 2  (1.00) 
+Description: Server time synchronized to clients. Returns always 0 in Singleplayer 
+. 
+Note that in ArmA2 1.05 Final, this command only returns the time 
+ since the Server was actualy started.  
+Syntax:  
+ serverTime 
+Return Value: 
+ Number

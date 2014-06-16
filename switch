@@ -1,0 +1,9 @@
+switch 
+Game: Armed Assault (1.00) 
+Description: See switch do  
+Syntax:  
+ switch exp 
+Parameters: 
+exp: Anything 
+Return Value: 
+ Switch Type

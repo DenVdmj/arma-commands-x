@@ -1,0 +1,9 @@
+size 
+Game: Armed Assault (1.08) 
+Description: Returns a location's size. 
+Syntax:  
+ size location 
+Parameters: 
+location: Location 
+Return Value: 
+ Array = in format [x,y] in meters

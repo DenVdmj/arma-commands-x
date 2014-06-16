@@ -1,0 +1,9 @@
+showHUD 
+Game: ARMA 2  (1.00) 
+Description: Enable / disable showing of HUD.  
+Syntax:  
+ showHUD enable 
+Parameters: 
+enable: Boolean - 
+Return Value: 
+ Nothing

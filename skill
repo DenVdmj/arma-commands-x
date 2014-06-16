@@ -1,0 +1,10 @@
+skill 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Returns current level of ability of person, in range between 0 and 1. Skill 
+ 1 is highest skill.  
+Syntax:  
+ skill unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Number

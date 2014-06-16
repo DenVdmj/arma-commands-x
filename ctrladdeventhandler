@@ -1,0 +1,11 @@
+ctrlAddEventHandler 
+Game: ARMA 2  (1.00) 
+Description: Add an event handler to the given control. Returns id of the handler 
+ or -1 when failed.  
+Syntax:  
+ control ctrlAddEventHandler [handler name,function] 
+Parameters: 
+control: Control - 
+[handler name,function]: Array - 
+Return Value: 
+ Number

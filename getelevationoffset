@@ -1,0 +1,9 @@
+getElevationOffset 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns the map elevation offset from [map]/config.cpp. 
+Returns 0 if there's no elevationOffset defined in the config of the current 
+ world.  
+Syntax:  
+getElevationOffset 
+Return Value: 
+ Number - elevation offset of the map

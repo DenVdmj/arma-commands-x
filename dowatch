@@ -1,0 +1,13 @@
+doWatch 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to watch the given position or target (without 
+ radio messages). Use objNull as the target to order a unit to stop 
+ watching a position/target.   
+Syntax:  
+ unit(s) doWatch position 
+Parameters: 
+unit(s): Object or Array 
+position: Array - format Position 
+Return Value: 
+ Nothing

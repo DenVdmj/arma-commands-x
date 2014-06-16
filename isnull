@@ -1,0 +1,18 @@
+isNull 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Checks whether the tested item is Null. 
+Which null type the item has to be equal to depends on the type of object 
+ tested: 
+ Objects -&gt; objNull Controls -&gt; controlNull Displays -&gt; displayNull 
+ Groups -&gt; grpNull Locations -&gt; locationNull (since ARMA 2) Tasks 
+ -&gt; taskNull (since ARMA 2) Team Members -&gt; teamMemberNull 
+ (since ARMA 2) 
+Note: A test via == does not work, because, for example, objNull 
+ is not equal to anything, not even to itself.  
+Syntax:  
+ isNull obj 
+Parameters: 
+obj: Object, Control, Display, Group (or Location, Task, Team Member, since ARMA 2) 
+Return Value: 
+ Boolean

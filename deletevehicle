@@ -1,0 +1,15 @@
+deleteVehicle 
+Behavior: global 
+Game: Operation Flashpoint (1.34) 
+Description: Deletes an object. 
+Only units inserted in the mission editor and units created during 
+ the game's progress can be deleted by this command. Island objects 
+ and player units cannot be removed.  
+Deleting a vehicle, which is still being accessed by a running script 
+, can result in a CTD. 
+Syntax:  
+ deleteVehicle object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

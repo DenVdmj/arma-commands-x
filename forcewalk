@@ -1,0 +1,11 @@
+forceWalk 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Makes the unit walk, without possibility to run. Note, you still 
+ can sprint  
+Syntax:  
+ unit forceWalk value 
+Parameters: 
+unit: Object - the unit forced to walk 
+value: Boolean - true/false 
+Return Value: 
+ Nothing

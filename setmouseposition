@@ -1,0 +1,10 @@
+setMousePosition 
+Game: Armed Assault (1.00) 
+Description: Move (UI) mouse pointer to specified position of the screen. 
+Values of x and y can be in the range from 0 to 1.   
+Syntax:  
+ setMousePosition [x, y] 
+Parameters: 
+[x, y]: Array 
+Return Value: 
+ Nothing

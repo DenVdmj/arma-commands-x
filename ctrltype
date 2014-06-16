@@ -1,0 +1,9 @@
+ctrlType 
+Game: Armed Assault (1.00) 
+Description: Returns value representing type of control.  
+Syntax:  
+ Number = ctrlType controlName 
+Parameters: 
+controlName: Control 
+Return Value: 
+ Number

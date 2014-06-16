@@ -1,0 +1,12 @@
+setUnconscious 
+Behavior: local 
+Game: ARMA 2  (1.00) 
+Description: Set / reset the unconscious life state of the given unit (in MP works 
+ only for a local unit).  
+Syntax:  
+ unit setUnconscious set 
+Parameters: 
+unit: Object - 
+set: Boolean - 
+Return Value: 
+ Nothing

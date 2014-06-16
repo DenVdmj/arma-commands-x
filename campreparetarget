@@ -1,0 +1,10 @@
+camPrepareTarget 
+Game: Armed Assault (1.00) 
+Description: Prepares the camera target to a position or to a target.  
+Syntax:  
+ camera camPrepareTarget position 
+Parameters: 
+camera: Object - object of type "camera" 
+position: Array - format Position,  target location 
+Return Value: 
+ Nothing

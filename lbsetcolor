@@ -1,0 +1,15 @@
+lbSetColor 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Sets the color of the item with the given index of the listbox or combobox 
+ with id idc of the topmost user dialog to color. 
+Colour is in format Color.  
+Syntax:  
+ lbSetColor  [idc, index, color] 
+Parameters: 
+[idc, index, color]: Array 
+idc: Number of control 
+index: Number 
+color: Color 
+Return Value: 
+ Nothing

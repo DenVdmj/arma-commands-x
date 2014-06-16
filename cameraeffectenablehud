@@ -1,0 +1,10 @@
+cameraEffectEnableHUD 
+Game: ARMA 2  (1.00) 
+Description: Enable / disable showing of in-game UI during currently active camera 
+ effect.  
+Syntax:  
+ cameraEffectEnableHUD enable 
+Parameters: 
+enable: Boolean - 
+Return Value: 
+ Nothing

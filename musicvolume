@@ -1,0 +1,7 @@
+musicVolume 
+Game: Operation Flashpoint (1.00) 
+Description: Checks the current music volume (set by fadeMusic)  
+Syntax:  
+ Number = musicVolume 
+Return Value: 
+ Number

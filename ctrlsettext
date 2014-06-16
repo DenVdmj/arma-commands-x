@@ -1,0 +1,17 @@
+ctrlSetText 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Set the text of a control of the currently active user dialog or display 
+. This command can be used for: static texts, buttons, edit lines 
+ and active texts as well as for images, where you can use it to set the image 
+ path. 
+Read Dialog Control for more information about user dialogs and controls 
+.  
+Syntax:  
+ ctrlSetText [idc, text] 
+Parameters: 
+[idc, text]: Array 
+idc: Integer - control ID 
+text: String - text or image path, depending on the control type 
+Return Value: 
+ Nothing

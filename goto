@@ -1,0 +1,14 @@
+goto 
+Game: Operation Flashpoint (1.00) 
+Description: In SQS scripts only: Go to given label. 
+String argument is used here.Be sure to use double quotes around 
+ label name in goto. Define the label with #. Note that Labels are not case 
+ sensitive and that labels are searched for from the top of the script 
+, so multiple occurrences of a label will only result in the top most 
+ one ever being found. 
+Syntax:  
+ goto label 
+Parameters: 
+label: String 
+Return Value: 
+ Nothing

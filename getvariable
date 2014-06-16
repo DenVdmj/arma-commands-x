@@ -1,0 +1,19 @@
+getVariable 
+Game: Armed Assault (1.00) 
+Description: Return the value of variable in the variable space of given object 
+ or location.  
+All available data types combinations: Namespace getVariable String 
+ Namespace getVariable Array (since 1.60) Control getVariable String 
+ Object getVariable String Object getVariable Array Group getVariable 
+ String Group getVariable Array Team_Member getVariable String Team_Member 
+ getVariable Array Task getVariable String Location getVariable String 
+ 
+Syntax:  
+ object getVariable name 
+Parameters: 
+object: Object or Location 
+name: String - Variable name that was defined in setVariable (Case sensitive) 
+Return Value: 
+ Any Value 
+ Returns Nothing if the variable doesn't exist. 
+ Returns Anything if the object is undefined. 

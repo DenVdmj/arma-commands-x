@@ -1,0 +1,15 @@
+setUnitPos 
+Game: Operation Flashpoint (1.00) 
+Description: Set unit position rules. Mode may be one of:  "DOWN" - unit goes 
+ prone and stays prone. "UP" - unit stands and stays standing. "Middle 
+" - Kneel Position. ArmA version 1.04 (Unit will not kneel if it is unarmed 
+) "AUTO" - unit chooses mode according to circumstances. 
+ 
+ 
+Syntax:  
+ unitName setUnitPos mode 
+Parameters: 
+unitName: Object 
+mode: String As above 
+Return Value: 
+ Nothing

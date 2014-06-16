@@ -1,0 +1,12 @@
+ctrlMapAnimAdd 
+Behavior: local 
+Game: Armed Assault (1.00) 
+Description: Adds the next frame to the map animation. The format of frame is [time 
+, zoom, position], the format of position is Position2D.  
+Syntax:  
+ map ctrlMapAnimAdd frame 
+Parameters: 
+map: Control 
+frame: Array 
+Return Value: 
+ Nothing

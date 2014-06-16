@@ -1,0 +1,9 @@
+taskChildren 
+Game: ARMA 2  (1.00) 
+Description: Return the child tasks of the specified task.  
+Syntax:  
+ taskChildren task 
+Parameters: 
+task: Task - 
+Return Value: 
+ Array

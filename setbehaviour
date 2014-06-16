@@ -1,0 +1,14 @@
+setBehaviour 
+Game: Operation Flashpoint (1.00) 
+Description: Set group/unit behaviour mode. Behaviour is one of: "CARELESS""SAFE 
+""AWARE""COMBAT""STEALTH".  
+ 
+See this page for details of the effect of this command on AI units 
+. 
+Syntax:  
+ groupName setBehaviour behaviour 
+Parameters: 
+groupName: Object or Group 
+behaviour: String 
+Return Value: 
+ Nothing

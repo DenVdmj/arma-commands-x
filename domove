@@ -1,0 +1,14 @@
+doMove 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Order the given unit(s) to move to the given position (without radio 
+ messages). After reaching his destination, the unit will immediately 
+ return to formation (if in a group); or order his group to form 
+ around his new position (if a group leader).  
+Syntax:  
+ unit(s) doMove position 
+Parameters: 
+unit(s): Object or Array 
+position: Array - format Position 
+Return Value: 
+ Nothing

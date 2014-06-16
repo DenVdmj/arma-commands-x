@@ -1,0 +1,11 @@
+forEachMember 
+Game: ARMA 2  (1.00) 
+Description: Executes the given command for each member of the team (recursively 
+).  
+Syntax:  
+ command forEachMember team 
+Parameters: 
+command: Code 
+team: Team Member 
+Return Value: 
+ Nothing

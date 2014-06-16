@@ -1,0 +1,15 @@
+setUnitPosWeak 
+Game: Armed Assault (1.04) 
+Description: Set unit position rules. Mode may be one of:  "DOWN" - person goes 
+ prone and stays prone. "UP" - person stands and stays standing. "Middle 
+" - Kneel Position. ArmA version 1.04 "AUTO" - person chooses mode 
+ according to circumstances. 
+ 
+ 
+Syntax:  
+ unitName setUnitPosWeak mode 
+Parameters: 
+unitName: Object 
+mode: String As above 
+Return Value: 
+ Nothing

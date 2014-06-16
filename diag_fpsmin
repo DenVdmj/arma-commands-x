@@ -1,0 +1,8 @@
+diag_fpsmin 
+Game: ARMA 2  (1.00) 
+Description: Returns minimal framerate. Calculated from the longest frame over 
+ last 16 frames.   
+Syntax:  
+ diag_fpsmin 
+Return Value: 
+ Number

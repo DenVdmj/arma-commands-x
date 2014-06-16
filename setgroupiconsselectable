@@ -1,0 +1,9 @@
+setGroupIconsSelectable 
+Game: ARMA 2  (1.00) 
+Description: Sets if group icons raises onclick and onover events.  
+Syntax:  
+ setGroupIconsSelectable bool 
+Parameters: 
+bool: Boolean - 
+Return Value: 
+ Nothing

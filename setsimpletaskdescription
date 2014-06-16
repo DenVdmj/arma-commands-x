@@ -1,0 +1,10 @@
+setSimpleTaskDescription 
+Game: ARMA 2  (1.00) 
+Description: Attach descriptions to the simple task.   
+Syntax:  
+ task setSimpleTaskDescription array 
+Parameters: 
+Task 
+Array: [Task description, Task title, Task waypoint description] 
+Return Value: 
+ Nothing

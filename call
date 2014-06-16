@@ -1,0 +1,15 @@
+call 
+Behavior: local 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Executes the function string. 
+The argument(s) (if any) are passed as _this. (argument(s) are passed 
+ in an array). 
+To execute a sleep function in the called code, execute it with spawn 
+ instead.  
+Syntax:  
+ argument(s) call body 
+Parameters: 
+argument(s): Any Value - Optional. Argument that is passed to the function in the "_this" variable. 
+body: Code - A function body provided directly 'inline' orthe String returned from the commands loadFile or preprocessFile. 
+Return Value: 
+ Anything -  The last value given in the function is returned. See the topic Function for more information.

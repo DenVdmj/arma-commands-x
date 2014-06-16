@@ -1,0 +1,15 @@
+join 
+Behavior: local 
+Game: Operation Flashpoint (1.34) 
+Description: Join all units in the array to given group.  
+Maximum number of group members is: OFP: 12 Arma:&#160;? Arma2:&#160;? VBS2 
+: "unlimited" (260+) 
+To have a group member leave a group, join him with the grpNull group 
+ (e.g. [guy1] join grpNull)  
+Syntax:  
+ unitArray join group 
+Parameters: 
+unitArray: Array 
+group: Group or Object 
+Return Value: 
+ Nothing

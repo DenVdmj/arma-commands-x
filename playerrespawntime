@@ -1,0 +1,7 @@
+playerRespawnTime 
+Game: Armed Assault (1.00) 
+Description: Return the player remaining time to respawn.   
+Syntax:  
+ Number =  playerRespawnTime 
+Return Value: 
+ Number

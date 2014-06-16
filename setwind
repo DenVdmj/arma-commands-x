@@ -1,0 +1,13 @@
+setWind 
+Game: ARMA 2  (1.00) 
+Description: Set current (forced == false) or permanent (forced == true) wind 
+ direction and force.  
+Syntax:  
+ setWind [x, z, forced] 
+Parameters: 
+[x, z, forced]: Array 
+x: Number 
+z: Number 
+forced: Boolean 
+Return Value: 
+ Nothing

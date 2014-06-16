@@ -1,0 +1,10 @@
+positionCameraToWorld 
+Game: Armed Assault (1.00) 
+Description: Transform position from camera coordinate space to world coordinate 
+ space.  
+Syntax:  
+ Array = positionCameraToWorld position 
+Parameters: 
+position: Array - format Position 
+Return Value: 
+ Array

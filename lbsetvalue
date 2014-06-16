@@ -1,0 +1,15 @@
+lbSetValue 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Sets the additional integer value in the item with the given index 
+ of the listbox or combobox with id idc of the topmost user dialog 
+ to the given value.  
+Syntax:  
+ lbSetValue [idc, index, value] 
+Parameters: 
+[idc, index, value]: Array 
+idc: Number of control 
+index: Number 
+value: Number 
+Return Value: 
+ Nothing

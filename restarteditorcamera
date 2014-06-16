@@ -1,0 +1,10 @@
+restartEditorCamera 
+Game: ARMA 2  (1.00) 
+Description: Restarts the mission editor camera (if it was deleted by a script 
+,for example).  
+Syntax:  
+ restartEditorCamera map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Nothing

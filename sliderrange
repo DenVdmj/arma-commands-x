@@ -1,0 +1,10 @@
+sliderRange 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Return limits, as an Array [min, max] of slider idc of topmost user 
+ dialog.  
+Syntax:  
+ sliderRange idc 
+Parameters: 
+idc: Number 
+Return Value: 
+ Array [min, max]

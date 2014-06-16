@@ -1,0 +1,10 @@
+breakOut 
+Game: Armed Assault (1.00) 
+Description: Breaks block out of scope named name. Nil is returned. 
+Scope name can be assigned using scopeName command.  
+Syntax:  
+ breakOut name 
+Parameters: 
+name: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,57 @@
+addAction 
+Behavior: local 
+Game: Operation Flashpoint (1.1) 
+Description: Add an entry to the action menu of an object. The action is usable 
+ by anyone, but can only be activated when in proximity to the 'object 
+' (eg: building). Adding an action to the player obviously makes 
+ that action available to the player at all times. 
+In the case of no action list currently set for the object (eg: most 
+ buildings), adding an entry creates an action list for that object 
+. 
+ 
+Note: In ArmA the script file can be sqs or sqf, in OFP it can only 
+ be an sqs file. 
+Filename extension for the script can be anything, but by convention 
+, is named.sqs or.sqf 
+ 
+Parameters of the called script upon activation: 
+An array of parameters is passed to the called script: [target, caller 
+, ID, (arguments)] target: Object - the object which the action is assigned 
+ to caller: Object - the unit that activated the action ID: Integer 
+ - ID of the activated action arguments: Anything - arguments given 
+ to the script if you are using the extended syntax  
+Syntax:  
+ Number = unitName addAction [title, filename, (arguments, priority, showWindow, hideOnUse, shortcut, condition, positionInModel, radius, radiusView, showIn3D, available, textDefault, textToolTip)] 
+(optional parameters not applicable to OFP, 'condition' parameter only applicable to Arma 2, parameters from 'positionInModel' only for TKOH) 
+Parameters: 
+unitName: Object 
+[title, filename, (arguments, priority, showWindow, hideOnUse, shortcut, condition)]: Array 
+title: String or Structured Text - The action name which is displayed in the action menu. 
+filename: String - Path to the script that is called when the action is activated. Relative to the mission folder. 
+arguments: Anything - (optional) Arguments to pass to the script (will be (_this select 3) for the script) 
+priority: Number - (optional) Priority value of the action. Actions will be arranged descending according to this. Every game action has a preset priority value. Value can be negative or decimal. Actions with same values will be arranged in order which they were made, newest at the bottom. Typical range is 0 (low priority. Eg: 'Get out') to 6 (high priority. Eg: 'Auto-hover on'). 
+showWindow: Boolean - (optional) If set True; players see "Titletext". At mid-lower screen, as they approach the object. False turns it off. 
+hideOnUse: Boolean - (optional) If set to true, it will hide the action menu after selecting that action. If set to false, it will leave the action menu open and visible after selecting that action, leaving the same action highlighted, for the purpose of allowing you to reselect that same action quickly, or to select another action. 
+shortcut: String - (optional, default:"") One of the key names defined in bin.pbo (e.g. "moveForward") 
+condition: String - (optional, Arma 2 only, default:true) Code that must return true for action to be shown. Special variables "_target" (unit to which action is attached to) and "_this" (caller/executing unit) can be used in the evaluation. 
+positionInModel: String - (optional, TKOH only, default: "") Name of the named selection in the model for positioning the action in 3D space; typically a memory point. 
+radius: Number - (optional, TKOH only) Distance in meters the unit activating the action must be within to activate it. -1 disables this radius. 
+radiusView: Number - (optional, TKOH only) Maximum distance in meters the cursor can be away from the 3D action to activate it. -1 disables this radius. 
+showIn3D: Number - (optional, TKOH only) Condition for showing the action in 3D space (combine by adding up). 
+1 - show 
+2 - draw if unit is pilot 
+4 - draw if unit is inside vehicle 
+8 - draw if unit is outside vehicle 
+16 - draw if not in external camera 
+32 - draw if not in internal camera 
+64 - draw if not in gunner camera (turret optics) 
+available: Number - (optional, TKOH only) Condition for being able to activate the action (combine by adding up). 
+0 - disabled 
+1 - unit is pilot or copilot 
+2 - unit is inside target 
+4 - unit is not inside target) 
+textDefault: String - (optional, TKOH only) Structured text which is shown as the 3D action (so it can be an icon), or in the center of the screen when the action is highlighted in the action menu for a 2D action. 
+textToolTip: String - (optional, TKOH only) Structured text which is faded in under the textDefault when hovering over the action in 3D space. 
+Return Value: 
+ Number or Nothing 
+The ID of the action is returned, IDs are incrementing. The first given action to each unit has got the ID 0, the second the ID 1 etc. ID's are also passed to the called script and used to remove an action with removeAction.

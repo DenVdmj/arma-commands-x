@@ -1,0 +1,9 @@
+triggerArea 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger area in the form [a, b, angle, rectangle].  
+Syntax:  
+ triggerArea trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Array

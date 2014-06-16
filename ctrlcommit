@@ -1,0 +1,10 @@
+ctrlCommit 
+Game: Armed Assault (1.00) 
+Description: Commit control animation.  
+Syntax:  
+ controlName ctrlCommit time 
+Parameters: 
+controlName: Control 
+time: Number 
+Return Value: 
+ Nothing

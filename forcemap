@@ -1,0 +1,9 @@
+forceMap 
+Game: Operation Flashpoint (1.27) 
+Description: Displays the map on the screen during a mission.  
+Syntax:  
+ forceMap show 
+Parameters: 
+show: Boolean 
+Return Value: 
+ Nothing

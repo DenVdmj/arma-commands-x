@@ -1,0 +1,10 @@
+setUnitRecoilCoefficient 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Proportionaly increase/decrease unit's recoil.  
+Syntax:  
+ unitName setUnitRecoilCoefficient coefficient 
+Parameters: 
+unitName: Object 
+coefficient: Number 
+Return Value: 
+ Nothing

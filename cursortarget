@@ -1,0 +1,7 @@
+cursorTarget 
+Game: ARMA 2  (1.00) 
+Description: This is the entity pointed to by a players cursor.  
+Syntax:  
+ cursorTarget 
+Return Value: 
+ Object

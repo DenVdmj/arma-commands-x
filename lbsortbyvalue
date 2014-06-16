@@ -1,0 +1,13 @@
+lbSortByValue 
+Game: Armed Assault (1.08) 
+Description: Sorts the Listbox Entries by their assigned Values. 
+The Entries getting listed by their Negativity (most negative Value 
+ on Top). 
+Also note that this Command will mix up the Entries randomly if multiple 
+ Entries have the same Value.  
+Syntax:  
+ lbSortByValue control 
+Parameters: 
+control: Given Control 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+isRealTime 
+Game: ARMA 2  (1.00) 
+Description: Returns true if the mission editor is operating in real time mode 
+.  
+Syntax:  
+ isRealTime map 
+Parameters: 
+map: Control - 
+Return Value: 
+ Boolean

@@ -1,0 +1,10 @@
+closeDialog 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Close the currently active user dialog.  
+Syntax:  
+ closeDialog idc 
+Parameters: 
+idc&#160;: Number 
+Return Value: 
+ Nothing

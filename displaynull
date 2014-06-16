@@ -1,0 +1,8 @@
+displayNull 
+Game: Armed Assault (1.00) 
+Description: A non-existing Display. This value is not equal to anything, including 
+ itself.  
+Syntax:  
+ Display = displayNull 
+Return Value: 
+ Display

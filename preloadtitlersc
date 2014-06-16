@@ -1,0 +1,13 @@
+preloadTitleRsc 
+Game: Armed Assault (1.00) 
+Description: Resource title - Preload data. 
+The resource can be defined in the Description.ext file.  
+Syntax:  
+Boolean = preloadTitleRsc [name, type, speed] or [name, type] 
+Parameters: 
+[name, type, speed] or [name, type]: Array 
+name: String defined in Description.ext for the mission 
+type: String "PLAIN" e.g. 
+speed: Optional and ignored 
+Return Value: 
+ Boolean

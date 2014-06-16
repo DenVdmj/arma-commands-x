@@ -1,0 +1,13 @@
+drawLine 
+Game: Armed Assault (1.00) 
+Description: Draw a line on the map.  
+Syntax:  
+ map drawLine [position1, position2, color] 
+Parameters: 
+map: Control 
+[position1, position2, color]: Array 
+position1: Position3D 
+position2: Position3D 
+color: Color 
+Return Value: 
+ Nothing

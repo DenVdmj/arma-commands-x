@@ -1,0 +1,10 @@
+ctrlSetAutoScrollRewind 
+Game: ARMA 2  (1.00) 
+Description: Defines if scroll should rewind when auto-scroll reach end.  
+Syntax:  
+ control ctrlSetAutoScrollRewind delay 
+Parameters: 
+control: Control - 
+delay: Boolean - 
+Return Value: 
+ Nothing

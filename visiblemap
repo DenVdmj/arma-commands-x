@@ -1,0 +1,7 @@
+visibleMap 
+Game: ARMA 2  (1.00) 
+Description: Return true if the main map is shown (active).  
+Syntax:  
+ visibleMap 
+Return Value: 
+ Boolean

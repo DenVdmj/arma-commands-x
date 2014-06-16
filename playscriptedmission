@@ -1,0 +1,11 @@
+playScriptedMission 
+Game: ARMA 2  (1.00) 
+Description: Load the given world,launch an empty mission and execute the given 
+,expression. Config (optional) can reference to the config entry 
+,replacing description.ext for this mission.   
+Syntax:  
+ playScriptedMission [world,expression,config] 
+Parameters: 
+[world,expression,config]: Array - 
+Return Value: 
+ Nothing

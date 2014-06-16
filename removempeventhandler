@@ -1,0 +1,14 @@
+removeMPEventHandler 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Removes MP event handler added by addMPEventHandler. Format of handler 
+ is [type,index]. Index is returned by addMPEventHandler. When any handler 
+ is removed, all handler indices highter than the deleted one should 
+ decremented  
+Syntax:  
+ unitName removeMPEventHandler ["event", index] 
+Parameters: 
+unitName: Object 
+event: String 
+index: Number 
+Return Value: 
+ Nothing

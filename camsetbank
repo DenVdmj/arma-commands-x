@@ -1,0 +1,11 @@
+camSetBank 
+Game: Operation Flashpoint (1.00) 
+Description: Set camera bank angle. 
+Does not commit changes.  
+Syntax:  
+ camera camSetBank bank 
+Parameters: 
+camera: Object 
+bank: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+enableGunLights 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Force the AI to use gun lights  
+Syntax:  
+ thing enableGunLights value 
+Parameters: 
+thing: Object or Group - the unit or the group forced to use gun lights 
+value: Boolean - true/false 
+Return Value: 
+ Nothing

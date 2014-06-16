@@ -1,0 +1,11 @@
+waypointAttachObject 
+Game: Armed Assault (1.00) 
+Description: Attaches a static object via it's numeric ID to the given waypoint 
+.  
+Syntax:  
+ waypoint waypointAttachObject objectID 
+Parameters: 
+waypoint: Array - format Waypoint 
+objectID: Number 
+Return Value: 
+ Nothing

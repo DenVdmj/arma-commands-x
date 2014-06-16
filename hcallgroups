@@ -1,0 +1,9 @@
+hcAllGroups 
+Game: ARMA 2  (1.00) 
+Description: Returns selected groups in high command.  
+Syntax:  
+ hcAllGroups unit 
+Parameters: 
+unit: Object - 
+Return Value: 
+ Array

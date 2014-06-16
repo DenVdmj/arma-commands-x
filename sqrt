@@ -1,0 +1,9 @@
+sqrt 
+Game: Operation Flashpoint (1.00) 
+Description: Returns square root of x.  
+Syntax:  
+ Number =  sqrt x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

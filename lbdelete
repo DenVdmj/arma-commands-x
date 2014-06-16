@@ -1,0 +1,13 @@
+lbDelete 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Removes the item with the given index from the listbox or combobox 
+ with id idc of the topmost user dialog.  
+Syntax:  
+ lbDelete [idc, index] 
+Parameters: 
+[idc, index]: Array 
+idc: Number of control 
+index: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,14 @@
+land 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Force helicopter landing. Landing mode may be:  "LAND" (complete 
+ stop) "GET IN" (hovering very low, for another unit to get in) "GET OUT" (hovering 
+ low,for another unit to get out) "NONE" (cancel a landing) Available 
+ since ArmA 2 57463 build. 
+Syntax:  
+ helicopter land mode 
+Parameters: 
+helicopter: Object 
+mode: String 
+Return Value: 
+ Nothing

@@ -1,0 +1,12 @@
+setWaypointFormation 
+Game: Armed Assault (1.00) 
+Description: Switches the group formation when the waypoint becomes active. 
+Possible values are:  "NO CHANGE" "COLUMN" "STAG COLUMN" "WEDGE" "ECH LEFT 
+" "ECH RIGHT" "VEE" "LINE" "FILE" "DIAMOND" 
+Syntax:  
+ waypoint setWaypointFormation formation 
+Parameters: 
+waypoint: Array - format Waypoint 
+formation: String 
+Return Value: 
+ Nothing

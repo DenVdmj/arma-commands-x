@@ -1,0 +1,10 @@
+playSound 
+Game: Operation Flashpoint (1.00) 
+Description: selects Sound from CfgSounds declared in the Description.ext file 
+.   
+Syntax:  
+ playSound soundName 
+Parameters: 
+soundName: String 
+Return Value: 
+ Nothing

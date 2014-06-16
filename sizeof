@@ -1,0 +1,12 @@
+sizeOf 
+Game: Armed Assault (1.08) 
+Description: Return approximate size of the entity of given type (y-axis, in meters 
+) 
+Object has to be present in current mission to be able to read a size 
+ (otherwise zero will be returned).  
+Syntax:  
+ Number = sizeOf type 
+Parameters: 
+type: String 
+Return Value: 
+ Number

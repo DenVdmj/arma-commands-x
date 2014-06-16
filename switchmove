@@ -1,0 +1,14 @@
+switchMove 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: When used on a person, the given move is started immediately (there 
+ is no transition). Use switchmove "" to switch back to the default 
+ movement if there is no transition back, otherwise the person may be stuck 
+.  
+Syntax:  
+ person switchmove movename 
+Parameters: 
+person: Object 
+movename: String 
+Return Value: 
+ Nothing

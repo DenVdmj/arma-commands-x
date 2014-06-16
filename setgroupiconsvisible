@@ -1,0 +1,9 @@
+setGroupIconsVisible 
+Game: ARMA 2  (1.00) 
+Description: Sets if group icons are visible.  
+Syntax:  
+ setGroupIconsVisible array 
+Parameters: 
+array: Array - 
+Return Value: 
+ Nothing

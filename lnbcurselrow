@@ -1,0 +1,9 @@
+lnbCurSelRow 
+Game: ARMA 2  (1.00) 
+Description: Returns the index of the selected row id 2D listbox.  
+Syntax:  
+ lnbCurSelRow idc 
+Parameters: 
+idc: Number - 
+Return Value: 
+ Number

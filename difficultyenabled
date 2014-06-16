@@ -1,0 +1,11 @@
+difficultyEnabled 
+Game: Armed Assault (1.05) 
+Description: Checks specific difficulty settings of the current user. Difficulty 
+ flag names can be found in the ArmA profile file under class Difficulties 
+/xxx/Flags (xxx being regular or veteran).  
+Syntax:  
+ Boolean = difficultyEnabled flagName 
+Parameters: 
+flagName: String - difficulty flag name 
+Return Value: 
+ Boolean

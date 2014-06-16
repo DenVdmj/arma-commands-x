@@ -1,0 +1,13 @@
+camPrepareFocus 
+Game: Armed Assault (1.00) 
+Description: focusRange is in format [distance,blur]. Prepares the camera focus 
+ blur. 
+[-1,1] will reset default values (auto focusing), [-1,-1] will disable 
+ postprocessing (all is focused).  
+Syntax:  
+ camera camPrepareFocus focusRange 
+Parameters: 
+camera: Object 
+focusRange: Array 
+Return Value: 
+ Nothing

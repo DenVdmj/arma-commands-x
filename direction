@@ -1,0 +1,11 @@
+direction 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns the direction an object or a location is facing (differs 
+ from getDir in that this also works with locations).  
+Syntax:  
+ Number = direction object 
+Parameters: 
+object: Object or Location 
+Return Value: 
+ Number -  Direction in degrees, range 0 to 360

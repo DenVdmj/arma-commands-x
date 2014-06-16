@@ -1,0 +1,11 @@
+camDestroy 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Destroy an object created with camCreate.camDestroy is conducted 
+ immediately, the command doesn't wait for camCommit.  
+Syntax:  
+ camDestroy object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

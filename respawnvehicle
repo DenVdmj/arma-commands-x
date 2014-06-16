@@ -1,0 +1,12 @@
+respawnVehicle 
+Game: Armed Assault (1.00) 
+Description: Set vehicle as respawnable in MP games.   
+Syntax:  
+ vehicleName respawnVehicle [delay = -1, count = 0] 
+Parameters: 
+vehicleName: Object 
+[delay = -1, count = 0]: Array 
+delay: Number. Default -1 (use respawnDelay from Description.ext) 
+count: Number. Default 0 (unlimited respawns) 
+Return Value: 
+ Nothing

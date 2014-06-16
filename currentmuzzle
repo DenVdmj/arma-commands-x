@@ -1,0 +1,9 @@
+currentMuzzle 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns current muzzle of unit's weapon.  
+Syntax:  
+ muzzle = currentMuzzle gunner 
+Parameters: 
+gunner: Object 
+Return Value: 
+ String

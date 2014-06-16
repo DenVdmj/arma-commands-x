@@ -1,0 +1,9 @@
+enableCamShake 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Allows camera shaking  
+Syntax:  
+ enableCamShake value 
+Parameters: 
+value: Boolean - setting on or off 
+Return Value: 
+ Nothing

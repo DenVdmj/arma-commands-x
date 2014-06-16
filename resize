@@ -1,0 +1,11 @@
+resize 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Change array size. Can be used to add or remove elements from an array 
+.  
+Syntax:  
+ arrayName resize count 
+Parameters: 
+arrayName: Array 
+count: Number 
+Return Value: 
+ Nothing

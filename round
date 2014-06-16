@@ -1,0 +1,9 @@
+round 
+Game: Armed Assault (1.00) 
+Description: Rounds up or down to the closest integer.   
+Syntax:  
+ Number = round x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

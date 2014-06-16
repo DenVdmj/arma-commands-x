@@ -1,0 +1,10 @@
+markerSize 
+Game: Operation Flashpoint (1.5) 
+Description: Get marker size. Note: This function is identical to getMarkerSize 
+.  
+Syntax:  
+ Array = markerSize markerName 
+Parameters: 
+markerName: String 
+Return Value: 
+ Array

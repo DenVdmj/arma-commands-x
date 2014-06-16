@@ -1,0 +1,10 @@
+editObject 
+Game: ARMA 2  (1.00) 
+Description: Show the edit object dialog for the given object.  
+Syntax:  
+ map editObject object 
+Parameters: 
+map: Control - 
+object: String - 
+Return Value: 
+ Any

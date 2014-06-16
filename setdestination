@@ -1,0 +1,19 @@
+setDestination 
+Game: Armed Assault (1.00) 
+Description: Set the destination for path planning of the pilot. 
+Possible values for planningMode are: 
+"DoNotPlan", 
+"LeaderPlanned", 
+"LeaderDirect", 
+"FormationPlanned", 
+"VehiclePlanned"  
+Syntax:  
+ object setDestination [position, planningMode, forceReplan] 
+Parameters: 
+object: Object 
+[position, planningMode, forceReplan]: Array 
+position: Array - format Position 
+planningMode: String 
+forceReplan: Boolean Specifies if replanning of the path should be forced. 
+Return Value: 
+ Nothing

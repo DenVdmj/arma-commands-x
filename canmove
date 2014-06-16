@@ -1,0 +1,11 @@
+canMove 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Returns if the given vehicle is still able to move. This command 
+ checks only the damage value, not the amount of fuel!  
+Syntax:  
+ Boolean = canMove unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Boolean -  true if the vehicle is still able to move, false if not

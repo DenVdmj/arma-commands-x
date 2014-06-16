@@ -1,0 +1,9 @@
+currentTasks 
+Game: ARMA 2  (1.00) 
+Description: List all uncompleted tasks.  
+Syntax:  
+ currentTasks member 
+Parameters: 
+member: Team Member 
+Return Value: 
+ Array

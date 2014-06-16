@@ -1,0 +1,11 @@
+ctrlSetTooltipColorText 
+Game: Armed Assault (1.00) 
+Description: Sets tooltip text color of given control. Color is in format Color 
+.  
+Syntax:  
+ display ctrlSetTooltipColorText color 
+Parameters: 
+display: Control 
+color: Array 
+Return Value: 
+ Nothing

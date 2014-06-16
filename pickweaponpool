@@ -1,0 +1,10 @@
+pickWeaponPool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Transfer weapons and magazines from cargo of object into weapon pool 
+ (used in campaign to transfer weapons into next mission).  
+Syntax:  
+ pickWeaponPool object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

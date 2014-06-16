@@ -1,0 +1,22 @@
+addEventHandler 
+Behavior: global, local 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Adds an event handler to a given unit. For more information about 
+ event handlers and their types check the scripting topic Event handlers 
+ in this reference. You may add as many event handlers of any type 
+ as you like to every unit, if you add an event handler of type "killed 
+" and there already exists one, the old one doesn't get overwritten 
+. Use removeEventHandler to delete event handlers.  
+Every event will create an array named _this, which contains specific 
+ information about the particular event. (e.g. the "killed" EH will 
+ return an array with 2 elements: the killed unit, and the killer 
+.) 
+Syntax:  
+ Number = object addEventHandler [type, command] 
+Parameters: 
+object: Object 
+[type, command]: Array 
+type: String - Event Handler type 
+command: Code or String - code that should be executed once the event occurs 
+Return Value: 
+ Number -  The index of the currently added event handler is returned. Indices start at 0 for each unit and increment with each added event handler. (optional)

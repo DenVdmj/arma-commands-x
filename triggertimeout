@@ -1,0 +1,10 @@
+triggerTimeout 
+Game: ARMA 2  (1.00) 
+Description: Returns trigger timeout in the form [min, mid, max, interruptable 
+].  
+Syntax:  
+ triggerTimeout trigger 
+Parameters: 
+trigger: Object 
+Return Value: 
+ Array

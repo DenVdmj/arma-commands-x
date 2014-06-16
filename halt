@@ -1,0 +1,7 @@
+halt 
+Game: Armed Assault (1.00) 
+Description: Stops the program into a debugger.  
+Syntax:  
+ halt 
+Return Value: 
+ Nothing

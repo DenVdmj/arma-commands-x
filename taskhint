@@ -1,0 +1,16 @@
+taskHint 
+Game: ARMA 2  (1.00) 
+Description: Shows info about new, changed or failed task. The text can contain 
+ several lines. 
+ is used to indicate the end of a line.  To maintain 
+ Arma 3 visual style, it's recommended to use BIS_fnc_showNotification 
+ instead. 
+Syntax:  
+ taskHint [hintText, [r, g, b, a], icon] 
+Parameters: 
+[hintText, [r, g, b, a], icon]: Array 
+hintText: String 
+[r, g, b, a]: Array - format Color 
+icon: String - possible values: taskNew, taskDone, taskFailed, taskCurrent 
+Return Value: 
+ Nothing

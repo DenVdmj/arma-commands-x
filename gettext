@@ -1,0 +1,9 @@
+getText 
+Game: Armed Assault ( 1.00) 
+Description: Extract text from config entry.   
+Syntax:  
+ String = getText config 
+Parameters: 
+config: Config 
+Return Value: 
+ String

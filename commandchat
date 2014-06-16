@@ -1,0 +1,13 @@
+commandChat 
+Game: ARMA 2  (1.00) 
+Description: Types text to the command radio channel.,Note: this function only 
+ types text to the list,it does not broadcast,the message. If you want 
+ the message to show on all computers,you have,to execute it on all of them 
+.  
+Syntax:  
+ unit commandChat chatText 
+Parameters: 
+unit: Object or Array - 
+chatText: String - 
+Return Value: 
+ Nothing

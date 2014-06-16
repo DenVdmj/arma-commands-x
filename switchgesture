@@ -1,0 +1,11 @@
+switchGesture 
+Game: ARMA 2  (1.00) 
+Description: When used on a person,the given move is started immediately (there 
+ is no transition).  
+Syntax:  
+ soldier switchGesture moveName 
+Parameters: 
+soldier:  - 
+Object,moveName:  - 
+Return Value: 
+ Nothing

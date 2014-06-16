@@ -1,0 +1,10 @@
+abs 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Absolute value of a real number  
+Syntax:  
+ Number = abs x 
+Parameters: 
+x: Number 
+Return Value: 
+ Number

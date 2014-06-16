@@ -1,0 +1,13 @@
+setCamShakeParams 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Set camera shake parameters.  
+Syntax:  
+ setCamShakeParams [posCoef, rotXCoef, rotYCoef, rotZCoef, interp] 
+Parameters: 
+posCoef: Number 
+rotXCoef: Number 
+rotYCoef: Number 
+rotZCoef: Number 
+interp: Number 
+Return Value: 
+ Nothing

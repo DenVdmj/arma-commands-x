@@ -1,0 +1,10 @@
+lightIsOn 
+Game: Operation Flashpoint (1.04) 
+Description: Check if lampost is on (shining). Possible values are:  "ON" "OFF" "AUTO 
+" (auto is only on during the night). 
+Syntax:  
+ lightIsOn lamppost 
+Parameters: 
+lamppost: Object 
+Return Value: 
+ String

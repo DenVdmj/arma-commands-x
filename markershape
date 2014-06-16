@@ -1,0 +1,10 @@
+markerShape 
+Game: ARMA 2  (1.00) 
+Description: Gets the marker shape. See setMarkerShape for a list of strings that 
+ can be returned.  
+Syntax:  
+ markerShape name 
+Parameters: 
+name: String - 
+Return Value: 
+ String

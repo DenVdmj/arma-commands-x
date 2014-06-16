@@ -1,0 +1,7 @@
+missionNamespace 
+Game: ARMA 2  (1.00) 
+Description: Return the global namespace attached to mission.  
+Syntax:  
+ missionNamespace 
+Return Value: 
+ Namespace

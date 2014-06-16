@@ -1,0 +1,11 @@
+clearBackpackCargoGlobal 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.55) 
+Description: Removes all backpacks from the vehicle cargo space. MP synchronized 
+.  
+Syntax:  
+ clearBackpackCargoGlobal unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ Nothing

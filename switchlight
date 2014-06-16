@@ -1,0 +1,10 @@
+switchLight 
+Game: Operation Flashpoint (1.00) 
+Description: Controls whether a lamp is lit or not.  
+Syntax:  
+ lamp switchLight mode 
+Parameters: 
+lamp: Object 
+mode: String - Mode can be: "ON", "OFF" or "AUTO" (Lamp is on only during nighttime , default) 
+Return Value: 
+ Nothing

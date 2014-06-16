@@ -1,0 +1,21 @@
+setTerrainGrid 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Operation Flashpoint, VBS1: Set desired terrain resolution (in meters 
+). For default landscapes, supported resolutions are: 50 - smoothest 
+, less lag 25 - default in multiplayer 12.5 - default in singleplayer 
+ 6.25 3.125 - bumpiest, higher lag 
+If you select unsupported resolutions, nearest supported value is used 
+ instead.  
+Armed Assault, VBS2: Terrain resolution is fixed, determined by the world 
+ created. This function controls terrain LOD instead (the distance 
+ in which the terrain mesh resolution starts to degrade). Higher 
+ number means less vertices are used for terrain rendering, making 
+ distant hills less smooth. Value 12.5 corresponds to selecting Terrain 
+ Detail Normal in Video options, 50 to Very Low, 3.125 to Very High 
+. 
+Syntax:  
+ setTerrainGrid grid 
+Parameters: 
+grid: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,11 @@
+sliderSetPosition 
+Game: Operation Flashpoint: Resistance (1.85) 
+Description: Set current thumb position of slider idc of topmost user dialog.  
+Syntax:  
+ sliderSetPosition [idc, pos] 
+Parameters: 
+[idc, pos]: Array 
+idc: Number of control 
+pos: Number 
+Return Value: 
+ Nothing

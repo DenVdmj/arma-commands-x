@@ -1,0 +1,10 @@
+setMarkerDirLocal 
+Game: Armed Assault (1.04) 
+Description: Sets the orientation of the marker. Angle is in degrees.  
+Syntax:  
+ markerName setMarkerDirLocal angle 
+Parameters: 
+markerName: String 
+angle: Number 
+Return Value: 
+ Nothing

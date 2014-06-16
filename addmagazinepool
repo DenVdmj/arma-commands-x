@@ -1,0 +1,12 @@
+addMagazinePool 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Add magazines to the magazine pool, of which the player may choose 
+ in the following mission. Available in campaigns only.  
+Syntax:  
+ addMagazinePool [magazineName, count] 
+Parameters: 
+[magazineName, count]: Array 
+magazineName: String - magazine name. See the topic Category:Weapons for reference about possible values. 
+count: Number - number of magazines to add 
+Return Value: 
+ Nothing

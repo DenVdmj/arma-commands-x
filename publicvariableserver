@@ -1,0 +1,10 @@
+publicVariableServer 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Send the variable value to the server - same limitations regarding 
+ variable type as publicVariable.  
+Syntax:  
+ publicVariableServer varName 
+Parameters: 
+varName: String 
+Return Value: 
+ Nothing

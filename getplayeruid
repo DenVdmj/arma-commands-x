@@ -1,0 +1,19 @@
+getPlayerUID 
+Game: ARMA 2  (1.02) 
+Description: Return an uniqueID of the given unit as string if it's player and empty 
+ value if it's AI. The uniqueID may be up to 100 characters long 
+ and may contain numbers, uppercase letters and underscores (the value 
+ can be used to construct a valid variable name by appending to another 
+ valid variable name). 
+Note: while for ArmA 2 or ArmA 2: Operation Arrowhead until version 
+ 1.60 the result always contains a number, it should be always handled 
+ as an opaque string. Converting it to a Number can cause precision 
+ problems, as Number cannot accurately represent integers above 16777216 
+ (2^24). Moreover, game versions since ArmA 2: Operation Arrowhead 
+ 1.61 provide a non-numeric value as a result. 
+Syntax:  
+ getPlayerUID unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ String

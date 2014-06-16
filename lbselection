@@ -1,0 +1,9 @@
+lbSelection 
+Game: Armed Assault (1.00) 
+Description: Returns the array of selected rows indices in the given listbox  
+Syntax:  
+ Array = lbSelection control 
+Parameters: 
+control: Control 
+Return Value: 
+ Array

@@ -1,0 +1,10 @@
+not 
+Game: Operation Flashpoint (1.00) 
+Description: not a. 
+Exactly the same as ! a  
+Syntax:  
+ Boolean = not a 
+Parameters: 
+a: Number 
+Return Value: 
+ Boolean

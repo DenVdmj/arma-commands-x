@@ -1,0 +1,13 @@
+globalRadio 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Make a unit send a message over the global radio channel. The message 
+ is defined in the description.ext of the mission and may contain 
+ text and sound.  
+Syntax:  
+ unit globalRadio radioName 
+Parameters: 
+unit: Object 
+radioName: String - the name of the message class in the description.ext 
+Return Value: 
+ Nothing

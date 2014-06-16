@@ -1,0 +1,7 @@
+commandingMenu 
+Game: ARMA 2  (1.00) 
+Description: Return the name of the player actual topmost commanding menu.  
+Syntax:  
+ commandingMenu 
+Return Value: 
+ String

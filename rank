@@ -1,0 +1,12 @@
+rank 
+Behavior: global 
+Game: Armed Assault (1.00) 
+Description: Return the rank of the given unit.  
+Rank can be one of the following:"PRIVATE""CORPORAL""SERGEANT""LIEUTENANT 
+""CAPTAIN""MAJOR""COLONEL"  
+Syntax:  
+ String = rank unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ String

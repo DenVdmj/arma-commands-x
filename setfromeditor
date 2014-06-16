@@ -1,0 +1,10 @@
+setFromEditor 
+Game: ARMA 2  (1.00) 
+Description: Set if given team member was inserted directly from editor.  
+Syntax:  
+ teamMember setFromEditor fromEditor 
+Parameters: 
+teamMember: Team Member 
+fromEditor: Boolean 
+Return Value: 
+ Nothing

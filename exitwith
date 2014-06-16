@@ -1,0 +1,17 @@
+exitWith 
+Game: Armed Assault (1.00) 
+Description: If the result of condition is true, code is evaluated, and current 
+ block with result of code. It only exits the current scope. 
+exitWith exits the execution of a loop defined by one of commands 
+ do, for, count or forEach. When you use exitWith not inside a loops 
+, the behaviour is undefined - sometimes it may exit the script, sometimes 
+ some other scope, but this is not intended and designed behaviour 
+ of this command, and it is not guaranteed to work reliably. 
+It exits the loop only, not the script.  
+Syntax:  
+ if (condition) exitWith {Code} 
+Parameters: 
+If Type 
+Code 
+Return Value: 
+ Anything

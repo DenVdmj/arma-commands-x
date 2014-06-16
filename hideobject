@@ -1,0 +1,11 @@
+hideObject 
+Behavior: global 
+Game: ARMA 2  (1.06) 
+Description: Hide entity. Can be used on soldiers and vehicles, also on static 
+ objects.  
+Syntax:  
+ hideObject object 
+Parameters: 
+object: Object 
+Return Value: 
+ Nothing

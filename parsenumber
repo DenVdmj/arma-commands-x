@@ -1,0 +1,9 @@
+parseNumber 
+Game: Armed Assault (1.00) 
+Description: Parse string containing real number.  
+Syntax:  
+ Number = parseNumber string 
+Parameters: 
+string: String 
+Return Value: 
+ Number

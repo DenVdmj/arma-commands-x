@@ -1,0 +1,12 @@
+addScore 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Add a number to the score of a unit. This score is shown in multiplayer 
+ in the "I" screen. Negative values will remove from the score.  
+Syntax:  
+ unitName addScore score 
+Parameters: 
+unitName: Object 
+score: Number 
+Return Value: 
+ Nothing

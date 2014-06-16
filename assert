@@ -1,0 +1,13 @@
+assert 
+Game: Armed Assault (1.00) 
+Description: Tests a condition and if the condition is false, exits the handle 
+. 
+Does not work properly in ArmA2(OA) 1.08(1.54)&#160;: If condition 
+ is false, it only returns an empty Error Message without closing 
+ the Script.  
+Syntax:  
+ assert condition 
+Parameters: 
+condition: Boolean 
+Return Value: 
+ Boolean

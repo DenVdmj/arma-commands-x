@@ -1,0 +1,9 @@
+copyToClipboard 
+Game: ARMA 2  (1.00) 
+Description: Copy the text to the clipboard.   
+Syntax:  
+ copyToClipboard text 
+Parameters: 
+text: String 
+Return Value: 
+ Nothing

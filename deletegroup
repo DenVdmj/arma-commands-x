@@ -1,0 +1,9 @@
+deleteGroup 
+Game: Armed Assault (1.00) 
+Description: Destroys the given group.  
+Syntax:  
+ deleteGroup group 
+Parameters: 
+group: Group 
+Return Value: 
+ Nothing

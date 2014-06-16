@@ -1,0 +1,12 @@
+requiredVersion 
+Game: Operation Flashpoint (1.21) 
+Description: Check if version of application is available. If the current version 
+ is older than the required one, a warning message is shown and false 
+ is returned.  
+Version of format Major.Minor, e.g. 1.30 
+Syntax:  
+ Boolean =  requiredVersion version 
+Parameters: 
+version: String 
+Return Value: 
+ Boolean

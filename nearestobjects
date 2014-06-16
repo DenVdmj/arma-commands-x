@@ -1,0 +1,24 @@
+nearestObjects 
+Game: Armed Assault (1.00) 
+Description: Returns a list of nearest objects of the given types to the given 
+ position or object, within the specified distance. 
+position can use the format: 
+[[x,y,z], ["ClassName",...], radius] 
+or 
+[object, ["ClassName",...], radius] 
+ 
+To use it without any ClassName filter: 
+[object or position, [], radius]. 
+ 
+A list of ClassName types (Tanks eg) can be found in CfgVehicles 
+ 
+If more than one object is found they will be ordered according to their 
+ distance (i.e. the closest one will be first in the array). 
+Syntax:  
+ objects = nearestObjects [position, types, radius]; 
+Parameters: 
+position: Array or Object - Where to find objects, center position. 
+types: Array - List of class name of the objects to search for. 
+radius: Number - Range from center position to search for objects. 
+Return Value: 
+ Array

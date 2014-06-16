@@ -1,0 +1,15 @@
+addWeaponCargo 
+Behavior: global 
+Game: Operation Flashpoint (1.00) 
+Description: Add weapons to the cargo space of vehicles, which can be taken out by infantry 
+ units. Once the weapon cargo space is filled up, any further addWeaponCargo 
+ commands are ignored.  
+Syntax:  
+ vehicleName addWeaponCargo [weaponName, count] 
+Parameters: 
+vehicleName: Object - vehicle to add the weapons to 
+[weaponName, count]: Array 
+weaponName: String - weapon name. See the topic Category:Weapons for reference about possible values. 
+count: Number - number of weapons to add. 
+Return Value: 
+ Nothing

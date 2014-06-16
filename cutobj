@@ -1,0 +1,14 @@
+cutObj 
+Game: Operation Flashpoint (1.00) 
+Description: Display an object defined in the mission's description.ext, the campaign 
+'s description.ext or the global resource.cpp.  
+Syntax:  
+ (layer) cutObj [name, type, (speed)] 
+Parameters: 
+layer: Number - This parameter is optional and only available in Arma 2. Omit it for earlier versions. It defines the layer in which the effect is shown, where 0 is the back most. 
+[name, type, speed]: Array 
+name: String - the className of the object 
+type: String - one of "PLAIN", "PLAIN DOWN", "BLACK", "BLACK FADED", "BLACK OUT", "BLACK IN", "WHITE OUT" and "WHITE IN". See Title Effect Types for more information about these values. 
+speed: Number - This value is optional, time is seconds, in which the object will be faded in. If no speed is given, 1 is assumed. 
+Return Value: 
+ Nothing

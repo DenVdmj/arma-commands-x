@@ -1,0 +1,9 @@
+speed 
+Game: Operation Flashpoint (1.00) 
+Description: Object speed (in km/h).  
+Syntax:  
+ Number = speed object 
+Parameters: 
+object: Object 
+Return Value: 
+ Number

@@ -1,0 +1,18 @@
+setVelocityTransformation 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Interpolate and sets vectors.  
+Syntax:  
+ objectName setVelocityTransformation [position1, position2, velocity1, velocity2, direction1, direction2, up1, up2, time] 
+Parameters: 
+objectName: Object 
+position1: Number 
+position2: Number 
+velocity1: Number 
+velocity2: Number 
+direction1: Number 
+direction2: Number 
+up1: Number 
+up2: Number 
+time: Number 
+Return Value: 
+ Nothing

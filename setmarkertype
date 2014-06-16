@@ -1,0 +1,12 @@
+setMarkerType 
+Game: Operation Flashpoint (1.00) 
+Description: Set marker type. See cfgMarkers for a list of standard markers. 
+ 
+ 
+Syntax:  
+ markerName setMarkerType type 
+Parameters: 
+markerName: String 
+type: String. See cfgMarkers. 
+Return Value: 
+ Nothing

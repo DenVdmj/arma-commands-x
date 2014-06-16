@@ -1,0 +1,13 @@
+setWaypointPosition 
+Game: Armed Assault (1.00) 
+Description: Moves the waypoint to a random position in a circle with the given 
+ center and radius.  
+Syntax:  
+ waypoint setWaypointPosition [center, radius] 
+Parameters: 
+waypoint: Array - format Waypoint 
+[center, radius]: Array 
+center: Array - format Position 
+radius: Number meters 
+Return Value: 
+ Nothing

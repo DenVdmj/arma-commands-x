@@ -1,0 +1,11 @@
+loadIdentity 
+Game: Operation Flashpoint: Resistance (1.75) 
+Description: Loads person's identity from Objects.sav file in campaign directory 
+ (from entry name).  
+Syntax:  
+ person loadIdentity name 
+Parameters: 
+person: Object 
+name: String 
+Return Value: 
+ Boolean

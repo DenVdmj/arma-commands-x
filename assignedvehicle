@@ -1,0 +1,11 @@
+assignedVehicle 
+Behavior: local 
+Game: Armed Assault (1.05) 
+Description: Return the vehicle a unit is assigned to. 
+If no vehicle is assigned objNull is returned.  
+Syntax:  
+ Object = assignedVehicle unitName 
+Parameters: 
+unitName: Object 
+Return Value: 
+ Object

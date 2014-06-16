@@ -1,0 +1,15 @@
+addPublicVariableEventHandler 
+Behavior: global 
+Game: Armed Assault (1.09) 
+Description: If the EH detects a change via publicVariable on the given variable 
+, code will be executed. 
+The following arguments are transferred to the code:  
+_this select 0: variable name 
+_this select 1: new variable value 
+Syntax:  
+ varName addPublicVariableEventHandler code 
+Parameters: 
+varName: String 
+code: Code 
+Return Value: 
+ Nothing

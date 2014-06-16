@@ -1,0 +1,14 @@
+ctrlShow 
+Behavior: local 
+Game: Operation Flashpoint (1.5) 
+Description: Set if a control of the currently active user dialog is shown or not. 
+Read Dialog Control for more information about user dialogs and controls 
+.  
+Syntax:  
+ ctrlShow [idc, show] 
+Parameters: 
+[idc, show]: Array 
+idc: Integer - control ID 
+show: Boolean - true if the control should be shown, false if not 
+Return Value: 
+ Nothing

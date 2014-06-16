@@ -1,0 +1,16 @@
+removeMagazinesTurret 
+Behavior: local 
+Game: ArmA 2: Operation Arrowhead (1.52) 
+Description: Removes all magazines of the given type from the unit. Use turret 
+ path [-1] for driver's turret.  
+Note: you may create invalid combinations by using this function 
+. When doing so, application behaviour is undefined.  
+Syntax:  
+ vehicle removeMagazinesTurret [magazineName, turretPath] 
+Parameters: 
+vehicle: Object 
+[weaponName, turretPath]: Array 
+magazineName: String 
+turretPath: Array 
+Return Value: 
+ Nothing

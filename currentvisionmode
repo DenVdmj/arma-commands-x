@@ -1,0 +1,11 @@
+currentVisionMode 
+Behavior: global 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: Returns current vision mode of unit's weapon. 0 - daytime 1 - night 
+ vision 2 - FLIR  
+Syntax:  
+ currentVisionMode unit 
+Parameters: 
+unit: Object 
+Return Value: 
+ Number

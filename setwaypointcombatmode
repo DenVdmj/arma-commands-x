@@ -1,0 +1,14 @@
+setWaypointCombatMode 
+Game: Armed Assault (1.00) 
+Description: The group combat mode is switched when the waypoint becomes active 
+. 
+Possible mode values are: "NO CHANGE" (No change) "BLUE" (Never fire 
+) "GREEN" (Hold fire - defend only) "WHITE" (Hold fire, engage at will 
+) "YELLOW" (Fire at will) "RED" (Fire at will, engage at will) 
+Syntax:  
+ waypoint setWaypointCombatMode mode 
+Parameters: 
+waypoint: Array - format Waypoint 
+mode: String 
+Return Value: 
+ Nothing

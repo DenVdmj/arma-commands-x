@@ -1,0 +1,15 @@
+getHideFrom 
+Game: Armed Assault (1.00) 
+Description: Returns the Position where object believes the enemy to be, presumably 
+ by extrapolating the expected postion based on the last known position 
+ and speed of the enemy. A returned position of [0,0,0] implies that 
+ object does not knowAbout enemy. 
+If enemy is null it is some position in front of the object or enemy 
+ position.  
+Syntax:  
+ Array = object getHideFrom enemy 
+Parameters: 
+object: Object 
+enemy: Object 
+Return Value: 
+ Array - format Position

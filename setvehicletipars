@@ -1,0 +1,11 @@
+setVehicleTiPars 
+Game: ArmA 2: Operation Arrowhead (1.51) 
+Description: RSet ti parameters for spécified vehicle, pars: engine/body, tracks 
+/wheels, main gun.  
+Syntax:  
+ vehicleName setVehicleTiPars [pars] 
+Parameters: 
+vehicleName: Object 
+pars: Array 
+Return Value: 
+ Nothing

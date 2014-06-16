@@ -1,0 +1,13 @@
+lineIntersects 
+Game: ArmA 2: Operation Arrowhead (1.62) 
+Description: Checks for object intersection with a virtual line between two positions 
+. Returns true if intersects with an object.  
+Syntax:  
+ lineIntersects [begPos, endPos, objIgnore1, objIgnore2] 
+Parameters: 
+begPos: PositionASL 
+endPos: PositionASL 
+objIgnore1: (optional) Object - object to ignore. When testing intersection from an object/unit/vehicle, pass that object here to prevent intersection inside of the object. 
+objIgnore2: (optional) Object - another object to ignore. When testing intersection of a line between two objects, pass the second object here to prevent interesection inside of it being reported 
+Return Value: 
+ Boolean - true if intersection

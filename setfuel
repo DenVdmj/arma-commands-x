@@ -1,0 +1,11 @@
+setFuel 
+Behavior: local 
+Game: Operation Flashpoint (1.00) 
+Description: Set fuel percentage from 0 (empty) to 1 (full).  
+Syntax:  
+ vehicle setFuel amount 
+Parameters: 
+vehicle: Object 
+amount: Number 
+Return Value: 
+ Nothing

@@ -1,0 +1,10 @@
+activateAddons 
+Game: Armed Assault (1.00) 
+Description: Activates the listed addons. The list of active addons is initialized 
+ during this function.  
+Syntax:  
+ activateAddons [addon1,...] 
+Parameters: 
+[addon1,...]: Array 
+Return Value: 
+ Nothing

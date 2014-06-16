@@ -1,0 +1,11 @@
+ctrlSetAutoScrollSpeed 
+Game: ARMA 2  (1.00) 
+Description: Sets number of second required to scroll to next line. If speed smaller 
+ than 0,auto-scroll is disabled.  
+Syntax:  
+ control ctrlSetAutoScrollSpeed speed 
+Parameters: 
+control: Control - 
+speed: Number - 
+Return Value: 
+ Nothing

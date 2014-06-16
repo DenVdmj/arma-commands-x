@@ -1,0 +1,9 @@
+needReload 
+Game: Armed Assault (1.00) 
+Description: Return how much vehicle wants to reload its weapons.  
+Syntax:  
+ Number =  needReload vehicle 
+Parameters: 
+vehicle: Object 
+Return Value: 
+ Number

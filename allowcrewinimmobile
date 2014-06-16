@@ -1,0 +1,10 @@
+allowCrewInImmobile 
+Game: ArmA 2: Operation Arrowhead (1.60) 
+Description: If true, units can be in a vehicle with broken tracks/wheels.  
+Syntax:  
+ vehicle allowCrewInImmobile bool 
+Parameters: 
+vehicle: Object 
+bool: Boolean 
+Return Value: 
+ Nothing

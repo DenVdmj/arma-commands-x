@@ -1,0 +1,7 @@
+campaignConfigFile 
+Game: Armed Assault (1.00) 
+Description: Return root of campaign description.ext entries hierarchy.  
+Syntax:  
+ Config = campaignConfigFile 
+Return Value: 
+ Config

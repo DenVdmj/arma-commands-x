@@ -1,0 +1,10 @@
+turretUnit 
+Game: ARMA 2  (1.00) 
+Description: Returns the unit in the vehicle turret.   
+Syntax:  
+ vehicle turretUnit turretpath 
+Parameters: 
+vehicle: Object 
+turretpath: Array 
+Return Value: 
+ Object

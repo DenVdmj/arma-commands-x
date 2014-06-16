@@ -1,0 +1,12 @@
+setMarkerSize 
+Game: Operation Flashpoint (1.21) 
+Description: Set marker size.Size is in format [a-axis, b-axis].  
+Syntax:  
+ markerName setMarkerSize [a-axis, b-axis] 
+Parameters: 
+markerName: String 
+[a-axis, b-axis]: Array 
+a-axis: Number. width of marker 
+b-axis: Number. height of marker 
+Return Value: 
+ Nothing

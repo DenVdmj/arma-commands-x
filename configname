@@ -1,0 +1,9 @@
+configName 
+Game: Armed Assault (1.00) 
+Description: Returns name of config entry.  
+Syntax:  
+ String = configName config 
+Parameters: 
+config: Config 
+Return Value: 
+ String

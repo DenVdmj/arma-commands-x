@@ -1,0 +1,15 @@
+setFriend 
+Game: Armed Assault (1.00) 
+Description: Sets how friendly side1 is with side2. For a value smaller than 0.6 it results 
+ in being enemy, otherwise it's friendly. 
+Intended to be used on mission start. Changing value during mission 
+ can cause unexpected errors in AI behavior.  
+Syntax:  
+ side1 setFriend [side2 , value] 
+Parameters: 
+side1: Side 
+[side2 , value]: Array 
+side2: Side 
+value: Number 
+Return Value: 
+ Nothing
